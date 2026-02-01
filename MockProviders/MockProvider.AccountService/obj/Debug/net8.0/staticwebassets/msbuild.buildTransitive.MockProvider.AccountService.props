@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/MockProvider.AccountService.props" />
-</Project>

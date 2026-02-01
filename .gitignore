@@ -1,0 +1,36 @@
+# --- Build Outputs ---
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+TestResults/
+
+# --- VS Code & IDEs ---
+.vscode/
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+
+# --- Testing & Coverage ---
+*.out
+*.log
+_coverages/
+coverage/
+*.codecoverage
+*.StackTrace
+
+# --- OS Junk ---
+.DS_Store
+Thumbs.db
+
+# --- Logs ---
+*.log
+logs/
+*.eventlog
+*.tlog
+
+# --- Secrets/Local Config ---
+.env
+*.dev.json
+appsettings.Development.json

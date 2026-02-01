@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/TransactionAggregation.Api.props" />
-</Project>
