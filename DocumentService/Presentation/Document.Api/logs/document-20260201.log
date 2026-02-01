@@ -1,0 +1,1620 @@
+[2026-02-01 10:49:33.531 +02:00 INF] [] Starting application...
+[2026-02-01 10:50:06.819 +02:00 INF] [] Database initialized
+[2026-02-01 10:50:07.494 +02:00 INF] [] Registered PDF template for "TransactionStatement"
+[2026-02-01 10:50:07.863 +02:00 INF] [] Registered 1 PDF template(s)
+[2026-02-01 10:50:07.990 +02:00 INF] [] Document storage directory: /Users/fiskani/Documents/Interview/Capitec/DocumentService/Presentation/Document.Api/wwwroot/documents
+[2026-02-01 10:50:08.760 +02:00 INF] [] Document Service starting up...
+[2026-02-01 10:50:09.490 +02:00 INF] [] Initializing UI Database
+[2026-02-01 10:50:15.369 +02:00 INF] [] Saving healthchecks configuration to database
+[2026-02-01 10:50:20.982 +02:00 INF] [] Now listening on: http://localhost:5085
+[2026-02-01 10:50:23.502 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 10:50:23.820 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 10:50:24.359 +02:00 INF] [] Application started. Press Ctrl+C to shut down.
+[2026-02-01 10:50:24.359 +02:00 INF] [] Hosting environment: Development
+[2026-02-01 10:50:24.360 +02:00 INF] [] Content root path: /Users/fiskani/Documents/Interview/Capitec/DocumentService/Presentation/Document.Api
+[2026-02-01 10:50:27.292 +02:00 INF] [848885a9-ac75-4512-9f4f-a84de9bc8f9c] HTTP GET /health started
+[2026-02-01 10:50:27.493 +02:00 INF] [848885a9-ac75-4512-9f4f-a84de9bc8f9c] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 10:50:27.606 +02:00 INF] [848885a9-ac75-4512-9f4f-a84de9bc8f9c] Deleted file: healthcheck/test.txt
+[2026-02-01 10:50:29.097 +02:00 INF] [] Received HTTP response headers after 5263.0756ms - 200
+[2026-02-01 10:50:29.124 +02:00 INF] [] End processing HTTP request after 5842.3427ms - 200
+[2026-02-01 10:50:28.786 +02:00 INF] [848885a9-ac75-4512-9f4f-a84de9bc8f9c] HTTP GET /health responded 200 in 1495.4284 ms
+[2026-02-01 10:51:07.227 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 10:51:07.229 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 10:51:07.420 +02:00 INF] [77fc7730-b3ab-4033-a1c4-74f7ec1de78a] HTTP GET /health started
+[2026-02-01 10:51:07.432 +02:00 INF] [77fc7730-b3ab-4033-a1c4-74f7ec1de78a] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 10:51:07.451 +02:00 INF] [77fc7730-b3ab-4033-a1c4-74f7ec1de78a] Deleted file: healthcheck/test.txt
+[2026-02-01 10:51:07.798 +02:00 INF] [77fc7730-b3ab-4033-a1c4-74f7ec1de78a] HTTP GET /health responded 200 in 378.4516 ms
+[2026-02-01 10:51:07.801 +02:00 INF] [] Received HTTP response headers after 570.8469ms - 200
+[2026-02-01 10:51:07.801 +02:00 INF] [] End processing HTTP request after 576.9344ms - 200
+[2026-02-01 10:51:37.851 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 10:51:37.852 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 10:51:38.009 +02:00 INF] [e90f4c30-aac0-421d-bb9c-ce66477e9e9e] HTTP GET /health started
+[2026-02-01 10:51:38.037 +02:00 INF] [e90f4c30-aac0-421d-bb9c-ce66477e9e9e] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 10:51:38.049 +02:00 INF] [e90f4c30-aac0-421d-bb9c-ce66477e9e9e] Deleted file: healthcheck/test.txt
+[2026-02-01 10:51:38.050 +02:00 INF] [e90f4c30-aac0-421d-bb9c-ce66477e9e9e] HTTP GET /health responded 200 in 40.6009 ms
+[2026-02-01 10:51:38.050 +02:00 INF] [] Received HTTP response headers after 198.0508ms - 200
+[2026-02-01 10:51:38.050 +02:00 INF] [] End processing HTTP request after 199.1246ms - 200
+[2026-02-01 10:52:08.064 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 10:52:08.065 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 10:52:08.135 +02:00 INF] [21a73570-8396-4e01-8811-b106d9e3e159] HTTP GET /health started
+[2026-02-01 10:52:08.160 +02:00 INF] [21a73570-8396-4e01-8811-b106d9e3e159] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 10:52:08.368 +02:00 INF] [21a73570-8396-4e01-8811-b106d9e3e159] Deleted file: healthcheck/test.txt
+[2026-02-01 10:52:08.370 +02:00 INF] [21a73570-8396-4e01-8811-b106d9e3e159] HTTP GET /health responded 200 in 235.0323 ms
+[2026-02-01 10:52:08.371 +02:00 INF] [] Received HTTP response headers after 305.6388ms - 200
+[2026-02-01 10:52:08.373 +02:00 INF] [] End processing HTTP request after 308.8895ms - 200
+[2026-02-01 10:52:38.385 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 10:52:38.385 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 10:52:38.536 +02:00 INF] [cea27b67-e326-4136-aa24-1847ab38e22b] HTTP GET /health started
+[2026-02-01 10:52:38.537 +02:00 INF] [cea27b67-e326-4136-aa24-1847ab38e22b] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 10:52:38.549 +02:00 INF] [cea27b67-e326-4136-aa24-1847ab38e22b] Deleted file: healthcheck/test.txt
+[2026-02-01 10:52:38.552 +02:00 INF] [cea27b67-e326-4136-aa24-1847ab38e22b] HTTP GET /health responded 200 in 14.3807 ms
+[2026-02-01 10:52:38.555 +02:00 INF] [] Received HTTP response headers after 169.383ms - 200
+[2026-02-01 10:52:38.555 +02:00 INF] [] End processing HTTP request after 170.1941ms - 200
+[2026-02-01 10:53:08.561 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 10:53:08.563 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 10:53:08.641 +02:00 INF] [3c4f5210-4dea-4aad-a3da-ba9abb9135c4] HTTP GET /health started
+[2026-02-01 10:53:08.644 +02:00 INF] [3c4f5210-4dea-4aad-a3da-ba9abb9135c4] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 10:53:08.682 +02:00 INF] [3c4f5210-4dea-4aad-a3da-ba9abb9135c4] Deleted file: healthcheck/test.txt
+[2026-02-01 10:53:08.683 +02:00 INF] [3c4f5210-4dea-4aad-a3da-ba9abb9135c4] HTTP GET /health responded 200 in 41.8063 ms
+[2026-02-01 10:53:08.684 +02:00 INF] [] Received HTTP response headers after 120.2485ms - 200
+[2026-02-01 10:53:08.684 +02:00 INF] [] End processing HTTP request after 123.2434ms - 200
+[2026-02-01 10:53:38.691 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 10:53:38.693 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 10:53:38.696 +02:00 INF] [11119e13-5c84-4391-b9b3-5519755e6eab] HTTP GET /health started
+[2026-02-01 10:53:38.774 +02:00 INF] [11119e13-5c84-4391-b9b3-5519755e6eab] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 10:53:38.815 +02:00 INF] [11119e13-5c84-4391-b9b3-5519755e6eab] Deleted file: healthcheck/test.txt
+[2026-02-01 10:53:38.817 +02:00 INF] [11119e13-5c84-4391-b9b3-5519755e6eab] HTTP GET /health responded 200 in 120.1080 ms
+[2026-02-01 10:53:38.817 +02:00 INF] [] Received HTTP response headers after 123.8699ms - 200
+[2026-02-01 10:53:38.819 +02:00 INF] [] End processing HTTP request after 127.5069ms - 200
+[2026-02-01 10:54:08.826 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 10:54:08.828 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 10:54:08.925 +02:00 INF] [bcf3221d-7cec-4d8a-bba4-2a2e6c18ed30] HTTP GET /health started
+[2026-02-01 10:54:08.952 +02:00 INF] [bcf3221d-7cec-4d8a-bba4-2a2e6c18ed30] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 10:54:08.959 +02:00 INF] [bcf3221d-7cec-4d8a-bba4-2a2e6c18ed30] Deleted file: healthcheck/test.txt
+[2026-02-01 10:54:08.962 +02:00 INF] [bcf3221d-7cec-4d8a-bba4-2a2e6c18ed30] HTTP GET /health responded 200 in 36.4858 ms
+[2026-02-01 10:54:08.963 +02:00 INF] [] Received HTTP response headers after 134.4855ms - 200
+[2026-02-01 10:54:08.963 +02:00 INF] [] End processing HTTP request after 136.8711ms - 200
+[2026-02-01 10:54:38.973 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 10:54:38.974 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 10:54:39.063 +02:00 INF] [ffa25b07-f28a-42e6-958a-19a0ada07c20] HTTP GET /health started
+[2026-02-01 10:54:39.073 +02:00 INF] [ffa25b07-f28a-42e6-958a-19a0ada07c20] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 10:54:39.138 +02:00 INF] [ffa25b07-f28a-42e6-958a-19a0ada07c20] Deleted file: healthcheck/test.txt
+[2026-02-01 10:54:39.139 +02:00 INF] [ffa25b07-f28a-42e6-958a-19a0ada07c20] HTTP GET /health responded 200 in 76.2364 ms
+[2026-02-01 10:54:39.140 +02:00 INF] [] Received HTTP response headers after 164.9167ms - 200
+[2026-02-01 10:54:39.141 +02:00 INF] [] End processing HTTP request after 168.2065ms - 200
+[2026-02-01 10:55:09.148 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 10:55:09.150 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 10:55:09.199 +02:00 INF] [17299040-3bd8-46c7-8536-dc8a882abd6d] HTTP GET /health started
+[2026-02-01 10:55:09.242 +02:00 INF] [17299040-3bd8-46c7-8536-dc8a882abd6d] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 10:55:09.317 +02:00 INF] [17299040-3bd8-46c7-8536-dc8a882abd6d] Deleted file: healthcheck/test.txt
+[2026-02-01 10:55:09.317 +02:00 INF] [17299040-3bd8-46c7-8536-dc8a882abd6d] HTTP GET /health responded 200 in 118.6703 ms
+[2026-02-01 10:55:09.319 +02:00 INF] [] Received HTTP response headers after 168.0953ms - 200
+[2026-02-01 10:55:09.319 +02:00 INF] [] End processing HTTP request after 170.5521ms - 200
+[2026-02-01 10:55:39.328 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 10:55:39.330 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 10:55:39.378 +02:00 INF] [3d2749c8-360b-47a3-96ca-998fabdff8c2] HTTP GET /health started
+[2026-02-01 10:55:39.387 +02:00 INF] [3d2749c8-360b-47a3-96ca-998fabdff8c2] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 10:55:39.414 +02:00 INF] [3d2749c8-360b-47a3-96ca-998fabdff8c2] Deleted file: healthcheck/test.txt
+[2026-02-01 10:55:39.414 +02:00 INF] [3d2749c8-360b-47a3-96ca-998fabdff8c2] HTTP GET /health responded 200 in 36.4086 ms
+[2026-02-01 10:55:39.417 +02:00 INF] [] Received HTTP response headers after 87.2914ms - 200
+[2026-02-01 10:55:39.418 +02:00 INF] [] End processing HTTP request after 89.6405ms - 200
+[2026-02-01 10:56:09.426 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 10:56:09.428 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 10:56:09.474 +02:00 INF] [429623cd-4ec6-4ab9-98fd-126747ae7803] HTTP GET /health started
+[2026-02-01 10:56:09.483 +02:00 INF] [429623cd-4ec6-4ab9-98fd-126747ae7803] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 10:56:09.525 +02:00 INF] [429623cd-4ec6-4ab9-98fd-126747ae7803] Deleted file: healthcheck/test.txt
+[2026-02-01 10:56:09.527 +02:00 INF] [429623cd-4ec6-4ab9-98fd-126747ae7803] HTTP GET /health responded 200 in 53.0438 ms
+[2026-02-01 10:56:09.529 +02:00 INF] [] Received HTTP response headers after 100.464ms - 200
+[2026-02-01 10:56:09.530 +02:00 INF] [] End processing HTTP request after 103.7058ms - 200
+[2026-02-01 10:56:39.556 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 10:56:39.558 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 10:56:39.679 +02:00 INF] [db1c163d-576b-45f9-852a-c14e211ac252] HTTP GET /health started
+[2026-02-01 10:56:39.679 +02:00 INF] [db1c163d-576b-45f9-852a-c14e211ac252] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 10:56:39.752 +02:00 INF] [db1c163d-576b-45f9-852a-c14e211ac252] Deleted file: healthcheck/test.txt
+[2026-02-01 10:56:39.757 +02:00 INF] [db1c163d-576b-45f9-852a-c14e211ac252] HTTP GET /health responded 200 in 78.2884 ms
+[2026-02-01 10:56:39.758 +02:00 INF] [] Received HTTP response headers after 199.4813ms - 200
+[2026-02-01 10:56:39.759 +02:00 INF] [] End processing HTTP request after 201.6746ms - 200
+[2026-02-01 10:57:09.765 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 10:57:09.766 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 10:57:09.811 +02:00 INF] [6b94dd07-20e6-4bce-a197-05e65205c28e] HTTP GET /health started
+[2026-02-01 10:57:09.919 +02:00 INF] [6b94dd07-20e6-4bce-a197-05e65205c28e] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 10:57:09.940 +02:00 INF] [6b94dd07-20e6-4bce-a197-05e65205c28e] Deleted file: healthcheck/test.txt
+[2026-02-01 10:57:09.941 +02:00 INF] [6b94dd07-20e6-4bce-a197-05e65205c28e] HTTP GET /health responded 200 in 129.6863 ms
+[2026-02-01 10:57:09.942 +02:00 INF] [] Received HTTP response headers after 175.306ms - 200
+[2026-02-01 10:57:09.942 +02:00 INF] [] End processing HTTP request after 177.8962ms - 200
+[2026-02-01 10:57:39.948 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 10:57:39.949 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 10:57:40.010 +02:00 INF] [df49e451-c899-49cc-a1f8-d4ba4e3c9183] HTTP GET /health started
+[2026-02-01 10:57:40.030 +02:00 INF] [df49e451-c899-49cc-a1f8-d4ba4e3c9183] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 10:57:40.088 +02:00 INF] [df49e451-c899-49cc-a1f8-d4ba4e3c9183] Deleted file: healthcheck/test.txt
+[2026-02-01 10:57:40.088 +02:00 INF] [df49e451-c899-49cc-a1f8-d4ba4e3c9183] HTTP GET /health responded 200 in 78.9219 ms
+[2026-02-01 10:57:40.090 +02:00 INF] [] Received HTTP response headers after 140.0734ms - 200
+[2026-02-01 10:57:40.090 +02:00 INF] [] End processing HTTP request after 142.5225ms - 200
+[2026-02-01 10:58:10.098 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 10:58:10.099 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 10:58:10.186 +02:00 INF] [54437cd6-d860-4769-b770-a267b7e66a56] HTTP GET /health started
+[2026-02-01 10:58:10.238 +02:00 INF] [54437cd6-d860-4769-b770-a267b7e66a56] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 10:58:10.329 +02:00 INF] [54437cd6-d860-4769-b770-a267b7e66a56] Deleted file: healthcheck/test.txt
+[2026-02-01 10:58:10.329 +02:00 INF] [54437cd6-d860-4769-b770-a267b7e66a56] HTTP GET /health responded 200 in 142.7814 ms
+[2026-02-01 10:58:10.347 +02:00 INF] [] Received HTTP response headers after 247.8657ms - 200
+[2026-02-01 10:58:10.347 +02:00 INF] [] End processing HTTP request after 248.859ms - 200
+[2026-02-01 10:58:40.365 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 10:58:40.366 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 10:58:40.438 +02:00 INF] [2bb054cb-11ac-475c-9666-e536764b701d] HTTP GET /health started
+[2026-02-01 10:58:40.440 +02:00 INF] [2bb054cb-11ac-475c-9666-e536764b701d] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 10:58:40.472 +02:00 INF] [2bb054cb-11ac-475c-9666-e536764b701d] Deleted file: healthcheck/test.txt
+[2026-02-01 10:58:40.476 +02:00 INF] [2bb054cb-11ac-475c-9666-e536764b701d] HTTP GET /health responded 200 in 37.7490 ms
+[2026-02-01 10:58:40.476 +02:00 INF] [] Received HTTP response headers after 109.4935ms - 200
+[2026-02-01 10:58:40.476 +02:00 INF] [] End processing HTTP request after 111.4775ms - 200
+[2026-02-01 10:59:10.480 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 10:59:10.481 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 10:59:10.550 +02:00 INF] [622151e9-beef-495d-b8eb-9da2ea433701] HTTP GET /health started
+[2026-02-01 10:59:10.622 +02:00 INF] [622151e9-beef-495d-b8eb-9da2ea433701] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 10:59:10.655 +02:00 INF] [622151e9-beef-495d-b8eb-9da2ea433701] Deleted file: healthcheck/test.txt
+[2026-02-01 10:59:10.656 +02:00 INF] [622151e9-beef-495d-b8eb-9da2ea433701] HTTP GET /health responded 200 in 105.8844 ms
+[2026-02-01 10:59:10.657 +02:00 INF] [] Received HTTP response headers after 176.3411ms - 200
+[2026-02-01 10:59:10.659 +02:00 INF] [] End processing HTTP request after 178.9175ms - 200
+[2026-02-01 10:59:40.665 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 10:59:40.667 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 10:59:40.697 +02:00 INF] [7bc82020-28f6-44ff-9ee5-fd5968793b7e] HTTP GET /health started
+[2026-02-01 10:59:40.730 +02:00 INF] [7bc82020-28f6-44ff-9ee5-fd5968793b7e] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 10:59:40.737 +02:00 INF] [7bc82020-28f6-44ff-9ee5-fd5968793b7e] Deleted file: healthcheck/test.txt
+[2026-02-01 10:59:40.737 +02:00 INF] [7bc82020-28f6-44ff-9ee5-fd5968793b7e] HTTP GET /health responded 200 in 39.9591 ms
+[2026-02-01 10:59:40.740 +02:00 INF] [] Received HTTP response headers after 72.433ms - 200
+[2026-02-01 10:59:40.743 +02:00 INF] [] End processing HTTP request after 77.2481ms - 200
+[2026-02-01 11:00:10.745 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:00:10.747 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:00:10.778 +02:00 INF] [c181b19a-746d-4157-8649-74aa63d79fc8] HTTP GET /health started
+[2026-02-01 11:00:10.849 +02:00 INF] [c181b19a-746d-4157-8649-74aa63d79fc8] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:00:10.866 +02:00 INF] [c181b19a-746d-4157-8649-74aa63d79fc8] Deleted file: healthcheck/test.txt
+[2026-02-01 11:00:10.867 +02:00 INF] [c181b19a-746d-4157-8649-74aa63d79fc8] HTTP GET /health responded 200 in 88.3843 ms
+[2026-02-01 11:00:10.867 +02:00 INF] [] Received HTTP response headers after 120.2696ms - 200
+[2026-02-01 11:00:10.867 +02:00 INF] [] End processing HTTP request after 121.7184ms - 200
+[2026-02-01 11:00:40.873 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:00:40.874 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:00:40.995 +02:00 INF] [11d36dec-52ab-4561-9ced-c7e92e159bcb] HTTP GET /health started
+[2026-02-01 11:00:41.031 +02:00 INF] [11d36dec-52ab-4561-9ced-c7e92e159bcb] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:00:41.107 +02:00 INF] [11d36dec-52ab-4561-9ced-c7e92e159bcb] Deleted file: healthcheck/test.txt
+[2026-02-01 11:00:41.108 +02:00 INF] [11d36dec-52ab-4561-9ced-c7e92e159bcb] HTTP GET /health responded 200 in 112.5662 ms
+[2026-02-01 11:00:41.116 +02:00 INF] [] Received HTTP response headers after 241.4306ms - 200
+[2026-02-01 11:00:41.117 +02:00 INF] [] End processing HTTP request after 243.3004ms - 200
+[2026-02-01 11:01:11.122 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:01:11.125 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:01:11.236 +02:00 INF] [aa7151dc-ec53-43a7-9a8e-65b27891f720] HTTP GET /health started
+[2026-02-01 11:01:11.289 +02:00 INF] [aa7151dc-ec53-43a7-9a8e-65b27891f720] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:01:11.488 +02:00 INF] [aa7151dc-ec53-43a7-9a8e-65b27891f720] Deleted file: healthcheck/test.txt
+[2026-02-01 11:01:11.489 +02:00 INF] [aa7151dc-ec53-43a7-9a8e-65b27891f720] HTTP GET /health responded 200 in 252.4557 ms
+[2026-02-01 11:01:11.489 +02:00 INF] [] Received HTTP response headers after 363.9323ms - 200
+[2026-02-01 11:01:11.490 +02:00 INF] [] End processing HTTP request after 367.5732ms - 200
+[2026-02-01 11:01:41.495 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:01:41.497 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:01:41.555 +02:00 INF] [4e777ba9-50af-48b2-b690-af8dd4875eb4] HTTP GET /health started
+[2026-02-01 11:01:41.620 +02:00 INF] [4e777ba9-50af-48b2-b690-af8dd4875eb4] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:01:41.649 +02:00 INF] [4e777ba9-50af-48b2-b690-af8dd4875eb4] Deleted file: healthcheck/test.txt
+[2026-02-01 11:01:41.649 +02:00 INF] [4e777ba9-50af-48b2-b690-af8dd4875eb4] HTTP GET /health responded 200 in 94.4402 ms
+[2026-02-01 11:01:41.650 +02:00 INF] [] Received HTTP response headers after 152.7877ms - 200
+[2026-02-01 11:01:41.650 +02:00 INF] [] End processing HTTP request after 154.994ms - 200
+[2026-02-01 11:02:11.656 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:02:11.656 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:02:11.740 +02:00 INF] [ea15eac1-cbbf-4c0f-9635-0b3d480350cf] HTTP GET /health started
+[2026-02-01 11:02:11.800 +02:00 INF] [ea15eac1-cbbf-4c0f-9635-0b3d480350cf] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:02:11.816 +02:00 INF] [ea15eac1-cbbf-4c0f-9635-0b3d480350cf] Deleted file: healthcheck/test.txt
+[2026-02-01 11:02:11.817 +02:00 INF] [ea15eac1-cbbf-4c0f-9635-0b3d480350cf] HTTP GET /health responded 200 in 76.3314 ms
+[2026-02-01 11:02:11.817 +02:00 INF] [] Received HTTP response headers after 160.8135ms - 200
+[2026-02-01 11:02:11.818 +02:00 INF] [] End processing HTTP request after 161.8197ms - 200
+[2026-02-01 11:02:41.826 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:02:41.827 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:02:41.938 +02:00 INF] [ff725149-ee6a-447b-b0cd-891df41562e8] HTTP GET /health started
+[2026-02-01 11:02:41.967 +02:00 INF] [ff725149-ee6a-447b-b0cd-891df41562e8] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:02:42.001 +02:00 INF] [ff725149-ee6a-447b-b0cd-891df41562e8] Deleted file: healthcheck/test.txt
+[2026-02-01 11:02:42.001 +02:00 INF] [ff725149-ee6a-447b-b0cd-891df41562e8] HTTP GET /health responded 200 in 63.1049 ms
+[2026-02-01 11:02:42.004 +02:00 INF] [] Received HTTP response headers after 176.6416ms - 200
+[2026-02-01 11:02:42.005 +02:00 INF] [] End processing HTTP request after 178.5477ms - 200
+[2026-02-01 11:05:39.515 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:05:39.517 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:05:39.534 +02:00 INF] [41df5832-0b8d-4dd8-9372-3d3609f75488] HTTP GET /health started
+[2026-02-01 11:05:39.602 +02:00 INF] [41df5832-0b8d-4dd8-9372-3d3609f75488] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:05:39.665 +02:00 INF] [41df5832-0b8d-4dd8-9372-3d3609f75488] Deleted file: healthcheck/test.txt
+[2026-02-01 11:05:39.667 +02:00 INF] [41df5832-0b8d-4dd8-9372-3d3609f75488] HTTP GET /health responded 200 in 133.4521 ms
+[2026-02-01 11:05:39.668 +02:00 INF] [] Received HTTP response headers after 150.1648ms - 200
+[2026-02-01 11:05:39.668 +02:00 INF] [] End processing HTTP request after 154.1831ms - 200
+[2026-02-01 11:06:11.206 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:06:11.207 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:06:11.211 +02:00 INF] [85967be4-3808-4f56-aac4-a5490b73b815] HTTP GET /health started
+[2026-02-01 11:06:11.214 +02:00 INF] [85967be4-3808-4f56-aac4-a5490b73b815] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:06:11.241 +02:00 INF] [85967be4-3808-4f56-aac4-a5490b73b815] Deleted file: healthcheck/test.txt
+[2026-02-01 11:06:11.243 +02:00 INF] [85967be4-3808-4f56-aac4-a5490b73b815] HTTP GET /health responded 200 in 32.1160 ms
+[2026-02-01 11:06:11.249 +02:00 INF] [] Received HTTP response headers after 41.7943ms - 200
+[2026-02-01 11:06:11.250 +02:00 INF] [] End processing HTTP request after 43.4325ms - 200
+[2026-02-01 11:27:18.951 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:27:18.953 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:27:19.007 +02:00 INF] [9fdbbd01-86bf-4974-869a-b698f506efd1] HTTP GET /health started
+[2026-02-01 11:27:19.100 +02:00 INF] [9fdbbd01-86bf-4974-869a-b698f506efd1] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:27:19.193 +02:00 INF] [9fdbbd01-86bf-4974-869a-b698f506efd1] Deleted file: healthcheck/test.txt
+[2026-02-01 11:27:19.193 +02:00 INF] [9fdbbd01-86bf-4974-869a-b698f506efd1] HTTP GET /health responded 200 in 186.7719 ms
+[2026-02-01 11:27:19.196 +02:00 INF] [] Received HTTP response headers after 242.6737ms - 200
+[2026-02-01 11:27:19.199 +02:00 INF] [] End processing HTTP request after 247.228ms - 200
+[2026-02-01 11:27:49.203 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:27:49.207 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:27:49.376 +02:00 INF] [e80aa0c0-e024-4298-8d01-95a8c5b5ede2] HTTP GET /health started
+[2026-02-01 11:27:49.378 +02:00 INF] [e80aa0c0-e024-4298-8d01-95a8c5b5ede2] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:27:49.411 +02:00 INF] [e80aa0c0-e024-4298-8d01-95a8c5b5ede2] Deleted file: healthcheck/test.txt
+[2026-02-01 11:27:49.448 +02:00 INF] [e80aa0c0-e024-4298-8d01-95a8c5b5ede2] HTTP GET /health responded 200 in 71.9229 ms
+[2026-02-01 11:27:49.449 +02:00 INF] [] Received HTTP response headers after 241.8701ms - 200
+[2026-02-01 11:27:49.449 +02:00 INF] [] End processing HTTP request after 246.2533ms - 200
+[2026-02-01 11:28:19.462 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:28:19.464 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:28:19.621 +02:00 INF] [cd993145-ea57-4e96-9d79-8ed2e0e425d6] HTTP GET /health started
+[2026-02-01 11:28:19.645 +02:00 INF] [cd993145-ea57-4e96-9d79-8ed2e0e425d6] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:28:19.680 +02:00 INF] [cd993145-ea57-4e96-9d79-8ed2e0e425d6] Deleted file: healthcheck/test.txt
+[2026-02-01 11:28:19.699 +02:00 INF] [cd993145-ea57-4e96-9d79-8ed2e0e425d6] HTTP GET /health responded 200 in 77.3626 ms
+[2026-02-01 11:28:19.700 +02:00 INF] [] Received HTTP response headers after 235.2459ms - 200
+[2026-02-01 11:28:19.700 +02:00 INF] [] End processing HTTP request after 239.0087ms - 200
+[2026-02-01 11:28:49.713 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:28:49.715 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:28:49.766 +02:00 INF] [36ec5c17-fd55-4d44-852b-eef573256887] HTTP GET /health started
+[2026-02-01 11:28:49.770 +02:00 INF] [36ec5c17-fd55-4d44-852b-eef573256887] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:28:49.872 +02:00 INF] [36ec5c17-fd55-4d44-852b-eef573256887] Deleted file: healthcheck/test.txt
+[2026-02-01 11:28:49.877 +02:00 INF] [36ec5c17-fd55-4d44-852b-eef573256887] HTTP GET /health responded 200 in 110.2284 ms
+[2026-02-01 11:28:49.877 +02:00 INF] [] Received HTTP response headers after 161.9075ms - 200
+[2026-02-01 11:28:49.879 +02:00 INF] [] End processing HTTP request after 165.893ms - 200
+[2026-02-01 11:29:19.889 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:29:19.895 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:29:19.902 +02:00 INF] [f4a0abdb-f12b-473a-8551-61cd9ba5799a] HTTP GET /health started
+[2026-02-01 11:29:19.930 +02:00 INF] [f4a0abdb-f12b-473a-8551-61cd9ba5799a] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:29:20.111 +02:00 INF] [f4a0abdb-f12b-473a-8551-61cd9ba5799a] Deleted file: healthcheck/test.txt
+[2026-02-01 11:29:20.130 +02:00 INF] [f4a0abdb-f12b-473a-8551-61cd9ba5799a] HTTP GET /health responded 200 in 228.1263 ms
+[2026-02-01 11:29:20.132 +02:00 INF] [] Received HTTP response headers after 237.2098ms - 200
+[2026-02-01 11:29:20.133 +02:00 INF] [] End processing HTTP request after 244.4542ms - 200
+[2026-02-01 11:29:50.138 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:29:50.138 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:29:50.380 +02:00 INF] [a6bdae42-6a70-4e42-9f24-3396136412ac] HTTP GET /health started
+[2026-02-01 11:29:50.381 +02:00 INF] [a6bdae42-6a70-4e42-9f24-3396136412ac] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:29:50.438 +02:00 INF] [a6bdae42-6a70-4e42-9f24-3396136412ac] Deleted file: healthcheck/test.txt
+[2026-02-01 11:29:50.448 +02:00 INF] [a6bdae42-6a70-4e42-9f24-3396136412ac] HTTP GET /health responded 200 in 68.6244 ms
+[2026-02-01 11:29:50.453 +02:00 INF] [] Received HTTP response headers after 314.4208ms - 200
+[2026-02-01 11:29:50.453 +02:00 INF] [] End processing HTTP request after 315.2618ms - 200
+[2026-02-01 11:30:20.474 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:30:20.475 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:30:20.479 +02:00 INF] [44c349e6-152a-4ee1-82c3-3b768526bf9e] HTTP GET /health started
+[2026-02-01 11:30:20.506 +02:00 INF] [44c349e6-152a-4ee1-82c3-3b768526bf9e] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:30:20.613 +02:00 INF] [44c349e6-152a-4ee1-82c3-3b768526bf9e] Deleted file: healthcheck/test.txt
+[2026-02-01 11:30:20.614 +02:00 INF] [44c349e6-152a-4ee1-82c3-3b768526bf9e] HTTP GET /health responded 200 in 135.0114 ms
+[2026-02-01 11:30:20.615 +02:00 INF] [] Received HTTP response headers after 139.1857ms - 200
+[2026-02-01 11:30:20.615 +02:00 INF] [] End processing HTTP request after 140.8599ms - 200
+[2026-02-01 11:30:50.621 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:30:50.623 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:30:50.635 +02:00 INF] [56d2c2d8-343c-4063-95f7-d32bfd8fb3de] HTTP GET /health started
+[2026-02-01 11:30:50.795 +02:00 INF] [56d2c2d8-343c-4063-95f7-d32bfd8fb3de] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:30:50.875 +02:00 INF] [56d2c2d8-343c-4063-95f7-d32bfd8fb3de] Deleted file: healthcheck/test.txt
+[2026-02-01 11:30:50.875 +02:00 INF] [56d2c2d8-343c-4063-95f7-d32bfd8fb3de] HTTP GET /health responded 200 in 240.4715 ms
+[2026-02-01 11:30:50.886 +02:00 INF] [] Received HTTP response headers after 262.2296ms - 200
+[2026-02-01 11:30:50.891 +02:00 INF] [] End processing HTTP request after 269.6381ms - 200
+[2026-02-01 11:31:20.896 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:31:20.911 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:31:21.014 +02:00 INF] [e434ecbe-5973-4bc3-94f7-db3dafe5fa41] HTTP GET /health started
+[2026-02-01 11:31:21.017 +02:00 INF] [e434ecbe-5973-4bc3-94f7-db3dafe5fa41] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:31:21.151 +02:00 INF] [e434ecbe-5973-4bc3-94f7-db3dafe5fa41] Deleted file: healthcheck/test.txt
+[2026-02-01 11:31:21.152 +02:00 INF] [e434ecbe-5973-4bc3-94f7-db3dafe5fa41] HTTP GET /health responded 200 in 138.1582 ms
+[2026-02-01 11:31:21.153 +02:00 INF] [] Received HTTP response headers after 233.9151ms - 200
+[2026-02-01 11:31:21.155 +02:00 INF] [] End processing HTTP request after 259.6427ms - 200
+[2026-02-01 11:31:51.161 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:31:51.163 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:31:51.373 +02:00 INF] [a489a10d-ae7b-437a-8619-e3f48d61780d] HTTP GET /health started
+[2026-02-01 11:31:51.376 +02:00 INF] [a489a10d-ae7b-437a-8619-e3f48d61780d] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:31:51.383 +02:00 INF] [a489a10d-ae7b-437a-8619-e3f48d61780d] Deleted file: healthcheck/test.txt
+[2026-02-01 11:31:51.383 +02:00 INF] [a489a10d-ae7b-437a-8619-e3f48d61780d] HTTP GET /health responded 200 in 10.2793 ms
+[2026-02-01 11:31:51.386 +02:00 INF] [] Received HTTP response headers after 223.3334ms - 200
+[2026-02-01 11:31:51.386 +02:00 INF] [] End processing HTTP request after 225.572ms - 200
+[2026-02-01 11:32:21.391 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:32:21.393 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:32:21.447 +02:00 INF] [bd4a0475-b1ca-4a35-beb2-2349cc4eef99] HTTP GET /health started
+[2026-02-01 11:32:21.487 +02:00 INF] [bd4a0475-b1ca-4a35-beb2-2349cc4eef99] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:32:21.515 +02:00 INF] [bd4a0475-b1ca-4a35-beb2-2349cc4eef99] Deleted file: healthcheck/test.txt
+[2026-02-01 11:32:21.516 +02:00 INF] [bd4a0475-b1ca-4a35-beb2-2349cc4eef99] HTTP GET /health responded 200 in 68.3695 ms
+[2026-02-01 11:32:21.517 +02:00 INF] [] Received HTTP response headers after 123.8189ms - 200
+[2026-02-01 11:32:21.517 +02:00 INF] [] End processing HTTP request after 126.0667ms - 200
+[2026-02-01 11:32:51.522 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:32:51.525 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:32:51.528 +02:00 INF] [ee35c281-847f-4c97-bdbc-26954d5380b0] HTTP GET /health started
+[2026-02-01 11:32:51.553 +02:00 INF] [ee35c281-847f-4c97-bdbc-26954d5380b0] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:32:51.579 +02:00 INF] [ee35c281-847f-4c97-bdbc-26954d5380b0] Deleted file: healthcheck/test.txt
+[2026-02-01 11:32:51.579 +02:00 INF] [ee35c281-847f-4c97-bdbc-26954d5380b0] HTTP GET /health responded 200 in 51.6574 ms
+[2026-02-01 11:32:51.580 +02:00 INF] [] Received HTTP response headers after 54.5681ms - 200
+[2026-02-01 11:32:51.580 +02:00 INF] [] End processing HTTP request after 57.9626ms - 200
+[2026-02-01 11:33:21.626 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:33:21.660 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:33:21.749 +02:00 INF] [f63cdc70-9806-46c8-9b2a-54dc8803f1de] HTTP GET /health started
+[2026-02-01 11:33:21.776 +02:00 INF] [f63cdc70-9806-46c8-9b2a-54dc8803f1de] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:33:21.878 +02:00 INF] [f63cdc70-9806-46c8-9b2a-54dc8803f1de] Deleted file: healthcheck/test.txt
+[2026-02-01 11:33:21.880 +02:00 INF] [f63cdc70-9806-46c8-9b2a-54dc8803f1de] HTTP GET /health responded 200 in 130.9044 ms
+[2026-02-01 11:33:21.881 +02:00 INF] [] Received HTTP response headers after 221.7714ms - 200
+[2026-02-01 11:33:21.882 +02:00 INF] [] End processing HTTP request after 255.8961ms - 200
+[2026-02-01 11:33:51.890 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:33:51.891 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:33:52.121 +02:00 INF] [3b0b6298-d41e-4a06-b6c4-01738d0b6489] HTTP GET /health started
+[2026-02-01 11:33:52.126 +02:00 INF] [3b0b6298-d41e-4a06-b6c4-01738d0b6489] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:33:52.158 +02:00 INF] [3b0b6298-d41e-4a06-b6c4-01738d0b6489] Deleted file: healthcheck/test.txt
+[2026-02-01 11:33:52.186 +02:00 INF] [3b0b6298-d41e-4a06-b6c4-01738d0b6489] HTTP GET /health responded 200 in 64.8250 ms
+[2026-02-01 11:33:52.191 +02:00 INF] [] Received HTTP response headers after 299.9605ms - 200
+[2026-02-01 11:33:52.191 +02:00 INF] [] End processing HTTP request after 301.0221ms - 200
+[2026-02-01 11:34:22.196 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:34:22.198 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:34:22.201 +02:00 INF] [c2738caa-f4f1-44ed-b1d3-66a86f388657] HTTP GET /health started
+[2026-02-01 11:34:22.312 +02:00 INF] [c2738caa-f4f1-44ed-b1d3-66a86f388657] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:34:22.335 +02:00 INF] [c2738caa-f4f1-44ed-b1d3-66a86f388657] Deleted file: healthcheck/test.txt
+[2026-02-01 11:34:22.335 +02:00 INF] [c2738caa-f4f1-44ed-b1d3-66a86f388657] HTTP GET /health responded 200 in 133.6200 ms
+[2026-02-01 11:34:22.335 +02:00 INF] [] Received HTTP response headers after 137.2469ms - 200
+[2026-02-01 11:34:22.336 +02:00 INF] [] End processing HTTP request after 139.6395ms - 200
+[2026-02-01 11:34:52.340 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:34:52.340 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:34:52.343 +02:00 INF] [d84c54a6-871d-4136-8718-307e9bcc99a9] HTTP GET /health started
+[2026-02-01 11:34:52.368 +02:00 INF] [d84c54a6-871d-4136-8718-307e9bcc99a9] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:34:52.400 +02:00 INF] [d84c54a6-871d-4136-8718-307e9bcc99a9] Deleted file: healthcheck/test.txt
+[2026-02-01 11:34:52.400 +02:00 INF] [d84c54a6-871d-4136-8718-307e9bcc99a9] HTTP GET /health responded 200 in 56.9528 ms
+[2026-02-01 11:34:52.401 +02:00 INF] [] Received HTTP response headers after 60.168ms - 200
+[2026-02-01 11:34:52.401 +02:00 INF] [] End processing HTTP request after 61.0946ms - 200
+[2026-02-01 11:35:22.433 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:35:22.434 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:35:22.470 +02:00 INF] [96221ffa-e420-4858-8b05-26f739afa70f] HTTP GET /health started
+[2026-02-01 11:35:22.506 +02:00 INF] [96221ffa-e420-4858-8b05-26f739afa70f] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:35:22.570 +02:00 INF] [96221ffa-e420-4858-8b05-26f739afa70f] Deleted file: healthcheck/test.txt
+[2026-02-01 11:35:22.581 +02:00 INF] [96221ffa-e420-4858-8b05-26f739afa70f] HTTP GET /health responded 200 in 110.6085 ms
+[2026-02-01 11:35:22.584 +02:00 INF] [] Received HTTP response headers after 149.7783ms - 200
+[2026-02-01 11:35:22.584 +02:00 INF] [] End processing HTTP request after 151.5304ms - 200
+[2026-02-01 11:35:52.588 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:35:52.591 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:35:52.698 +02:00 INF] [121cd85b-4209-4973-bf17-c19d92dfe5d0] HTTP GET /health started
+[2026-02-01 11:35:52.705 +02:00 INF] [121cd85b-4209-4973-bf17-c19d92dfe5d0] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:35:52.787 +02:00 INF] [121cd85b-4209-4973-bf17-c19d92dfe5d0] Deleted file: healthcheck/test.txt
+[2026-02-01 11:35:52.787 +02:00 INF] [121cd85b-4209-4973-bf17-c19d92dfe5d0] HTTP GET /health responded 200 in 88.8195 ms
+[2026-02-01 11:35:52.790 +02:00 INF] [] Received HTTP response headers after 199.1319ms - 200
+[2026-02-01 11:35:52.790 +02:00 INF] [] End processing HTTP request after 201.6905ms - 200
+[2026-02-01 11:36:22.820 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:36:22.824 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:36:23.004 +02:00 INF] [305714af-43d6-45d8-802d-ea46f8cf9251] HTTP GET /health started
+[2026-02-01 11:36:23.006 +02:00 INF] [305714af-43d6-45d8-802d-ea46f8cf9251] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:36:23.128 +02:00 INF] [305714af-43d6-45d8-802d-ea46f8cf9251] Deleted file: healthcheck/test.txt
+[2026-02-01 11:36:23.135 +02:00 INF] [305714af-43d6-45d8-802d-ea46f8cf9251] HTTP GET /health responded 200 in 131.4880 ms
+[2026-02-01 11:36:23.158 +02:00 INF] [] Received HTTP response headers after 333.4075ms - 200
+[2026-02-01 11:36:23.158 +02:00 INF] [] End processing HTTP request after 339.0673ms - 200
+[2026-02-01 11:36:53.167 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:36:53.168 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:36:53.195 +02:00 INF] [30677249-c5a1-4209-b4c0-99a0e4c8b5f2] HTTP GET /health started
+[2026-02-01 11:36:53.197 +02:00 INF] [30677249-c5a1-4209-b4c0-99a0e4c8b5f2] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:36:53.239 +02:00 INF] [30677249-c5a1-4209-b4c0-99a0e4c8b5f2] Deleted file: healthcheck/test.txt
+[2026-02-01 11:36:53.239 +02:00 INF] [30677249-c5a1-4209-b4c0-99a0e4c8b5f2] HTTP GET /health responded 200 in 44.1204 ms
+[2026-02-01 11:36:53.240 +02:00 INF] [] Received HTTP response headers after 71.8927ms - 200
+[2026-02-01 11:36:53.241 +02:00 INF] [] End processing HTTP request after 74.2427ms - 200
+[2026-02-01 11:37:23.244 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:37:23.245 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:37:23.354 +02:00 INF] [0eec70c1-2de2-479a-b60a-230a6a23637c] HTTP GET /health started
+[2026-02-01 11:37:23.380 +02:00 INF] [0eec70c1-2de2-479a-b60a-230a6a23637c] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:37:23.391 +02:00 INF] [0eec70c1-2de2-479a-b60a-230a6a23637c] Deleted file: healthcheck/test.txt
+[2026-02-01 11:37:23.391 +02:00 INF] [0eec70c1-2de2-479a-b60a-230a6a23637c] HTTP GET /health responded 200 in 37.1606 ms
+[2026-02-01 11:37:23.393 +02:00 INF] [] Received HTTP response headers after 147.9553ms - 200
+[2026-02-01 11:37:23.394 +02:00 INF] [] End processing HTTP request after 149.6046ms - 200
+[2026-02-01 11:37:53.403 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:37:53.405 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:37:53.655 +02:00 INF] [977108a4-7004-4a9f-aef6-d72040e7cbd4] HTTP GET /health started
+[2026-02-01 11:37:53.657 +02:00 INF] [977108a4-7004-4a9f-aef6-d72040e7cbd4] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:37:53.759 +02:00 INF] [977108a4-7004-4a9f-aef6-d72040e7cbd4] Deleted file: healthcheck/test.txt
+[2026-02-01 11:37:53.784 +02:00 INF] [977108a4-7004-4a9f-aef6-d72040e7cbd4] HTTP GET /health responded 200 in 128.8921 ms
+[2026-02-01 11:37:53.785 +02:00 INF] [] Received HTTP response headers after 379.365ms - 200
+[2026-02-01 11:37:53.785 +02:00 INF] [] End processing HTTP request after 381.5766ms - 200
+[2026-02-01 11:38:23.791 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:38:23.793 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:38:23.852 +02:00 INF] [33fd17ba-8abc-4e3d-bd2d-ca52a019184f] HTTP GET /health started
+[2026-02-01 11:38:23.888 +02:00 INF] [33fd17ba-8abc-4e3d-bd2d-ca52a019184f] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:38:23.942 +02:00 INF] [33fd17ba-8abc-4e3d-bd2d-ca52a019184f] Deleted file: healthcheck/test.txt
+[2026-02-01 11:38:23.943 +02:00 INF] [33fd17ba-8abc-4e3d-bd2d-ca52a019184f] HTTP GET /health responded 200 in 115.5847 ms
+[2026-02-01 11:38:23.943 +02:00 INF] [] Received HTTP response headers after 150.0371ms - 200
+[2026-02-01 11:38:23.944 +02:00 INF] [] End processing HTTP request after 152.3881ms - 200
+[2026-02-01 11:38:53.975 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:38:53.976 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:38:54.004 +02:00 INF] [c7fdb08c-ed85-4f33-a52f-9ded05743943] HTTP GET /health started
+[2026-02-01 11:38:54.029 +02:00 INF] [c7fdb08c-ed85-4f33-a52f-9ded05743943] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:38:54.064 +02:00 INF] [c7fdb08c-ed85-4f33-a52f-9ded05743943] Deleted file: healthcheck/test.txt
+[2026-02-01 11:38:54.064 +02:00 INF] [c7fdb08c-ed85-4f33-a52f-9ded05743943] HTTP GET /health responded 200 in 60.1524 ms
+[2026-02-01 11:38:54.066 +02:00 INF] [] Received HTTP response headers after 89.3704ms - 200
+[2026-02-01 11:38:54.066 +02:00 INF] [] End processing HTTP request after 91.0475ms - 200
+[2026-02-01 11:39:24.071 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:39:24.073 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:39:24.096 +02:00 INF] [1afa89d7-8af4-4152-a8cf-28ba285359d4] HTTP GET /health started
+[2026-02-01 11:39:24.231 +02:00 INF] [1afa89d7-8af4-4152-a8cf-28ba285359d4] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:39:24.243 +02:00 INF] [1afa89d7-8af4-4152-a8cf-28ba285359d4] Deleted file: healthcheck/test.txt
+[2026-02-01 11:39:24.245 +02:00 INF] [1afa89d7-8af4-4152-a8cf-28ba285359d4] HTTP GET /health responded 200 in 148.6226 ms
+[2026-02-01 11:39:24.246 +02:00 INF] [] Received HTTP response headers after 172.9616ms - 200
+[2026-02-01 11:39:24.247 +02:00 INF] [] End processing HTTP request after 175.3969ms - 200
+[2026-02-01 11:39:54.251 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:39:54.253 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:39:54.352 +02:00 INF] [feff4557-49d8-41a3-95da-e91bb7a4883d] HTTP GET /health started
+[2026-02-01 11:39:54.354 +02:00 INF] [feff4557-49d8-41a3-95da-e91bb7a4883d] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:39:54.359 +02:00 INF] [feff4557-49d8-41a3-95da-e91bb7a4883d] Deleted file: healthcheck/test.txt
+[2026-02-01 11:39:54.360 +02:00 INF] [feff4557-49d8-41a3-95da-e91bb7a4883d] HTTP GET /health responded 200 in 7.1323 ms
+[2026-02-01 11:39:54.361 +02:00 INF] [] Received HTTP response headers after 107.7768ms - 200
+[2026-02-01 11:39:54.361 +02:00 INF] [] End processing HTTP request after 109.6786ms - 200
+[2026-02-01 11:40:24.366 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:40:24.367 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:40:24.429 +02:00 INF] [3a638617-f8c0-454a-9c92-4a8defe52009] HTTP GET /health started
+[2026-02-01 11:40:24.469 +02:00 INF] [3a638617-f8c0-454a-9c92-4a8defe52009] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:40:24.535 +02:00 INF] [3a638617-f8c0-454a-9c92-4a8defe52009] Deleted file: healthcheck/test.txt
+[2026-02-01 11:40:24.535 +02:00 INF] [3a638617-f8c0-454a-9c92-4a8defe52009] HTTP GET /health responded 200 in 105.8037 ms
+[2026-02-01 11:40:24.535 +02:00 INF] [] Received HTTP response headers after 167.6634ms - 200
+[2026-02-01 11:40:24.537 +02:00 INF] [] End processing HTTP request after 171.3088ms - 200
+[2026-02-01 11:40:54.541 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:40:54.542 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:40:54.567 +02:00 INF] [2739b781-b8e2-4dee-979a-9b9ed0ddaef7] HTTP GET /health started
+[2026-02-01 11:40:54.568 +02:00 INF] [2739b781-b8e2-4dee-979a-9b9ed0ddaef7] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:40:54.670 +02:00 INF] [2739b781-b8e2-4dee-979a-9b9ed0ddaef7] Deleted file: healthcheck/test.txt
+[2026-02-01 11:40:54.670 +02:00 INF] [2739b781-b8e2-4dee-979a-9b9ed0ddaef7] HTTP GET /health responded 200 in 103.4599 ms
+[2026-02-01 11:40:54.670 +02:00 INF] [] Received HTTP response headers after 128.0116ms - 200
+[2026-02-01 11:40:54.672 +02:00 INF] [] End processing HTTP request after 131.0972ms - 200
+[2026-02-01 11:41:24.727 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:41:24.730 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:41:24.851 +02:00 INF] [1a0c7edd-103b-479a-99b6-a517396c08b9] HTTP GET /health started
+[2026-02-01 11:41:24.911 +02:00 INF] [1a0c7edd-103b-479a-99b6-a517396c08b9] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:41:25.114 +02:00 INF] [1a0c7edd-103b-479a-99b6-a517396c08b9] Deleted file: healthcheck/test.txt
+[2026-02-01 11:41:25.246 +02:00 INF] [1a0c7edd-103b-479a-99b6-a517396c08b9] HTTP GET /health responded 200 in 394.8965 ms
+[2026-02-01 11:41:25.246 +02:00 INF] [] Received HTTP response headers after 515.7007ms - 200
+[2026-02-01 11:41:25.247 +02:00 INF] [] End processing HTTP request after 521.2536ms - 200
+[2026-02-01 11:41:55.300 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:41:55.302 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:41:55.337 +02:00 INF] [1e10eacf-b3fd-4f76-bc4a-6a85458efe87] HTTP GET /health started
+[2026-02-01 11:41:55.632 +02:00 INF] [1e10eacf-b3fd-4f76-bc4a-6a85458efe87] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:41:55.751 +02:00 INF] [1e10eacf-b3fd-4f76-bc4a-6a85458efe87] Deleted file: healthcheck/test.txt
+[2026-02-01 11:41:55.757 +02:00 INF] [1e10eacf-b3fd-4f76-bc4a-6a85458efe87] HTTP GET /health responded 200 in 419.5748 ms
+[2026-02-01 11:41:55.766 +02:00 INF] [] Received HTTP response headers after 463.754ms - 200
+[2026-02-01 11:41:55.766 +02:00 INF] [] End processing HTTP request after 466.8161ms - 200
+[2026-02-01 11:42:27.683 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:42:27.685 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:42:27.693 +02:00 INF] [05e8b34e-6748-4a45-834d-ce4907283c60] HTTP GET /health started
+[2026-02-01 11:42:27.700 +02:00 INF] [05e8b34e-6748-4a45-834d-ce4907283c60] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:42:27.780 +02:00 INF] [05e8b34e-6748-4a45-834d-ce4907283c60] Deleted file: healthcheck/test.txt
+[2026-02-01 11:42:27.782 +02:00 INF] [05e8b34e-6748-4a45-834d-ce4907283c60] HTTP GET /health responded 200 in 88.8120 ms
+[2026-02-01 11:42:27.787 +02:00 INF] [] Received HTTP response headers after 102.5416ms - 200
+[2026-02-01 11:42:27.788 +02:00 INF] [] End processing HTTP request after 104.8968ms - 200
+[2026-02-01 11:42:57.811 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:42:57.817 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:42:57.915 +02:00 INF] [1331d860-b2e8-4fb6-8e2c-5aa49bde973b] HTTP GET /health started
+[2026-02-01 11:42:57.963 +02:00 INF] [1331d860-b2e8-4fb6-8e2c-5aa49bde973b] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:42:58.213 +02:00 INF] [1331d860-b2e8-4fb6-8e2c-5aa49bde973b] Deleted file: healthcheck/test.txt
+[2026-02-01 11:42:58.257 +02:00 INF] [1331d860-b2e8-4fb6-8e2c-5aa49bde973b] HTTP GET /health responded 200 in 342.9301 ms
+[2026-02-01 11:42:58.260 +02:00 INF] [] Received HTTP response headers after 442.8398ms - 200
+[2026-02-01 11:42:58.261 +02:00 INF] [] End processing HTTP request after 450.4506ms - 200
+[2026-02-01 11:43:28.306 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:43:28.307 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:43:28.425 +02:00 INF] [29c3f598-f523-4b09-9840-efb3c07b624b] HTTP GET /health started
+[2026-02-01 11:43:28.427 +02:00 INF] [29c3f598-f523-4b09-9840-efb3c07b624b] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:43:28.480 +02:00 INF] [29c3f598-f523-4b09-9840-efb3c07b624b] Deleted file: healthcheck/test.txt
+[2026-02-01 11:43:28.527 +02:00 INF] [] Received HTTP response headers after 219.9932ms - 200
+[2026-02-01 11:43:28.527 +02:00 INF] [] End processing HTTP request after 220.8842ms - 200
+[2026-02-01 11:43:28.527 +02:00 INF] [29c3f598-f523-4b09-9840-efb3c07b624b] HTTP GET /health responded 200 in 101.2164 ms
+[2026-02-01 11:43:58.550 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:43:58.554 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:43:58.756 +02:00 INF] [b7e9ec46-9346-44d9-a108-2d2d99f02913] HTTP GET /health started
+[2026-02-01 11:43:58.764 +02:00 INF] [b7e9ec46-9346-44d9-a108-2d2d99f02913] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:43:58.801 +02:00 INF] [b7e9ec46-9346-44d9-a108-2d2d99f02913] Deleted file: healthcheck/test.txt
+[2026-02-01 11:43:58.803 +02:00 INF] [b7e9ec46-9346-44d9-a108-2d2d99f02913] HTTP GET /health responded 200 in 46.0790 ms
+[2026-02-01 11:43:58.808 +02:00 INF] [] Received HTTP response headers after 253.5898ms - 200
+[2026-02-01 11:43:58.808 +02:00 INF] [] End processing HTTP request after 257.6159ms - 200
+[2026-02-01 11:44:28.851 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:44:28.853 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:44:28.884 +02:00 INF] [5a7830ec-c887-4603-a723-2cd52bffaf92] HTTP GET /health started
+[2026-02-01 11:44:28.965 +02:00 INF] [5a7830ec-c887-4603-a723-2cd52bffaf92] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:44:29.086 +02:00 INF] [5a7830ec-c887-4603-a723-2cd52bffaf92] Deleted file: healthcheck/test.txt
+[2026-02-01 11:44:29.090 +02:00 INF] [5a7830ec-c887-4603-a723-2cd52bffaf92] HTTP GET /health responded 200 in 205.8484 ms
+[2026-02-01 11:44:29.090 +02:00 INF] [] Received HTTP response headers after 236.5371ms - 200
+[2026-02-01 11:44:29.091 +02:00 INF] [] End processing HTTP request after 239.6694ms - 200
+[2026-02-01 11:44:59.100 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:44:59.101 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:44:59.104 +02:00 INF] [77fc4ab0-eb4c-4634-9863-8ddda89041d1] HTTP GET /health started
+[2026-02-01 11:44:59.106 +02:00 INF] [77fc4ab0-eb4c-4634-9863-8ddda89041d1] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:44:59.187 +02:00 INF] [77fc4ab0-eb4c-4634-9863-8ddda89041d1] Deleted file: healthcheck/test.txt
+[2026-02-01 11:44:59.188 +02:00 INF] [77fc4ab0-eb4c-4634-9863-8ddda89041d1] HTTP GET /health responded 200 in 83.5487 ms
+[2026-02-01 11:44:59.189 +02:00 INF] [] Received HTTP response headers after 88.2855ms - 200
+[2026-02-01 11:44:59.190 +02:00 INF] [] End processing HTTP request after 90.1517ms - 200
+[2026-02-01 11:45:29.208 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:45:29.211 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:45:29.570 +02:00 INF] [bf149c4b-4679-4e88-ab81-192e8fc1893a] HTTP GET /health started
+[2026-02-01 11:45:29.578 +02:00 INF] [bf149c4b-4679-4e88-ab81-192e8fc1893a] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:45:29.670 +02:00 INF] [bf149c4b-4679-4e88-ab81-192e8fc1893a] Deleted file: healthcheck/test.txt
+[2026-02-01 11:45:29.844 +02:00 INF] [bf149c4b-4679-4e88-ab81-192e8fc1893a] HTTP GET /health responded 200 in 274.1742 ms
+[2026-02-01 11:45:29.849 +02:00 INF] [] Received HTTP response headers after 636.6583ms - 200
+[2026-02-01 11:45:29.852 +02:00 INF] [] End processing HTTP request after 644.8796ms - 200
+[2026-02-01 11:45:59.881 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:45:59.883 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:45:59.994 +02:00 INF] [61906a7c-d0a7-4cbf-a7c9-c2b0c39f7554] HTTP GET /health started
+[2026-02-01 11:46:00.000 +02:00 INF] [61906a7c-d0a7-4cbf-a7c9-c2b0c39f7554] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:46:00.092 +02:00 INF] [61906a7c-d0a7-4cbf-a7c9-c2b0c39f7554] Deleted file: healthcheck/test.txt
+[2026-02-01 11:46:00.093 +02:00 INF] [61906a7c-d0a7-4cbf-a7c9-c2b0c39f7554] HTTP GET /health responded 200 in 99.1733 ms
+[2026-02-01 11:46:00.102 +02:00 INF] [] Received HTTP response headers after 219.2107ms - 200
+[2026-02-01 11:46:00.102 +02:00 INF] [] End processing HTTP request after 221.2927ms - 200
+[2026-02-01 11:46:30.107 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:46:30.107 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:46:30.132 +02:00 INF] [99113dbc-25cc-4447-8edf-3ccf3dbe33cf] HTTP GET /health started
+[2026-02-01 11:46:30.224 +02:00 INF] [99113dbc-25cc-4447-8edf-3ccf3dbe33cf] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:46:30.260 +02:00 INF] [99113dbc-25cc-4447-8edf-3ccf3dbe33cf] Deleted file: healthcheck/test.txt
+[2026-02-01 11:46:30.261 +02:00 INF] [99113dbc-25cc-4447-8edf-3ccf3dbe33cf] HTTP GET /health responded 200 in 128.2976 ms
+[2026-02-01 11:46:30.273 +02:00 INF] [] Received HTTP response headers after 165.8065ms - 200
+[2026-02-01 11:46:30.276 +02:00 INF] [] End processing HTTP request after 169.3708ms - 200
+[2026-02-01 11:47:00.286 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:47:00.286 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:47:00.292 +02:00 INF] [141a088d-d4f6-40dd-9a58-1d5e2f128268] HTTP GET /health started
+[2026-02-01 11:47:00.352 +02:00 INF] [141a088d-d4f6-40dd-9a58-1d5e2f128268] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:47:00.393 +02:00 INF] [141a088d-d4f6-40dd-9a58-1d5e2f128268] Deleted file: healthcheck/test.txt
+[2026-02-01 11:47:00.394 +02:00 INF] [141a088d-d4f6-40dd-9a58-1d5e2f128268] HTTP GET /health responded 200 in 101.8560 ms
+[2026-02-01 11:47:00.394 +02:00 INF] [] Received HTTP response headers after 108.0624ms - 200
+[2026-02-01 11:47:00.397 +02:00 INF] [] End processing HTTP request after 110.9492ms - 200
+[2026-02-01 11:47:30.412 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:47:30.413 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:47:30.416 +02:00 INF] [2ac0f164-a1e6-4aef-89a5-f7b28c8841c4] HTTP GET /health started
+[2026-02-01 11:47:30.419 +02:00 INF] [2ac0f164-a1e6-4aef-89a5-f7b28c8841c4] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:47:30.449 +02:00 INF] [2ac0f164-a1e6-4aef-89a5-f7b28c8841c4] Deleted file: healthcheck/test.txt
+[2026-02-01 11:47:30.450 +02:00 INF] [2ac0f164-a1e6-4aef-89a5-f7b28c8841c4] HTTP GET /health responded 200 in 34.8562 ms
+[2026-02-01 11:47:30.458 +02:00 INF] [] Received HTTP response headers after 44.799ms - 200
+[2026-02-01 11:47:30.459 +02:00 INF] [] End processing HTTP request after 47.1247ms - 200
+[2026-02-01 11:48:00.463 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:48:00.464 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:48:00.637 +02:00 INF] [49e3467e-784e-4685-9f1a-938f66fe7834] HTTP GET /health started
+[2026-02-01 11:48:00.641 +02:00 INF] [49e3467e-784e-4685-9f1a-938f66fe7834] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:48:00.716 +02:00 INF] [49e3467e-784e-4685-9f1a-938f66fe7834] Deleted file: healthcheck/test.txt
+[2026-02-01 11:48:00.718 +02:00 INF] [49e3467e-784e-4685-9f1a-938f66fe7834] HTTP GET /health responded 200 in 80.2371 ms
+[2026-02-01 11:48:00.721 +02:00 INF] [] Received HTTP response headers after 257.2117ms - 200
+[2026-02-01 11:48:00.722 +02:00 INF] [] End processing HTTP request after 259.3815ms - 200
+[2026-02-01 11:48:30.743 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:48:30.750 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:48:30.853 +02:00 INF] [5721757a-d13e-4d26-816a-371ceae79491] HTTP GET /health started
+[2026-02-01 11:48:30.975 +02:00 INF] [5721757a-d13e-4d26-816a-371ceae79491] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:48:31.083 +02:00 INF] [5721757a-d13e-4d26-816a-371ceae79491] Deleted file: healthcheck/test.txt
+[2026-02-01 11:48:31.092 +02:00 INF] [5721757a-d13e-4d26-816a-371ceae79491] HTTP GET /health responded 200 in 239.5539 ms
+[2026-02-01 11:48:31.094 +02:00 INF] [] Received HTTP response headers after 343.429ms - 200
+[2026-02-01 11:48:31.095 +02:00 INF] [] End processing HTTP request after 352.0222ms - 200
+[2026-02-01 11:49:01.136 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:49:01.149 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:49:01.228 +02:00 INF] [421e3d28-291e-436d-a24e-44a0199f4f5c] HTTP GET /health started
+[2026-02-01 11:49:01.283 +02:00 INF] [421e3d28-291e-436d-a24e-44a0199f4f5c] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:49:01.388 +02:00 INF] [421e3d28-291e-436d-a24e-44a0199f4f5c] Deleted file: healthcheck/test.txt
+[2026-02-01 11:49:01.398 +02:00 INF] [421e3d28-291e-436d-a24e-44a0199f4f5c] HTTP GET /health responded 200 in 170.7482 ms
+[2026-02-01 11:49:01.404 +02:00 INF] [] Received HTTP response headers after 254.8684ms - 200
+[2026-02-01 11:49:01.404 +02:00 INF] [] End processing HTTP request after 269.2238ms - 200
+[2026-02-01 11:49:31.425 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:49:31.427 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:49:31.644 +02:00 INF] [3df392ab-3b8e-42fa-96fb-b076030232c2] HTTP GET /health started
+[2026-02-01 11:49:31.649 +02:00 INF] [3df392ab-3b8e-42fa-96fb-b076030232c2] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:49:31.731 +02:00 INF] [3df392ab-3b8e-42fa-96fb-b076030232c2] Deleted file: healthcheck/test.txt
+[2026-02-01 11:49:31.758 +02:00 INF] [3df392ab-3b8e-42fa-96fb-b076030232c2] HTTP GET /health responded 200 in 114.9742 ms
+[2026-02-01 11:49:31.759 +02:00 INF] [] Received HTTP response headers after 331.5601ms - 200
+[2026-02-01 11:49:31.760 +02:00 INF] [] End processing HTTP request after 335.1607ms - 200
+[2026-02-01 11:50:01.791 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:50:01.802 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:50:01.997 +02:00 INF] [f34b5d34-3e21-4a3b-992e-c125513a52c0] HTTP GET /health started
+[2026-02-01 11:50:02.027 +02:00 INF] [f34b5d34-3e21-4a3b-992e-c125513a52c0] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:50:02.150 +02:00 INF] [f34b5d34-3e21-4a3b-992e-c125513a52c0] Deleted file: healthcheck/test.txt
+[2026-02-01 11:50:02.153 +02:00 INF] [f34b5d34-3e21-4a3b-992e-c125513a52c0] HTTP GET /health responded 200 in 156.3839 ms
+[2026-02-01 11:50:02.154 +02:00 INF] [] Received HTTP response headers after 351.4214ms - 200
+[2026-02-01 11:50:02.155 +02:00 INF] [] End processing HTTP request after 364.1497ms - 200
+[2026-02-01 11:50:32.186 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:50:32.188 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:50:32.352 +02:00 INF] [0990c52a-00a7-4f82-b16a-b7bb0c8ba03a] HTTP GET /health started
+[2026-02-01 11:50:32.381 +02:00 INF] [0990c52a-00a7-4f82-b16a-b7bb0c8ba03a] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:50:32.528 +02:00 INF] [0990c52a-00a7-4f82-b16a-b7bb0c8ba03a] Deleted file: healthcheck/test.txt
+[2026-02-01 11:50:32.534 +02:00 INF] [0990c52a-00a7-4f82-b16a-b7bb0c8ba03a] HTTP GET /health responded 200 in 182.7057 ms
+[2026-02-01 11:50:32.560 +02:00 INF] [] Received HTTP response headers after 371.3903ms - 200
+[2026-02-01 11:50:32.560 +02:00 INF] [] End processing HTTP request after 374.3353ms - 200
+[2026-02-01 11:51:02.573 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:51:02.575 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:51:02.628 +02:00 INF] [30af229f-f2fb-47cd-b1b6-a660f0a83894] HTTP GET /health started
+[2026-02-01 11:51:02.630 +02:00 INF] [30af229f-f2fb-47cd-b1b6-a660f0a83894] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:51:02.690 +02:00 INF] [30af229f-f2fb-47cd-b1b6-a660f0a83894] Deleted file: healthcheck/test.txt
+[2026-02-01 11:51:02.716 +02:00 INF] [30af229f-f2fb-47cd-b1b6-a660f0a83894] HTTP GET /health responded 200 in 88.1158 ms
+[2026-02-01 11:51:02.739 +02:00 INF] [] Received HTTP response headers after 164.0793ms - 200
+[2026-02-01 11:51:02.746 +02:00 INF] [] End processing HTTP request after 173.3947ms - 200
+[2026-02-01 11:51:32.872 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:51:32.880 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:51:33.397 +02:00 INF] [b825a4cc-d96d-496b-9219-6e78b019bf74] HTTP GET /health started
+[2026-02-01 11:51:33.731 +02:00 INF] [b825a4cc-d96d-496b-9219-6e78b019bf74] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:51:33.851 +02:00 INF] [b825a4cc-d96d-496b-9219-6e78b019bf74] Deleted file: healthcheck/test.txt
+[2026-02-01 11:51:33.852 +02:00 INF] [b825a4cc-d96d-496b-9219-6e78b019bf74] HTTP GET /health responded 200 in 454.6204 ms
+[2026-02-01 11:51:33.852 +02:00 INF] [] Received HTTP response headers after 480.4875ms - 200
+[2026-02-01 11:51:33.854 +02:00 INF] [] End processing HTTP request after 982.0542ms - 200
+[2026-02-01 11:52:03.860 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:52:03.860 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:52:04.072 +02:00 INF] [531ce738-ef58-42e0-8c17-593371196153] HTTP GET /health started
+[2026-02-01 11:52:04.073 +02:00 INF] [531ce738-ef58-42e0-8c17-593371196153] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:52:04.081 +02:00 INF] [531ce738-ef58-42e0-8c17-593371196153] Deleted file: healthcheck/test.txt
+[2026-02-01 11:52:04.081 +02:00 INF] [531ce738-ef58-42e0-8c17-593371196153] HTTP GET /health responded 200 in 8.9765 ms
+[2026-02-01 11:52:04.085 +02:00 INF] [] Received HTTP response headers after 224.2623ms - 200
+[2026-02-01 11:52:04.085 +02:00 INF] [] End processing HTTP request after 224.9143ms - 200
+[2026-02-01 11:52:34.096 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:52:34.097 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:52:34.117 +02:00 INF] [4214e929-61a2-45d1-9b5e-6c2f52141f03] HTTP GET /health started
+[2026-02-01 11:52:34.153 +02:00 INF] [4214e929-61a2-45d1-9b5e-6c2f52141f03] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:52:34.183 +02:00 INF] [4214e929-61a2-45d1-9b5e-6c2f52141f03] Deleted file: healthcheck/test.txt
+[2026-02-01 11:52:34.184 +02:00 INF] [4214e929-61a2-45d1-9b5e-6c2f52141f03] HTTP GET /health responded 200 in 66.6125 ms
+[2026-02-01 11:52:34.184 +02:00 INF] [] Received HTTP response headers after 86.8572ms - 200
+[2026-02-01 11:52:34.190 +02:00 INF] [] End processing HTTP request after 95.1196ms - 200
+[2026-02-01 11:53:04.209 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:53:04.212 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:53:04.339 +02:00 INF] [177b6c76-6690-4910-8c39-f52a711baacf] HTTP GET /health started
+[2026-02-01 11:53:04.431 +02:00 INF] [177b6c76-6690-4910-8c39-f52a711baacf] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:53:04.483 +02:00 INF] [177b6c76-6690-4910-8c39-f52a711baacf] Deleted file: healthcheck/test.txt
+[2026-02-01 11:53:04.495 +02:00 INF] [177b6c76-6690-4910-8c39-f52a711baacf] HTTP GET /health responded 200 in 155.4801 ms
+[2026-02-01 11:53:04.496 +02:00 INF] [] Received HTTP response headers after 283.8893ms - 200
+[2026-02-01 11:53:04.497 +02:00 INF] [] End processing HTTP request after 287.7626ms - 200
+[2026-02-01 11:53:34.568 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:53:34.568 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:53:34.629 +02:00 INF] [19cc43b6-24a6-4846-84ad-ea16d1f30713] HTTP GET /health started
+[2026-02-01 11:53:34.709 +02:00 INF] [19cc43b6-24a6-4846-84ad-ea16d1f30713] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:53:34.815 +02:00 INF] [19cc43b6-24a6-4846-84ad-ea16d1f30713] Deleted file: healthcheck/test.txt
+[2026-02-01 11:53:34.815 +02:00 INF] [19cc43b6-24a6-4846-84ad-ea16d1f30713] HTTP GET /health responded 200 in 185.5760 ms
+[2026-02-01 11:53:34.816 +02:00 INF] [] Received HTTP response headers after 248.5174ms - 200
+[2026-02-01 11:53:34.821 +02:00 INF] [] End processing HTTP request after 253.8757ms - 200
+[2026-02-01 11:54:04.829 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:54:04.834 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:54:05.088 +02:00 INF] [bd6c9473-f074-48c4-9d7c-23875fec0cfd] HTTP GET /health started
+[2026-02-01 11:54:05.101 +02:00 INF] [bd6c9473-f074-48c4-9d7c-23875fec0cfd] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:54:05.115 +02:00 INF] [bd6c9473-f074-48c4-9d7c-23875fec0cfd] Deleted file: healthcheck/test.txt
+[2026-02-01 11:54:05.115 +02:00 INF] [bd6c9473-f074-48c4-9d7c-23875fec0cfd] HTTP GET /health responded 200 in 27.5708 ms
+[2026-02-01 11:54:05.116 +02:00 INF] [] Received HTTP response headers after 281.6999ms - 200
+[2026-02-01 11:54:05.116 +02:00 INF] [] End processing HTTP request after 287.3819ms - 200
+[2026-02-01 11:54:35.119 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:54:35.120 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:54:35.160 +02:00 INF] [fc27ffa5-8c4e-4969-9957-bf5c1049ec8f] HTTP GET /health started
+[2026-02-01 11:54:35.183 +02:00 INF] [fc27ffa5-8c4e-4969-9957-bf5c1049ec8f] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:54:35.189 +02:00 INF] [fc27ffa5-8c4e-4969-9957-bf5c1049ec8f] Deleted file: healthcheck/test.txt
+[2026-02-01 11:54:35.189 +02:00 INF] [fc27ffa5-8c4e-4969-9957-bf5c1049ec8f] HTTP GET /health responded 200 in 28.4835 ms
+[2026-02-01 11:54:35.189 +02:00 INF] [] Received HTTP response headers after 68.5821ms - 200
+[2026-02-01 11:54:35.189 +02:00 INF] [] End processing HTTP request after 70.5158ms - 200
+[2026-02-01 11:55:05.194 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:55:05.195 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:55:05.218 +02:00 INF] [a38b8027-eb07-4094-a5b4-ba015639d3c2] HTTP GET /health started
+[2026-02-01 11:55:05.219 +02:00 INF] [a38b8027-eb07-4094-a5b4-ba015639d3c2] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:55:05.254 +02:00 INF] [a38b8027-eb07-4094-a5b4-ba015639d3c2] Deleted file: healthcheck/test.txt
+[2026-02-01 11:55:05.258 +02:00 INF] [a38b8027-eb07-4094-a5b4-ba015639d3c2] HTTP GET /health responded 200 in 40.2437 ms
+[2026-02-01 11:55:05.258 +02:00 INF] [] Received HTTP response headers after 62.9792ms - 200
+[2026-02-01 11:55:05.261 +02:00 INF] [] End processing HTTP request after 66.7565ms - 200
+[2026-02-01 11:55:35.266 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:55:35.266 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:55:35.314 +02:00 INF] [704e86e4-67e7-407b-a81c-663efb17f2d7] HTTP GET /health started
+[2026-02-01 11:55:35.420 +02:00 INF] [704e86e4-67e7-407b-a81c-663efb17f2d7] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:55:35.499 +02:00 INF] [704e86e4-67e7-407b-a81c-663efb17f2d7] Deleted file: healthcheck/test.txt
+[2026-02-01 11:55:35.511 +02:00 INF] [704e86e4-67e7-407b-a81c-663efb17f2d7] HTTP GET /health responded 200 in 185.2766 ms
+[2026-02-01 11:55:35.512 +02:00 INF] [] Received HTTP response headers after 245.4887ms - 200
+[2026-02-01 11:55:35.512 +02:00 INF] [] End processing HTTP request after 246.3433ms - 200
+[2026-02-01 11:56:05.519 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:56:05.523 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:56:05.974 +02:00 INF] [b0aa1fbd-fc7a-42bc-b965-55b8a62181d8] HTTP GET /health started
+[2026-02-01 11:56:05.975 +02:00 INF] [b0aa1fbd-fc7a-42bc-b965-55b8a62181d8] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:56:06.369 +02:00 INF] [b0aa1fbd-fc7a-42bc-b965-55b8a62181d8] Deleted file: healthcheck/test.txt
+[2026-02-01 11:56:06.370 +02:00 INF] [b0aa1fbd-fc7a-42bc-b965-55b8a62181d8] HTTP GET /health responded 200 in 395.1961 ms
+[2026-02-01 11:56:06.384 +02:00 INF] [] Received HTTP response headers after 859.5793ms - 200
+[2026-02-01 11:56:06.384 +02:00 INF] [] End processing HTTP request after 865.3535ms - 200
+[2026-02-01 11:56:36.522 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:56:36.523 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:56:36.527 +02:00 INF] [30be76e5-f7ba-4c1b-af7f-2af15c7ab73e] HTTP GET /health started
+[2026-02-01 11:56:36.637 +02:00 INF] [30be76e5-f7ba-4c1b-af7f-2af15c7ab73e] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:56:36.727 +02:00 INF] [30be76e5-f7ba-4c1b-af7f-2af15c7ab73e] Deleted file: healthcheck/test.txt
+[2026-02-01 11:56:36.731 +02:00 INF] [30be76e5-f7ba-4c1b-af7f-2af15c7ab73e] HTTP GET /health responded 200 in 203.4728 ms
+[2026-02-01 11:56:36.731 +02:00 INF] [] Received HTTP response headers after 208.1404ms - 200
+[2026-02-01 11:56:36.731 +02:00 INF] [] End processing HTTP request after 208.4768ms - 200
+[2026-02-01 11:57:06.732 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:57:06.733 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:57:06.737 +02:00 INF] [d3e80bb8-d7e1-4061-85bc-4275da2210a8] HTTP GET /health started
+[2026-02-01 11:57:06.740 +02:00 INF] [d3e80bb8-d7e1-4061-85bc-4275da2210a8] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:57:06.820 +02:00 INF] [d3e80bb8-d7e1-4061-85bc-4275da2210a8] Deleted file: healthcheck/test.txt
+[2026-02-01 11:57:06.821 +02:00 INF] [d3e80bb8-d7e1-4061-85bc-4275da2210a8] HTTP GET /health responded 200 in 83.9280 ms
+[2026-02-01 11:57:06.825 +02:00 INF] [] Received HTTP response headers after 91.7511ms - 200
+[2026-02-01 11:57:06.829 +02:00 INF] [] End processing HTTP request after 96.2666ms - 200
+[2026-02-01 11:57:36.832 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:57:36.834 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:57:36.867 +02:00 INF] [4c491375-23e0-4825-aa2f-a705991d9b81] HTTP GET /health started
+[2026-02-01 11:57:36.899 +02:00 INF] [4c491375-23e0-4825-aa2f-a705991d9b81] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:57:37.005 +02:00 INF] [4c491375-23e0-4825-aa2f-a705991d9b81] Deleted file: healthcheck/test.txt
+[2026-02-01 11:57:37.005 +02:00 INF] [4c491375-23e0-4825-aa2f-a705991d9b81] HTTP GET /health responded 200 in 138.6948 ms
+[2026-02-01 11:57:37.018 +02:00 INF] [] Received HTTP response headers after 183.3561ms - 200
+[2026-02-01 11:57:37.018 +02:00 INF] [] End processing HTTP request after 185.3716ms - 200
+[2026-02-01 11:58:06.914 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:58:06.923 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:58:07.122 +02:00 INF] [df7e2ad1-e150-49bb-934d-c6f9dbf1d036] HTTP GET /health started
+[2026-02-01 11:58:07.178 +02:00 INF] [df7e2ad1-e150-49bb-934d-c6f9dbf1d036] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:58:07.239 +02:00 INF] [df7e2ad1-e150-49bb-934d-c6f9dbf1d036] Deleted file: healthcheck/test.txt
+[2026-02-01 11:58:07.421 +02:00 INF] [df7e2ad1-e150-49bb-934d-c6f9dbf1d036] HTTP GET /health responded 200 in 300.7478 ms
+[2026-02-01 11:58:07.423 +02:00 INF] [] Received HTTP response headers after 476.6376ms - 200
+[2026-02-01 11:58:07.423 +02:00 INF] [] End processing HTTP request after 509.0878ms - 200
+[2026-02-01 11:58:37.449 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:58:37.475 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:58:37.687 +02:00 INF] [74a91181-cdb8-43fe-8f17-0c0a7093a645] HTTP GET /health started
+[2026-02-01 11:58:37.743 +02:00 INF] [74a91181-cdb8-43fe-8f17-0c0a7093a645] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:58:37.913 +02:00 INF] [74a91181-cdb8-43fe-8f17-0c0a7093a645] Deleted file: healthcheck/test.txt
+[2026-02-01 11:58:37.934 +02:00 INF] [74a91181-cdb8-43fe-8f17-0c0a7093a645] HTTP GET /health responded 200 in 247.0376 ms
+[2026-02-01 11:58:37.935 +02:00 INF] [] Received HTTP response headers after 444.8746ms - 200
+[2026-02-01 11:58:37.938 +02:00 INF] [] End processing HTTP request after 489.7884ms - 200
+[2026-02-01 11:59:07.957 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:59:07.959 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:59:07.972 +02:00 INF] [0e11cb52-f534-43f9-a9cf-812d9cefc4bd] HTTP GET /health started
+[2026-02-01 11:59:08.006 +02:00 INF] [0e11cb52-f534-43f9-a9cf-812d9cefc4bd] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:59:08.110 +02:00 INF] [0e11cb52-f534-43f9-a9cf-812d9cefc4bd] Deleted file: healthcheck/test.txt
+[2026-02-01 11:59:08.111 +02:00 INF] [0e11cb52-f534-43f9-a9cf-812d9cefc4bd] HTTP GET /health responded 200 in 139.3108 ms
+[2026-02-01 11:59:08.116 +02:00 INF] [] Received HTTP response headers after 156.8296ms - 200
+[2026-02-01 11:59:08.117 +02:00 INF] [] End processing HTTP request after 159.5478ms - 200
+[2026-02-01 11:59:38.120 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 11:59:38.121 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 11:59:38.159 +02:00 INF] [9e9e136e-804e-4641-9034-1e4740b25740] HTTP GET /health started
+[2026-02-01 11:59:38.211 +02:00 INF] [9e9e136e-804e-4641-9034-1e4740b25740] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 11:59:38.361 +02:00 INF] [9e9e136e-804e-4641-9034-1e4740b25740] Deleted file: healthcheck/test.txt
+[2026-02-01 11:59:38.362 +02:00 INF] [9e9e136e-804e-4641-9034-1e4740b25740] HTTP GET /health responded 200 in 203.0210 ms
+[2026-02-01 11:59:38.363 +02:00 INF] [] Received HTTP response headers after 241.8983ms - 200
+[2026-02-01 11:59:38.363 +02:00 INF] [] End processing HTTP request after 242.2618ms - 200
+[2026-02-01 12:00:08.387 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:00:08.389 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:00:08.650 +02:00 INF] [0b8b06a2-8af4-452e-b313-b6a832ecb082] HTTP GET /health started
+[2026-02-01 12:00:08.676 +02:00 INF] [0b8b06a2-8af4-452e-b313-b6a832ecb082] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:00:08.776 +02:00 INF] [0b8b06a2-8af4-452e-b313-b6a832ecb082] Deleted file: healthcheck/test.txt
+[2026-02-01 12:00:08.777 +02:00 INF] [0b8b06a2-8af4-452e-b313-b6a832ecb082] HTTP GET /health responded 200 in 127.1458 ms
+[2026-02-01 12:00:08.777 +02:00 INF] [] Received HTTP response headers after 388.23ms - 200
+[2026-02-01 12:00:08.777 +02:00 INF] [] End processing HTTP request after 389.968ms - 200
+[2026-02-01 12:00:38.781 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:00:38.783 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:00:38.809 +02:00 INF] [01e3f78b-4327-4c97-a4fb-629b29958c03] HTTP GET /health started
+[2026-02-01 12:00:38.897 +02:00 INF] [01e3f78b-4327-4c97-a4fb-629b29958c03] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:00:38.954 +02:00 INF] [01e3f78b-4327-4c97-a4fb-629b29958c03] Deleted file: healthcheck/test.txt
+[2026-02-01 12:00:38.954 +02:00 INF] [01e3f78b-4327-4c97-a4fb-629b29958c03] HTTP GET /health responded 200 in 145.2103 ms
+[2026-02-01 12:00:38.955 +02:00 INF] [] Received HTTP response headers after 171.7218ms - 200
+[2026-02-01 12:00:38.956 +02:00 INF] [] End processing HTTP request after 174.3757ms - 200
+[2026-02-01 12:01:08.979 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:01:08.981 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:01:08.983 +02:00 INF] [80b8df53-a45d-4939-b68f-473a2f35a587] HTTP GET /health started
+[2026-02-01 12:01:08.986 +02:00 INF] [80b8df53-a45d-4939-b68f-473a2f35a587] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:01:09.041 +02:00 INF] [80b8df53-a45d-4939-b68f-473a2f35a587] Deleted file: healthcheck/test.txt
+[2026-02-01 12:01:09.042 +02:00 INF] [80b8df53-a45d-4939-b68f-473a2f35a587] HTTP GET /health responded 200 in 58.8497 ms
+[2026-02-01 12:01:09.043 +02:00 INF] [] Received HTTP response headers after 62.1041ms - 200
+[2026-02-01 12:01:09.043 +02:00 INF] [] End processing HTTP request after 64.5463ms - 200
+[2026-02-01 12:01:39.114 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:01:39.116 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:01:39.194 +02:00 INF] [720f1e1a-26ac-45ef-9cf0-7e093cad9669] HTTP GET /health started
+[2026-02-01 12:01:39.431 +02:00 INF] [720f1e1a-26ac-45ef-9cf0-7e093cad9669] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:01:39.555 +02:00 INF] [720f1e1a-26ac-45ef-9cf0-7e093cad9669] Deleted file: healthcheck/test.txt
+[2026-02-01 12:01:39.556 +02:00 INF] [720f1e1a-26ac-45ef-9cf0-7e093cad9669] HTTP GET /health responded 200 in 362.3927 ms
+[2026-02-01 12:01:39.557 +02:00 INF] [] Received HTTP response headers after 441.1366ms - 200
+[2026-02-01 12:01:39.557 +02:00 INF] [] End processing HTTP request after 443.4527ms - 200
+[2026-02-01 12:02:09.567 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:02:09.569 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:02:09.838 +02:00 INF] [caa43958-06e5-4484-8f43-0866e70c9c06] HTTP GET /health started
+[2026-02-01 12:02:09.839 +02:00 INF] [caa43958-06e5-4484-8f43-0866e70c9c06] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:02:09.894 +02:00 INF] [caa43958-06e5-4484-8f43-0866e70c9c06] Deleted file: healthcheck/test.txt
+[2026-02-01 12:02:09.901 +02:00 INF] [caa43958-06e5-4484-8f43-0866e70c9c06] HTTP GET /health responded 200 in 63.6321 ms
+[2026-02-01 12:02:09.915 +02:00 INF] [] Received HTTP response headers after 337.9274ms - 200
+[2026-02-01 12:02:09.915 +02:00 INF] [] End processing HTTP request after 348.024ms - 200
+[2026-02-01 12:02:39.936 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:02:39.939 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:02:39.962 +02:00 INF] [0213ba8d-c856-47d5-adf9-5b2433ca0dc5] HTTP GET /health started
+[2026-02-01 12:02:40.045 +02:00 INF] [0213ba8d-c856-47d5-adf9-5b2433ca0dc5] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:02:40.188 +02:00 INF] [0213ba8d-c856-47d5-adf9-5b2433ca0dc5] Deleted file: healthcheck/test.txt
+[2026-02-01 12:02:40.191 +02:00 INF] [0213ba8d-c856-47d5-adf9-5b2433ca0dc5] HTTP GET /health responded 200 in 228.3659 ms
+[2026-02-01 12:02:40.192 +02:00 INF] [] Received HTTP response headers after 253.362ms - 200
+[2026-02-01 12:02:40.193 +02:00 INF] [] End processing HTTP request after 257.1146ms - 200
+[2026-02-01 12:03:10.207 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:03:10.211 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:03:10.290 +02:00 INF] [02d864de-157a-43f4-ae25-373be6542c6b] HTTP GET /health started
+[2026-02-01 12:03:10.295 +02:00 INF] [02d864de-157a-43f4-ae25-373be6542c6b] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:03:10.371 +02:00 INF] [02d864de-157a-43f4-ae25-373be6542c6b] Deleted file: healthcheck/test.txt
+[2026-02-01 12:03:10.373 +02:00 INF] [02d864de-157a-43f4-ae25-373be6542c6b] HTTP GET /health responded 200 in 82.5681 ms
+[2026-02-01 12:03:10.373 +02:00 INF] [] Received HTTP response headers after 161.807ms - 200
+[2026-02-01 12:03:10.374 +02:00 INF] [] End processing HTTP request after 166.253ms - 200
+[2026-02-01 12:03:40.427 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:03:40.430 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:03:40.437 +02:00 INF] [240c7eff-8d47-4664-8304-87dc211b6daf] HTTP GET /health started
+[2026-02-01 12:03:40.463 +02:00 INF] [240c7eff-8d47-4664-8304-87dc211b6daf] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:03:40.662 +02:00 INF] [240c7eff-8d47-4664-8304-87dc211b6daf] Deleted file: healthcheck/test.txt
+[2026-02-01 12:03:40.701 +02:00 INF] [240c7eff-8d47-4664-8304-87dc211b6daf] HTTP GET /health responded 200 in 264.1433 ms
+[2026-02-01 12:03:40.711 +02:00 INF] [] Received HTTP response headers after 280.3955ms - 200
+[2026-02-01 12:03:40.711 +02:00 INF] [] End processing HTTP request after 288.9538ms - 200
+[2026-02-01 12:04:10.722 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:04:10.724 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:04:10.945 +02:00 INF] [094c37b8-6d78-4b35-bdcb-0f88973a35f5] HTTP GET /health started
+[2026-02-01 12:04:10.949 +02:00 INF] [094c37b8-6d78-4b35-bdcb-0f88973a35f5] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:04:11.120 +02:00 INF] [094c37b8-6d78-4b35-bdcb-0f88973a35f5] Deleted file: healthcheck/test.txt
+[2026-02-01 12:04:11.120 +02:00 INF] [094c37b8-6d78-4b35-bdcb-0f88973a35f5] HTTP GET /health responded 200 in 175.2716 ms
+[2026-02-01 12:04:11.122 +02:00 INF] [] Received HTTP response headers after 397.8759ms - 200
+[2026-02-01 12:04:11.122 +02:00 INF] [] End processing HTTP request after 399.5791ms - 200
+[2026-02-01 12:04:41.185 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:04:41.189 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:04:41.242 +02:00 INF] [c6922c45-9c6e-4f08-9aca-6c3cdc1f62b5] HTTP GET /health started
+[2026-02-01 12:04:41.341 +02:00 INF] [c6922c45-9c6e-4f08-9aca-6c3cdc1f62b5] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:04:41.350 +02:00 INF] [c6922c45-9c6e-4f08-9aca-6c3cdc1f62b5] Deleted file: healthcheck/test.txt
+[2026-02-01 12:04:41.352 +02:00 INF] [c6922c45-9c6e-4f08-9aca-6c3cdc1f62b5] HTTP GET /health responded 200 in 110.9284 ms
+[2026-02-01 12:04:41.353 +02:00 INF] [] Received HTTP response headers after 163.04ms - 200
+[2026-02-01 12:04:41.356 +02:00 INF] [] End processing HTTP request after 170.6431ms - 200
+[2026-02-01 12:05:11.391 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:05:11.394 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:05:11.445 +02:00 INF] [3d5fd433-2674-44d3-b916-a9ae74ce2462] HTTP GET /health started
+[2026-02-01 12:05:11.567 +02:00 INF] [3d5fd433-2674-44d3-b916-a9ae74ce2462] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:05:11.807 +02:00 INF] [3d5fd433-2674-44d3-b916-a9ae74ce2462] Deleted file: healthcheck/test.txt
+[2026-02-01 12:05:11.812 +02:00 INF] [3d5fd433-2674-44d3-b916-a9ae74ce2462] HTTP GET /health responded 200 in 367.6995 ms
+[2026-02-01 12:05:11.814 +02:00 INF] [] Received HTTP response headers after 419.0056ms - 200
+[2026-02-01 12:05:11.814 +02:00 INF] [] End processing HTTP request after 423.6789ms - 200
+[2026-02-01 12:05:41.852 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:05:41.852 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:05:41.854 +02:00 INF] [970aebf3-3a5b-4331-ad4d-91bf4965e00a] HTTP GET /health started
+[2026-02-01 12:05:41.885 +02:00 INF] [970aebf3-3a5b-4331-ad4d-91bf4965e00a] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:05:42.223 +02:00 INF] [970aebf3-3a5b-4331-ad4d-91bf4965e00a] Deleted file: healthcheck/test.txt
+[2026-02-01 12:05:42.231 +02:00 INF] [970aebf3-3a5b-4331-ad4d-91bf4965e00a] HTTP GET /health responded 200 in 372.2578 ms
+[2026-02-01 12:05:42.232 +02:00 INF] [] Received HTTP response headers after 379.9671ms - 200
+[2026-02-01 12:05:42.233 +02:00 INF] [] End processing HTTP request after 380.8478ms - 200
+[2026-02-01 12:06:12.267 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:06:12.272 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:06:12.473 +02:00 INF] [85b7d622-7d0a-4e07-b042-27d37affa6e1] HTTP GET /health started
+[2026-02-01 12:06:12.478 +02:00 INF] [85b7d622-7d0a-4e07-b042-27d37affa6e1] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:06:12.781 +02:00 INF] [85b7d622-7d0a-4e07-b042-27d37affa6e1] Deleted file: healthcheck/test.txt
+[2026-02-01 12:06:12.811 +02:00 INF] [85b7d622-7d0a-4e07-b042-27d37affa6e1] HTTP GET /health responded 200 in 338.0001 ms
+[2026-02-01 12:06:12.813 +02:00 INF] [] Received HTTP response headers after 541.1262ms - 200
+[2026-02-01 12:06:12.813 +02:00 INF] [] End processing HTTP request after 546.7462ms - 200
+[2026-02-01 12:06:42.846 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:06:42.851 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:06:42.867 +02:00 INF] [db10f4d7-6d7f-4cea-984f-ff1ea80bee5f] HTTP GET /health started
+[2026-02-01 12:06:42.873 +02:00 INF] [db10f4d7-6d7f-4cea-984f-ff1ea80bee5f] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:06:43.080 +02:00 INF] [db10f4d7-6d7f-4cea-984f-ff1ea80bee5f] Deleted file: healthcheck/test.txt
+[2026-02-01 12:06:43.083 +02:00 INF] [db10f4d7-6d7f-4cea-984f-ff1ea80bee5f] HTTP GET /health responded 200 in 216.7256 ms
+[2026-02-01 12:06:43.085 +02:00 INF] [] Received HTTP response headers after 232.034ms - 200
+[2026-02-01 12:06:43.087 +02:00 INF] [] End processing HTTP request after 241.0848ms - 200
+[2026-02-01 12:07:13.159 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:07:13.164 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:07:13.191 +02:00 INF] [32dad0ef-d05a-453d-b21d-bc3ba84ce879] HTTP GET /health started
+[2026-02-01 12:07:13.225 +02:00 INF] [32dad0ef-d05a-453d-b21d-bc3ba84ce879] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:07:13.350 +02:00 INF] [32dad0ef-d05a-453d-b21d-bc3ba84ce879] Deleted file: healthcheck/test.txt
+[2026-02-01 12:07:13.373 +02:00 INF] [32dad0ef-d05a-453d-b21d-bc3ba84ce879] HTTP GET /health responded 200 in 181.8123 ms
+[2026-02-01 12:07:13.376 +02:00 INF] [] Received HTTP response headers after 211.7303ms - 200
+[2026-02-01 12:07:13.377 +02:00 INF] [] End processing HTTP request after 220.0136ms - 200
+[2026-02-01 12:07:43.412 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:07:43.412 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:07:43.447 +02:00 INF] [7422b4c2-c393-4207-9624-efc2e3319064] HTTP GET /health started
+[2026-02-01 12:07:43.493 +02:00 INF] [7422b4c2-c393-4207-9624-efc2e3319064] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:07:43.692 +02:00 INF] [7422b4c2-c393-4207-9624-efc2e3319064] Deleted file: healthcheck/test.txt
+[2026-02-01 12:07:43.695 +02:00 INF] [7422b4c2-c393-4207-9624-efc2e3319064] HTTP GET /health responded 200 in 247.6752 ms
+[2026-02-01 12:07:43.695 +02:00 INF] [] Received HTTP response headers after 279.8221ms - 200
+[2026-02-01 12:07:43.697 +02:00 INF] [] End processing HTTP request after 285.3417ms - 200
+[2026-02-01 12:08:13.745 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:08:13.748 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:08:14.079 +02:00 INF] [359de85d-97c4-41b9-b179-f7e9a3045c9f] HTTP GET /health started
+[2026-02-01 12:08:14.127 +02:00 INF] [359de85d-97c4-41b9-b179-f7e9a3045c9f] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:08:14.309 +02:00 INF] [359de85d-97c4-41b9-b179-f7e9a3045c9f] Deleted file: healthcheck/test.txt
+[2026-02-01 12:08:14.347 +02:00 INF] [359de85d-97c4-41b9-b179-f7e9a3045c9f] HTTP GET /health responded 200 in 267.6730 ms
+[2026-02-01 12:08:14.361 +02:00 INF] [] Received HTTP response headers after 612.8401ms - 200
+[2026-02-01 12:08:14.362 +02:00 INF] [] End processing HTTP request after 617.8477ms - 200
+[2026-02-01 12:08:44.469 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:08:44.516 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:08:44.570 +02:00 INF] [06d19c40-855a-4197-9976-be0c59492b64] HTTP GET /health started
+[2026-02-01 12:08:44.738 +02:00 INF] [06d19c40-855a-4197-9976-be0c59492b64] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:08:44.842 +02:00 INF] [06d19c40-855a-4197-9976-be0c59492b64] Deleted file: healthcheck/test.txt
+[2026-02-01 12:08:44.843 +02:00 INF] [06d19c40-855a-4197-9976-be0c59492b64] HTTP GET /health responded 200 in 272.4804 ms
+[2026-02-01 12:08:44.844 +02:00 INF] [] Received HTTP response headers after 327.2185ms - 200
+[2026-02-01 12:08:44.844 +02:00 INF] [] End processing HTTP request after 375.2769ms - 200
+[2026-02-01 12:09:14.878 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:09:14.882 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:09:14.886 +02:00 INF] [98898820-bbc7-484b-9104-102805907611] HTTP GET /health started
+[2026-02-01 12:09:14.963 +02:00 INF] [98898820-bbc7-484b-9104-102805907611] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:09:15.132 +02:00 INF] [98898820-bbc7-484b-9104-102805907611] Deleted file: healthcheck/test.txt
+[2026-02-01 12:09:15.145 +02:00 INF] [98898820-bbc7-484b-9104-102805907611] HTTP GET /health responded 200 in 259.2559 ms
+[2026-02-01 12:09:15.146 +02:00 INF] [] Received HTTP response headers after 263.9451ms - 200
+[2026-02-01 12:09:15.146 +02:00 INF] [] End processing HTTP request after 267.7389ms - 200
+[2026-02-01 12:09:45.161 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:09:45.164 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:09:45.200 +02:00 INF] [d49e646e-9388-4beb-b74f-a9a9c16f2b27] HTTP GET /health started
+[2026-02-01 12:09:45.254 +02:00 INF] [d49e646e-9388-4beb-b74f-a9a9c16f2b27] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:09:45.486 +02:00 INF] [d49e646e-9388-4beb-b74f-a9a9c16f2b27] Deleted file: healthcheck/test.txt
+[2026-02-01 12:09:45.529 +02:00 INF] [d49e646e-9388-4beb-b74f-a9a9c16f2b27] HTTP GET /health responded 200 in 328.9158 ms
+[2026-02-01 12:09:45.530 +02:00 INF] [] Received HTTP response headers after 365.8954ms - 200
+[2026-02-01 12:09:45.531 +02:00 INF] [] End processing HTTP request after 369.357ms - 200
+[2026-02-01 12:10:15.552 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:10:15.553 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:10:15.753 +02:00 INF] [2afae250-6e6f-4b70-a7cc-d066e1b8ba14] HTTP GET /health started
+[2026-02-01 12:10:15.760 +02:00 INF] [2afae250-6e6f-4b70-a7cc-d066e1b8ba14] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:10:15.787 +02:00 INF] [2afae250-6e6f-4b70-a7cc-d066e1b8ba14] Deleted file: healthcheck/test.txt
+[2026-02-01 12:10:15.791 +02:00 INF] [2afae250-6e6f-4b70-a7cc-d066e1b8ba14] HTTP GET /health responded 200 in 38.2185 ms
+[2026-02-01 12:10:15.795 +02:00 INF] [] Received HTTP response headers after 239.4135ms - 200
+[2026-02-01 12:10:15.795 +02:00 INF] [] End processing HTTP request after 242.8906ms - 200
+[2026-02-01 12:10:45.806 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:10:45.809 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:10:45.811 +02:00 INF] [02c37ad1-650f-4111-8ec3-58cdd6882dc1] HTTP GET /health started
+[2026-02-01 12:10:46.049 +02:00 INF] [02c37ad1-650f-4111-8ec3-58cdd6882dc1] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:10:46.077 +02:00 INF] [02c37ad1-650f-4111-8ec3-58cdd6882dc1] Deleted file: healthcheck/test.txt
+[2026-02-01 12:10:46.100 +02:00 INF] [02c37ad1-650f-4111-8ec3-58cdd6882dc1] HTTP GET /health responded 200 in 289.0186 ms
+[2026-02-01 12:10:46.107 +02:00 INF] [] Received HTTP response headers after 298.3738ms - 200
+[2026-02-01 12:10:46.107 +02:00 INF] [] End processing HTTP request after 301.0921ms - 200
+[2026-02-01 12:11:16.140 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:11:16.142 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:11:16.289 +02:00 INF] [95b5de86-c7e1-4cfc-882a-055f832fad7c] HTTP GET /health started
+[2026-02-01 12:11:16.353 +02:00 INF] [95b5de86-c7e1-4cfc-882a-055f832fad7c] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:11:16.425 +02:00 INF] [95b5de86-c7e1-4cfc-882a-055f832fad7c] Deleted file: healthcheck/test.txt
+[2026-02-01 12:11:16.456 +02:00 INF] [95b5de86-c7e1-4cfc-882a-055f832fad7c] HTTP GET /health responded 200 in 166.8537 ms
+[2026-02-01 12:11:16.457 +02:00 INF] [] Received HTTP response headers after 314.2317ms - 200
+[2026-02-01 12:11:16.457 +02:00 INF] [] End processing HTTP request after 317.0993ms - 200
+[2026-02-01 12:11:46.501 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:11:46.503 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:11:46.570 +02:00 INF] [7c9995b8-e75c-4b4b-8866-f662e8eac03a] HTTP GET /health started
+[2026-02-01 12:11:46.753 +02:00 INF] [7c9995b8-e75c-4b4b-8866-f662e8eac03a] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:11:47.013 +02:00 INF] [7c9995b8-e75c-4b4b-8866-f662e8eac03a] Deleted file: healthcheck/test.txt
+[2026-02-01 12:11:47.027 +02:00 INF] [7c9995b8-e75c-4b4b-8866-f662e8eac03a] HTTP GET /health responded 200 in 456.7660 ms
+[2026-02-01 12:11:47.028 +02:00 INF] [] Received HTTP response headers after 522.6789ms - 200
+[2026-02-01 12:11:47.029 +02:00 INF] [] End processing HTTP request after 527.1859ms - 200
+[2026-02-01 12:12:17.082 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:12:17.082 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:12:17.312 +02:00 INF] [be7b7d67-deee-4b8c-aeb3-ac36b364498b] HTTP GET /health started
+[2026-02-01 12:12:17.374 +02:00 INF] [be7b7d67-deee-4b8c-aeb3-ac36b364498b] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:12:17.510 +02:00 INF] [be7b7d67-deee-4b8c-aeb3-ac36b364498b] Deleted file: healthcheck/test.txt
+[2026-02-01 12:12:17.537 +02:00 INF] [be7b7d67-deee-4b8c-aeb3-ac36b364498b] HTTP GET /health responded 200 in 224.4675 ms
+[2026-02-01 12:12:17.563 +02:00 INF] [] Received HTTP response headers after 478.0503ms - 200
+[2026-02-01 12:12:17.563 +02:00 INF] [] End processing HTTP request after 480.8329ms - 200
+[2026-02-01 12:12:47.706 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:12:47.708 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:12:47.773 +02:00 INF] [a93e4149-0031-4208-b860-defed9b1f8b3] HTTP GET /health started
+[2026-02-01 12:12:47.821 +02:00 INF] [a93e4149-0031-4208-b860-defed9b1f8b3] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:12:47.922 +02:00 INF] [a93e4149-0031-4208-b860-defed9b1f8b3] Deleted file: healthcheck/test.txt
+[2026-02-01 12:12:47.925 +02:00 INF] [] Received HTTP response headers after 216.0274ms - 200
+[2026-02-01 12:12:47.925 +02:00 INF] [] End processing HTTP request after 218.9591ms - 200
+[2026-02-01 12:12:47.924 +02:00 INF] [a93e4149-0031-4208-b860-defed9b1f8b3] HTTP GET /health responded 200 in 151.1326 ms
+[2026-02-01 12:13:17.940 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:13:17.940 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:13:17.997 +02:00 INF] [29225e75-bf7d-4f99-be84-c44fd8f6e15a] HTTP GET /health started
+[2026-02-01 12:13:18.002 +02:00 INF] [29225e75-bf7d-4f99-be84-c44fd8f6e15a] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:13:18.260 +02:00 INF] [29225e75-bf7d-4f99-be84-c44fd8f6e15a] Deleted file: healthcheck/test.txt
+[2026-02-01 12:13:18.267 +02:00 INF] [29225e75-bf7d-4f99-be84-c44fd8f6e15a] HTTP GET /health responded 200 in 269.7749 ms
+[2026-02-01 12:13:18.275 +02:00 INF] [] Received HTTP response headers after 335.1152ms - 200
+[2026-02-01 12:13:18.276 +02:00 INF] [] End processing HTTP request after 335.6063ms - 200
+[2026-02-01 12:13:48.314 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:13:48.315 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:13:48.375 +02:00 INF] [9bfe9e3c-c579-4bd6-8a64-c7af202c376a] HTTP GET /health started
+[2026-02-01 12:13:48.467 +02:00 INF] [9bfe9e3c-c579-4bd6-8a64-c7af202c376a] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:13:48.643 +02:00 INF] [9bfe9e3c-c579-4bd6-8a64-c7af202c376a] Deleted file: healthcheck/test.txt
+[2026-02-01 12:13:48.643 +02:00 INF] [9bfe9e3c-c579-4bd6-8a64-c7af202c376a] HTTP GET /health responded 200 in 268.1789 ms
+[2026-02-01 12:13:48.644 +02:00 INF] [] Received HTTP response headers after 328.8184ms - 200
+[2026-02-01 12:13:48.646 +02:00 INF] [] End processing HTTP request after 332.9948ms - 200
+[2026-02-01 12:14:18.654 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:14:18.656 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:14:18.808 +02:00 INF] [93d767e3-e83d-4717-a7b2-15b05b037526] HTTP GET /health started
+[2026-02-01 12:14:18.833 +02:00 INF] [93d767e3-e83d-4717-a7b2-15b05b037526] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:14:18.867 +02:00 INF] [93d767e3-e83d-4717-a7b2-15b05b037526] Deleted file: healthcheck/test.txt
+[2026-02-01 12:14:18.868 +02:00 INF] [93d767e3-e83d-4717-a7b2-15b05b037526] HTTP GET /health responded 200 in 60.1167 ms
+[2026-02-01 12:14:18.870 +02:00 INF] [] Received HTTP response headers after 211.2385ms - 200
+[2026-02-01 12:14:18.870 +02:00 INF] [] End processing HTTP request after 215.7329ms - 200
+[2026-02-01 12:14:48.884 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:14:48.885 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:14:48.911 +02:00 INF] [3ae61652-a099-4893-841c-bbd0d551b712] HTTP GET /health started
+[2026-02-01 12:14:49.028 +02:00 INF] [3ae61652-a099-4893-841c-bbd0d551b712] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:14:49.126 +02:00 INF] [3ae61652-a099-4893-841c-bbd0d551b712] Deleted file: healthcheck/test.txt
+[2026-02-01 12:14:49.126 +02:00 INF] [3ae61652-a099-4893-841c-bbd0d551b712] HTTP GET /health responded 200 in 239.4462 ms
+[2026-02-01 12:14:49.126 +02:00 INF] [] Received HTTP response headers after 241.2126ms - 200
+[2026-02-01 12:14:49.127 +02:00 INF] [] End processing HTTP request after 243.0878ms - 200
+[2026-02-01 12:15:19.138 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:15:19.142 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:15:19.146 +02:00 INF] [8be84b70-d5be-47b0-9a5e-38f7eb23625b] HTTP GET /health started
+[2026-02-01 12:15:19.150 +02:00 INF] [8be84b70-d5be-47b0-9a5e-38f7eb23625b] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:15:19.263 +02:00 INF] [8be84b70-d5be-47b0-9a5e-38f7eb23625b] Deleted file: healthcheck/test.txt
+[2026-02-01 12:15:19.294 +02:00 INF] [8be84b70-d5be-47b0-9a5e-38f7eb23625b] HTTP GET /health responded 200 in 147.7727 ms
+[2026-02-01 12:15:19.296 +02:00 INF] [] Received HTTP response headers after 153.6403ms - 200
+[2026-02-01 12:15:19.296 +02:00 INF] [] End processing HTTP request after 157.6971ms - 200
+[2026-02-01 12:15:49.349 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:15:49.351 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:15:49.352 +02:00 INF] [1b84638f-46d5-46e8-9016-1f0bc158277a] HTTP GET /health started
+[2026-02-01 12:15:49.433 +02:00 INF] [1b84638f-46d5-46e8-9016-1f0bc158277a] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:15:49.540 +02:00 INF] [1b84638f-46d5-46e8-9016-1f0bc158277a] Deleted file: healthcheck/test.txt
+[2026-02-01 12:15:49.541 +02:00 INF] [1b84638f-46d5-46e8-9016-1f0bc158277a] HTTP GET /health responded 200 in 188.3862 ms
+[2026-02-01 12:15:49.544 +02:00 INF] [] Received HTTP response headers after 193.4836ms - 200
+[2026-02-01 12:15:49.550 +02:00 INF] [] End processing HTTP request after 201.4009ms - 200
+[2026-02-01 12:16:19.593 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:16:19.595 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:16:19.879 +02:00 INF] [e8746bf4-e71e-4ad3-8664-98eaa2a99fa9] HTTP GET /health started
+[2026-02-01 12:16:19.890 +02:00 INF] [e8746bf4-e71e-4ad3-8664-98eaa2a99fa9] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:16:19.960 +02:00 INF] [e8746bf4-e71e-4ad3-8664-98eaa2a99fa9] Deleted file: healthcheck/test.txt
+[2026-02-01 12:16:19.970 +02:00 INF] [e8746bf4-e71e-4ad3-8664-98eaa2a99fa9] HTTP GET /health responded 200 in 90.7378 ms
+[2026-02-01 12:16:19.976 +02:00 INF] [] Received HTTP response headers after 380.4462ms - 200
+[2026-02-01 12:16:19.977 +02:00 INF] [] End processing HTTP request after 383.7277ms - 200
+[2026-02-01 12:16:50.038 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:16:50.074 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:16:50.103 +02:00 INF] [1fbdca0a-61f8-4c95-ac38-1f423534636b] HTTP GET /health started
+[2026-02-01 12:16:50.164 +02:00 INF] [1fbdca0a-61f8-4c95-ac38-1f423534636b] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:16:50.412 +02:00 INF] [1fbdca0a-61f8-4c95-ac38-1f423534636b] Deleted file: healthcheck/test.txt
+[2026-02-01 12:16:50.439 +02:00 INF] [1fbdca0a-61f8-4c95-ac38-1f423534636b] HTTP GET /health responded 200 in 335.8827 ms
+[2026-02-01 12:16:50.439 +02:00 INF] [] Received HTTP response headers after 364.5358ms - 200
+[2026-02-01 12:16:50.439 +02:00 INF] [] End processing HTTP request after 401.4594ms - 200
+[2026-02-01 12:17:20.467 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:17:20.467 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:17:20.480 +02:00 INF] [9451445b-a667-4ca3-aef9-a9d44e3b53bd] HTTP GET /health started
+[2026-02-01 12:17:20.513 +02:00 INF] [9451445b-a667-4ca3-aef9-a9d44e3b53bd] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:17:20.659 +02:00 INF] [9451445b-a667-4ca3-aef9-a9d44e3b53bd] Deleted file: healthcheck/test.txt
+[2026-02-01 12:17:20.662 +02:00 INF] [9451445b-a667-4ca3-aef9-a9d44e3b53bd] HTTP GET /health responded 200 in 181.9811 ms
+[2026-02-01 12:17:20.662 +02:00 INF] [] Received HTTP response headers after 195.2716ms - 200
+[2026-02-01 12:17:20.662 +02:00 INF] [] End processing HTTP request after 195.6756ms - 200
+[2026-02-01 12:17:50.693 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:17:50.693 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:17:50.696 +02:00 INF] [d7292781-7178-4e85-88a9-ea97bbd87779] HTTP GET /health started
+[2026-02-01 12:17:50.791 +02:00 INF] [d7292781-7178-4e85-88a9-ea97bbd87779] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:17:50.948 +02:00 INF] [d7292781-7178-4e85-88a9-ea97bbd87779] Deleted file: healthcheck/test.txt
+[2026-02-01 12:17:51.013 +02:00 INF] [d7292781-7178-4e85-88a9-ea97bbd87779] HTTP GET /health responded 200 in 317.3387 ms
+[2026-02-01 12:17:51.014 +02:00 INF] [] Received HTTP response headers after 318.6961ms - 200
+[2026-02-01 12:17:51.014 +02:00 INF] [] End processing HTTP request after 321.2559ms - 200
+[2026-02-01 12:18:21.056 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:18:21.057 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:18:21.466 +02:00 INF] [48f0d82f-b4fe-467d-8591-bebcf52900ed] HTTP GET /health started
+[2026-02-01 12:18:21.475 +02:00 INF] [48f0d82f-b4fe-467d-8591-bebcf52900ed] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:18:21.654 +02:00 INF] [48f0d82f-b4fe-467d-8591-bebcf52900ed] Deleted file: healthcheck/test.txt
+[2026-02-01 12:18:21.654 +02:00 INF] [48f0d82f-b4fe-467d-8591-bebcf52900ed] HTTP GET /health responded 200 in 188.4186 ms
+[2026-02-01 12:18:21.660 +02:00 INF] [] Received HTTP response headers after 603.3991ms - 200
+[2026-02-01 12:18:21.660 +02:00 INF] [] End processing HTTP request after 606.1731ms - 200
+[2026-02-01 12:18:51.680 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:18:51.680 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:18:51.685 +02:00 INF] [aa6c0e4a-a241-471a-9627-395e143aee80] HTTP GET /health started
+[2026-02-01 12:18:51.687 +02:00 INF] [aa6c0e4a-a241-471a-9627-395e143aee80] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:18:51.822 +02:00 INF] [aa6c0e4a-a241-471a-9627-395e143aee80] Deleted file: healthcheck/test.txt
+[2026-02-01 12:18:51.825 +02:00 INF] [aa6c0e4a-a241-471a-9627-395e143aee80] HTTP GET /health responded 200 in 139.9754 ms
+[2026-02-01 12:18:51.832 +02:00 INF] [] Received HTTP response headers after 149.8774ms - 200
+[2026-02-01 12:18:51.832 +02:00 INF] [] End processing HTTP request after 152.4106ms - 200
+[2026-02-01 12:19:21.877 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:19:21.879 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:19:22.043 +02:00 INF] [0d3e99cd-1722-412e-95fa-5c51a035211a] HTTP GET /health started
+[2026-02-01 12:19:22.120 +02:00 INF] [0d3e99cd-1722-412e-95fa-5c51a035211a] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:19:22.332 +02:00 INF] [0d3e99cd-1722-412e-95fa-5c51a035211a] Deleted file: healthcheck/test.txt
+[2026-02-01 12:19:22.365 +02:00 INF] [0d3e99cd-1722-412e-95fa-5c51a035211a] HTTP GET /health responded 200 in 322.5261 ms
+[2026-02-01 12:19:22.366 +02:00 INF] [] Received HTTP response headers after 486.6867ms - 200
+[2026-02-01 12:19:22.366 +02:00 INF] [] End processing HTTP request after 489.3448ms - 200
+[2026-02-01 12:19:52.416 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:19:52.428 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:19:52.494 +02:00 INF] [61f7f51a-7965-40ad-8622-3007fc76883f] HTTP GET /health started
+[2026-02-01 12:19:52.555 +02:00 INF] [61f7f51a-7965-40ad-8622-3007fc76883f] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:19:52.686 +02:00 INF] [61f7f51a-7965-40ad-8622-3007fc76883f] Deleted file: healthcheck/test.txt
+[2026-02-01 12:19:52.710 +02:00 INF] [61f7f51a-7965-40ad-8622-3007fc76883f] HTTP GET /health responded 200 in 215.6376 ms
+[2026-02-01 12:19:52.710 +02:00 INF] [] Received HTTP response headers after 282.0253ms - 200
+[2026-02-01 12:19:52.713 +02:00 INF] [] End processing HTTP request after 297.3325ms - 200
+[2026-02-01 12:20:22.746 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:20:22.747 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:20:23.003 +02:00 INF] [8cd77d48-990c-4619-a561-62be3f62870c] HTTP GET /health started
+[2026-02-01 12:20:23.008 +02:00 INF] [8cd77d48-990c-4619-a561-62be3f62870c] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:20:23.178 +02:00 INF] [8cd77d48-990c-4619-a561-62be3f62870c] Deleted file: healthcheck/test.txt
+[2026-02-01 12:20:23.186 +02:00 INF] [8cd77d48-990c-4619-a561-62be3f62870c] HTTP GET /health responded 200 in 183.0712 ms
+[2026-02-01 12:20:23.186 +02:00 INF] [] Received HTTP response headers after 437.3351ms - 200
+[2026-02-01 12:20:23.189 +02:00 INF] [] End processing HTTP request after 442.8896ms - 200
+[2026-02-01 12:20:53.198 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:20:53.200 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:20:53.302 +02:00 INF] [c2cf303b-46f3-49f8-81e1-b54bd9459b67] HTTP GET /health started
+[2026-02-01 12:20:53.363 +02:00 INF] [c2cf303b-46f3-49f8-81e1-b54bd9459b67] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:20:53.483 +02:00 INF] [c2cf303b-46f3-49f8-81e1-b54bd9459b67] Deleted file: healthcheck/test.txt
+[2026-02-01 12:20:53.487 +02:00 INF] [c2cf303b-46f3-49f8-81e1-b54bd9459b67] HTTP GET /health responded 200 in 184.9522 ms
+[2026-02-01 12:20:53.505 +02:00 INF] [] Received HTTP response headers after 258.6347ms - 200
+[2026-02-01 12:20:53.505 +02:00 INF] [] End processing HTTP request after 307.47ms - 200
+[2026-02-01 12:21:23.551 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:21:23.554 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:21:23.623 +02:00 INF] [af839b95-6ee2-4ef3-8cd6-b5bbe162e71d] HTTP GET /health started
+[2026-02-01 12:21:23.634 +02:00 INF] [af839b95-6ee2-4ef3-8cd6-b5bbe162e71d] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:21:23.967 +02:00 INF] [af839b95-6ee2-4ef3-8cd6-b5bbe162e71d] Deleted file: healthcheck/test.txt
+[2026-02-01 12:21:24.273 +02:00 INF] [] Received HTTP response headers after 719.1593ms - 200
+[2026-02-01 12:21:24.274 +02:00 INF] [] End processing HTTP request after 723.178ms - 200
+[2026-02-01 12:21:24.269 +02:00 INF] [af839b95-6ee2-4ef3-8cd6-b5bbe162e71d] HTTP GET /health responded 200 in 645.8873 ms
+[2026-02-01 12:21:54.319 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:21:54.320 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:21:54.324 +02:00 INF] [e3821da9-9778-415a-b92a-fbd5710ed789] HTTP GET /health started
+[2026-02-01 12:21:54.518 +02:00 INF] [e3821da9-9778-415a-b92a-fbd5710ed789] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:21:54.627 +02:00 INF] [e3821da9-9778-415a-b92a-fbd5710ed789] Deleted file: healthcheck/test.txt
+[2026-02-01 12:21:54.631 +02:00 INF] [e3821da9-9778-415a-b92a-fbd5710ed789] HTTP GET /health responded 200 in 304.1638 ms
+[2026-02-01 12:21:54.632 +02:00 INF] [] Received HTTP response headers after 311.1174ms - 200
+[2026-02-01 12:21:54.634 +02:00 INF] [] End processing HTTP request after 313.806ms - 200
+[2026-02-01 12:22:24.703 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:22:24.706 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:22:24.936 +02:00 INF] [2148c313-61fb-45a7-8d35-5662bd237aea] HTTP GET /health started
+[2026-02-01 12:22:24.985 +02:00 INF] [2148c313-61fb-45a7-8d35-5662bd237aea] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:22:25.071 +02:00 INF] [2148c313-61fb-45a7-8d35-5662bd237aea] Deleted file: healthcheck/test.txt
+[2026-02-01 12:22:25.074 +02:00 INF] [2148c313-61fb-45a7-8d35-5662bd237aea] HTTP GET /health responded 200 in 137.8079 ms
+[2026-02-01 12:22:25.074 +02:00 INF] [] Received HTTP response headers after 367.7623ms - 200
+[2026-02-01 12:22:25.074 +02:00 INF] [] End processing HTTP request after 370.6206ms - 200
+[2026-02-01 12:22:55.104 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:22:55.105 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:22:55.113 +02:00 INF] [9ca69a56-e1ce-4a2b-bec7-e59580f31010] HTTP GET /health started
+[2026-02-01 12:22:55.208 +02:00 INF] [9ca69a56-e1ce-4a2b-bec7-e59580f31010] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:22:55.226 +02:00 INF] [9ca69a56-e1ce-4a2b-bec7-e59580f31010] Deleted file: healthcheck/test.txt
+[2026-02-01 12:22:55.226 +02:00 INF] [9ca69a56-e1ce-4a2b-bec7-e59580f31010] HTTP GET /health responded 200 in 113.4885 ms
+[2026-02-01 12:22:55.232 +02:00 INF] [] Received HTTP response headers after 123.8778ms - 200
+[2026-02-01 12:22:55.232 +02:00 INF] [] End processing HTTP request after 127.7676ms - 200
+[2026-02-01 12:23:25.255 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:23:25.255 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:23:25.286 +02:00 INF] [13d318f3-d927-44a3-84c8-99c94831bfcb] HTTP GET /health started
+[2026-02-01 12:23:25.381 +02:00 INF] [13d318f3-d927-44a3-84c8-99c94831bfcb] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:23:25.564 +02:00 INF] [13d318f3-d927-44a3-84c8-99c94831bfcb] Deleted file: healthcheck/test.txt
+[2026-02-01 12:23:25.564 +02:00 INF] [13d318f3-d927-44a3-84c8-99c94831bfcb] HTTP GET /health responded 200 in 277.6704 ms
+[2026-02-01 12:23:25.564 +02:00 INF] [] Received HTTP response headers after 304.3774ms - 200
+[2026-02-01 12:23:25.564 +02:00 INF] [] End processing HTTP request after 309.6612ms - 200
+[2026-02-01 12:23:55.638 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:23:55.645 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:23:55.833 +02:00 INF] [1ed63f69-cb00-443b-b4a6-82c691566f78] HTTP GET /health started
+[2026-02-01 12:23:55.877 +02:00 INF] [1ed63f69-cb00-443b-b4a6-82c691566f78] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:23:55.995 +02:00 INF] [1ed63f69-cb00-443b-b4a6-82c691566f78] Deleted file: healthcheck/test.txt
+[2026-02-01 12:23:56.010 +02:00 INF] [1ed63f69-cb00-443b-b4a6-82c691566f78] HTTP GET /health responded 200 in 205.5483 ms
+[2026-02-01 12:23:56.018 +02:00 INF] [] Received HTTP response headers after 372.762ms - 200
+[2026-02-01 12:23:56.018 +02:00 INF] [] End processing HTTP request after 380.8271ms - 200
+[2026-02-01 12:24:26.080 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:24:26.082 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:24:26.298 +02:00 INF] [ae3471c7-f541-4a9a-b0ec-695fba133c49] HTTP GET /health started
+[2026-02-01 12:24:26.346 +02:00 INF] [ae3471c7-f541-4a9a-b0ec-695fba133c49] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:24:26.440 +02:00 INF] [ae3471c7-f541-4a9a-b0ec-695fba133c49] Deleted file: healthcheck/test.txt
+[2026-02-01 12:24:26.455 +02:00 INF] [ae3471c7-f541-4a9a-b0ec-695fba133c49] HTTP GET /health responded 200 in 156.2639 ms
+[2026-02-01 12:24:26.455 +02:00 INF] [] Received HTTP response headers after 372.8547ms - 200
+[2026-02-01 12:24:26.458 +02:00 INF] [] End processing HTTP request after 380.1445ms - 200
+[2026-02-01 12:24:56.475 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:24:56.476 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:24:56.506 +02:00 INF] [7409d3ca-260c-4dd3-8dd0-3325764a2840] HTTP GET /health started
+[2026-02-01 12:24:56.604 +02:00 INF] [7409d3ca-260c-4dd3-8dd0-3325764a2840] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:24:56.803 +02:00 INF] [7409d3ca-260c-4dd3-8dd0-3325764a2840] Deleted file: healthcheck/test.txt
+[2026-02-01 12:24:56.840 +02:00 INF] [7409d3ca-260c-4dd3-8dd0-3325764a2840] HTTP GET /health responded 200 in 335.1288 ms
+[2026-02-01 12:24:56.844 +02:00 INF] [] Received HTTP response headers after 368.003ms - 200
+[2026-02-01 12:24:56.844 +02:00 INF] [] End processing HTTP request after 369.6677ms - 200
+[2026-02-01 12:25:26.858 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:25:26.860 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:25:26.863 +02:00 INF] [376ce957-2ce6-49a4-adc2-03f989467a93] HTTP GET /health started
+[2026-02-01 12:25:26.915 +02:00 INF] [376ce957-2ce6-49a4-adc2-03f989467a93] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:25:27.027 +02:00 INF] [376ce957-2ce6-49a4-adc2-03f989467a93] Deleted file: healthcheck/test.txt
+[2026-02-01 12:25:27.029 +02:00 INF] [376ce957-2ce6-49a4-adc2-03f989467a93] HTTP GET /health responded 200 in 166.2300 ms
+[2026-02-01 12:25:27.030 +02:00 INF] [] Received HTTP response headers after 169.3398ms - 200
+[2026-02-01 12:25:27.030 +02:00 INF] [] End processing HTTP request after 171.5599ms - 200
+[2026-02-01 12:28:26.749 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:28:26.767 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:28:26.884 +02:00 INF] [d90f03c2-62a1-40c9-b33c-7af1eb12ac35] HTTP GET /health started
+[2026-02-01 12:28:26.931 +02:00 INF] [d90f03c2-62a1-40c9-b33c-7af1eb12ac35] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:28:27.159 +02:00 INF] [d90f03c2-62a1-40c9-b33c-7af1eb12ac35] Deleted file: healthcheck/test.txt
+[2026-02-01 12:28:27.182 +02:00 INF] [d90f03c2-62a1-40c9-b33c-7af1eb12ac35] HTTP GET /health responded 200 in 298.0257 ms
+[2026-02-01 12:28:27.188 +02:00 INF] [] Received HTTP response headers after 414.8756ms - 200
+[2026-02-01 12:28:27.189 +02:00 INF] [] End processing HTTP request after 470.2574ms - 200
+[2026-02-01 12:28:57.236 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:28:57.239 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:28:57.468 +02:00 INF] [fb1b141b-ead3-4275-99d0-915e6eaacc97] HTTP GET /health started
+[2026-02-01 12:28:57.476 +02:00 INF] [fb1b141b-ead3-4275-99d0-915e6eaacc97] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:28:57.727 +02:00 INF] [fb1b141b-ead3-4275-99d0-915e6eaacc97] Deleted file: healthcheck/test.txt
+[2026-02-01 12:28:57.750 +02:00 INF] [fb1b141b-ead3-4275-99d0-915e6eaacc97] HTTP GET /health responded 200 in 282.7107 ms
+[2026-02-01 12:28:57.751 +02:00 INF] [] Received HTTP response headers after 511.8532ms - 200
+[2026-02-01 12:28:57.751 +02:00 INF] [] End processing HTTP request after 515.964ms - 200
+[2026-02-01 12:29:27.850 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:29:27.850 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:29:27.893 +02:00 INF] [5e3444ff-1d04-4a9d-9d9c-ee852cdbb207] HTTP GET /health started
+[2026-02-01 12:29:28.159 +02:00 INF] [5e3444ff-1d04-4a9d-9d9c-ee852cdbb207] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:29:28.285 +02:00 INF] [5e3444ff-1d04-4a9d-9d9c-ee852cdbb207] Deleted file: healthcheck/test.txt
+[2026-02-01 12:29:28.309 +02:00 INF] [5e3444ff-1d04-4a9d-9d9c-ee852cdbb207] HTTP GET /health responded 200 in 415.7239 ms
+[2026-02-01 12:29:28.313 +02:00 INF] [] Received HTTP response headers after 459.2017ms - 200
+[2026-02-01 12:29:28.313 +02:00 INF] [] End processing HTTP request after 463.3882ms - 200
+[2026-02-01 12:29:58.339 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:29:58.339 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:29:58.353 +02:00 INF] [c82ca5a7-b09d-48ff-971b-d9944c7fe507] HTTP GET /health started
+[2026-02-01 12:29:58.359 +02:00 INF] [c82ca5a7-b09d-48ff-971b-d9944c7fe507] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:29:58.500 +02:00 INF] [c82ca5a7-b09d-48ff-971b-d9944c7fe507] Deleted file: healthcheck/test.txt
+[2026-02-01 12:29:58.502 +02:00 INF] [] Received HTTP response headers after 162.3871ms - 200
+[2026-02-01 12:29:58.510 +02:00 INF] [] End processing HTTP request after 170.5176ms - 200
+[2026-02-01 12:29:58.501 +02:00 INF] [c82ca5a7-b09d-48ff-971b-d9944c7fe507] HTTP GET /health responded 200 in 147.4483 ms
+[2026-02-01 12:30:28.549 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:30:28.549 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:30:28.615 +02:00 INF] [46b13c2b-8c6e-4586-a02f-5e17d521d6ab] HTTP GET /health started
+[2026-02-01 12:30:28.791 +02:00 INF] [46b13c2b-8c6e-4586-a02f-5e17d521d6ab] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:30:28.972 +02:00 INF] [46b13c2b-8c6e-4586-a02f-5e17d521d6ab] Deleted file: healthcheck/test.txt
+[2026-02-01 12:30:29.015 +02:00 INF] [46b13c2b-8c6e-4586-a02f-5e17d521d6ab] HTTP GET /health responded 200 in 401.9653 ms
+[2026-02-01 12:30:29.016 +02:00 INF] [] Received HTTP response headers after 466.8648ms - 200
+[2026-02-01 12:30:29.025 +02:00 INF] [] End processing HTTP request after 476.2205ms - 200
+[2026-02-01 12:30:59.074 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:30:59.074 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:30:59.362 +02:00 INF] [e7f1140c-fd9e-45b5-919d-331523e7f2ab] HTTP GET /health started
+[2026-02-01 12:30:59.407 +02:00 INF] [e7f1140c-fd9e-45b5-919d-331523e7f2ab] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:30:59.543 +02:00 INF] [e7f1140c-fd9e-45b5-919d-331523e7f2ab] Deleted file: healthcheck/test.txt
+[2026-02-01 12:30:59.545 +02:00 INF] [e7f1140c-fd9e-45b5-919d-331523e7f2ab] HTTP GET /health responded 200 in 183.4894 ms
+[2026-02-01 12:30:59.546 +02:00 INF] [] Received HTTP response headers after 472.1686ms - 200
+[2026-02-01 12:30:59.548 +02:00 INF] [] End processing HTTP request after 473.7183ms - 200
+[2026-02-01 12:31:29.561 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:31:29.565 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:31:29.694 +02:00 INF] [b38a395d-fa76-45dd-9359-78877700c279] HTTP GET /health started
+[2026-02-01 12:31:29.710 +02:00 INF] [b38a395d-fa76-45dd-9359-78877700c279] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:31:29.762 +02:00 INF] [b38a395d-fa76-45dd-9359-78877700c279] Deleted file: healthcheck/test.txt
+[2026-02-01 12:31:29.763 +02:00 INF] [b38a395d-fa76-45dd-9359-78877700c279] HTTP GET /health responded 200 in 68.2325 ms
+[2026-02-01 12:31:29.763 +02:00 INF] [] Received HTTP response headers after 196.4123ms - 200
+[2026-02-01 12:31:29.763 +02:00 INF] [] End processing HTTP request after 201.4147ms - 200
+[2026-02-01 12:31:59.787 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:31:59.788 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:31:59.791 +02:00 INF] [f4172ff6-1e55-4f28-8081-0c984a8e25c6] HTTP GET /health started
+[2026-02-01 12:31:59.835 +02:00 INF] [f4172ff6-1e55-4f28-8081-0c984a8e25c6] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:32:00.023 +02:00 INF] [f4172ff6-1e55-4f28-8081-0c984a8e25c6] Deleted file: healthcheck/test.txt
+[2026-02-01 12:32:00.026 +02:00 INF] [f4172ff6-1e55-4f28-8081-0c984a8e25c6] HTTP GET /health responded 200 in 235.4698 ms
+[2026-02-01 12:32:00.035 +02:00 INF] [] Received HTTP response headers after 246.7809ms - 200
+[2026-02-01 12:32:00.039 +02:00 INF] [] End processing HTTP request after 252.2608ms - 200
+[2026-02-01 12:32:30.053 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:32:30.055 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:32:30.086 +02:00 INF] [33d83ece-0030-4b1f-a597-06993b151e93] HTTP GET /health started
+[2026-02-01 12:32:30.159 +02:00 INF] [33d83ece-0030-4b1f-a597-06993b151e93] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:32:30.255 +02:00 INF] [33d83ece-0030-4b1f-a597-06993b151e93] Deleted file: healthcheck/test.txt
+[2026-02-01 12:32:30.260 +02:00 INF] [33d83ece-0030-4b1f-a597-06993b151e93] HTTP GET /health responded 200 in 175.1757 ms
+[2026-02-01 12:32:30.260 +02:00 INF] [] Received HTTP response headers after 205.0658ms - 200
+[2026-02-01 12:32:30.260 +02:00 INF] [] End processing HTTP request after 207.6812ms - 200
+[2026-02-01 12:33:00.297 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:33:00.301 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:33:00.456 +02:00 INF] [fb2411a6-7320-49a8-a24b-00f5c93a7f88] HTTP GET /health started
+[2026-02-01 12:33:00.483 +02:00 INF] [fb2411a6-7320-49a8-a24b-00f5c93a7f88] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:33:00.586 +02:00 INF] [fb2411a6-7320-49a8-a24b-00f5c93a7f88] Deleted file: healthcheck/test.txt
+[2026-02-01 12:33:00.637 +02:00 INF] [fb2411a6-7320-49a8-a24b-00f5c93a7f88] HTTP GET /health responded 200 in 181.4537 ms
+[2026-02-01 12:33:00.638 +02:00 INF] [] Received HTTP response headers after 337.3251ms - 200
+[2026-02-01 12:33:00.639 +02:00 INF] [] End processing HTTP request after 343.4952ms - 200
+[2026-02-01 12:33:30.707 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:33:30.709 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:33:30.792 +02:00 INF] [0ff13297-25e5-44b7-bea2-ecab62a99155] HTTP GET /health started
+[2026-02-01 12:33:30.886 +02:00 INF] [0ff13297-25e5-44b7-bea2-ecab62a99155] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:33:31.085 +02:00 INF] [0ff13297-25e5-44b7-bea2-ecab62a99155] Deleted file: healthcheck/test.txt
+[2026-02-01 12:33:31.089 +02:00 INF] [0ff13297-25e5-44b7-bea2-ecab62a99155] HTTP GET /health responded 200 in 296.9966 ms
+[2026-02-01 12:33:31.092 +02:00 INF] [] Received HTTP response headers after 382.9089ms - 200
+[2026-02-01 12:33:31.092 +02:00 INF] [] End processing HTTP request after 385.1916ms - 200
+[2026-02-01 12:34:01.144 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:34:01.146 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:34:01.175 +02:00 INF] [efeb35f5-d68a-41a7-bc32-7876cb5ccdc0] HTTP GET /health started
+[2026-02-01 12:34:01.200 +02:00 INF] [efeb35f5-d68a-41a7-bc32-7876cb5ccdc0] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:34:01.346 +02:00 INF] [efeb35f5-d68a-41a7-bc32-7876cb5ccdc0] Deleted file: healthcheck/test.txt
+[2026-02-01 12:34:01.346 +02:00 INF] [efeb35f5-d68a-41a7-bc32-7876cb5ccdc0] HTTP GET /health responded 200 in 171.7235 ms
+[2026-02-01 12:34:01.346 +02:00 INF] [] Received HTTP response headers after 200.5125ms - 200
+[2026-02-01 12:34:01.351 +02:00 INF] [] End processing HTTP request after 215.7422ms - 200
+[2026-02-01 12:34:31.377 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:34:31.378 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:34:31.437 +02:00 INF] [e64f1beb-13bf-4b5e-8f45-5767107c2e32] HTTP GET /health started
+[2026-02-01 12:34:31.711 +02:00 INF] [e64f1beb-13bf-4b5e-8f45-5767107c2e32] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:34:31.787 +02:00 INF] [e64f1beb-13bf-4b5e-8f45-5767107c2e32] Deleted file: healthcheck/test.txt
+[2026-02-01 12:34:31.802 +02:00 INF] [e64f1beb-13bf-4b5e-8f45-5767107c2e32] HTTP GET /health responded 200 in 396.4124 ms
+[2026-02-01 12:34:31.807 +02:00 INF] [] Received HTTP response headers after 428.8166ms - 200
+[2026-02-01 12:34:31.812 +02:00 INF] [] End processing HTTP request after 434.9748ms - 200
+[2026-02-01 12:35:01.917 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:35:01.920 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:35:02.064 +02:00 INF] [c589cb43-a877-42aa-92af-da8696edf69b] HTTP GET /health started
+[2026-02-01 12:35:02.067 +02:00 INF] [c589cb43-a877-42aa-92af-da8696edf69b] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:35:02.199 +02:00 INF] [c589cb43-a877-42aa-92af-da8696edf69b] Deleted file: healthcheck/test.txt
+[2026-02-01 12:35:02.234 +02:00 INF] [c589cb43-a877-42aa-92af-da8696edf69b] HTTP GET /health responded 200 in 170.1534 ms
+[2026-02-01 12:35:02.235 +02:00 INF] [] Received HTTP response headers after 314.0192ms - 200
+[2026-02-01 12:35:02.235 +02:00 INF] [] End processing HTTP request after 318.5272ms - 200
+[2026-02-01 12:35:32.313 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:35:32.364 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:35:32.496 +02:00 INF] [db205920-7e72-4258-89ee-3b0deebdbe21] HTTP GET /health started
+[2026-02-01 12:35:32.540 +02:00 INF] [db205920-7e72-4258-89ee-3b0deebdbe21] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:35:32.835 +02:00 INF] [db205920-7e72-4258-89ee-3b0deebdbe21] Deleted file: healthcheck/test.txt
+[2026-02-01 12:35:32.838 +02:00 INF] [db205920-7e72-4258-89ee-3b0deebdbe21] HTTP GET /health responded 200 in 366.9896 ms
+[2026-02-01 12:35:32.842 +02:00 INF] [] Received HTTP response headers after 477.7182ms - 200
+[2026-02-01 12:35:32.850 +02:00 INF] [] End processing HTTP request after 537.5265ms - 200
+[2026-02-01 12:36:02.871 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:36:02.871 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:36:02.874 +02:00 INF] [1bee8485-e3c9-4933-b32a-83c7927fca9a] HTTP GET /health started
+[2026-02-01 12:36:02.879 +02:00 INF] [1bee8485-e3c9-4933-b32a-83c7927fca9a] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:36:02.937 +02:00 INF] [1bee8485-e3c9-4933-b32a-83c7927fca9a] Deleted file: healthcheck/test.txt
+[2026-02-01 12:36:02.941 +02:00 INF] [1bee8485-e3c9-4933-b32a-83c7927fca9a] HTTP GET /health responded 200 in 67.1310 ms
+[2026-02-01 12:36:02.967 +02:00 INF] [] Received HTTP response headers after 95.4989ms - 200
+[2026-02-01 12:36:02.986 +02:00 INF] [] End processing HTTP request after 115.4799ms - 200
+[2026-02-01 12:36:33.004 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:36:33.004 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:36:33.028 +02:00 INF] [208225c5-8fba-46f2-8bcf-ebd60a832453] HTTP GET /health started
+[2026-02-01 12:36:33.168 +02:00 INF] [208225c5-8fba-46f2-8bcf-ebd60a832453] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:36:33.288 +02:00 INF] [208225c5-8fba-46f2-8bcf-ebd60a832453] Deleted file: healthcheck/test.txt
+[2026-02-01 12:36:33.290 +02:00 INF] [208225c5-8fba-46f2-8bcf-ebd60a832453] HTTP GET /health responded 200 in 262.1647 ms
+[2026-02-01 12:36:33.291 +02:00 INF] [] Received HTTP response headers after 286.8196ms - 200
+[2026-02-01 12:36:33.291 +02:00 INF] [] End processing HTTP request after 287.3402ms - 200
+[2026-02-01 12:37:03.319 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:37:03.319 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:37:03.543 +02:00 INF] [edfd5a51-72b3-4e5b-9d54-8e93256b870c] HTTP GET /health started
+[2026-02-01 12:37:03.569 +02:00 INF] [edfd5a51-72b3-4e5b-9d54-8e93256b870c] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:37:03.726 +02:00 INF] [edfd5a51-72b3-4e5b-9d54-8e93256b870c] Deleted file: healthcheck/test.txt
+[2026-02-01 12:37:03.727 +02:00 INF] [edfd5a51-72b3-4e5b-9d54-8e93256b870c] HTTP GET /health responded 200 in 183.7400 ms
+[2026-02-01 12:37:03.727 +02:00 INF] [] Received HTTP response headers after 407.9123ms - 200
+[2026-02-01 12:37:03.728 +02:00 INF] [] End processing HTTP request after 408.9ms - 200
+[2026-02-01 12:37:33.767 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:37:33.767 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:37:33.795 +02:00 INF] [63546d06-0693-4c76-bb4f-8acb55e51e68] HTTP GET /health started
+[2026-02-01 12:37:33.933 +02:00 INF] [63546d06-0693-4c76-bb4f-8acb55e51e68] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:37:34.010 +02:00 INF] [63546d06-0693-4c76-bb4f-8acb55e51e68] Deleted file: healthcheck/test.txt
+[2026-02-01 12:37:34.016 +02:00 INF] [63546d06-0693-4c76-bb4f-8acb55e51e68] HTTP GET /health responded 200 in 221.7149 ms
+[2026-02-01 12:37:34.017 +02:00 INF] [] Received HTTP response headers after 247.0079ms - 200
+[2026-02-01 12:37:34.020 +02:00 INF] [] End processing HTTP request after 252.7051ms - 200
+[2026-02-01 12:38:04.050 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:38:04.055 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:38:04.060 +02:00 INF] [7ac35fa4-3960-459c-852d-24351e149450] HTTP GET /health started
+[2026-02-01 12:38:04.106 +02:00 INF] [7ac35fa4-3960-459c-852d-24351e149450] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:38:04.203 +02:00 INF] [7ac35fa4-3960-459c-852d-24351e149450] Deleted file: healthcheck/test.txt
+[2026-02-01 12:38:04.216 +02:00 INF] [7ac35fa4-3960-459c-852d-24351e149450] HTTP GET /health responded 200 in 155.5676 ms
+[2026-02-01 12:38:04.217 +02:00 INF] [] Received HTTP response headers after 161.4068ms - 200
+[2026-02-01 12:38:04.220 +02:00 INF] [] End processing HTTP request after 171.9933ms - 200
+[2026-02-01 12:38:34.248 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:38:34.250 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:38:34.256 +02:00 INF] [185e2129-e944-49ca-bd92-2aeeb813c814] HTTP GET /health started
+[2026-02-01 12:38:34.433 +02:00 INF] [185e2129-e944-49ca-bd92-2aeeb813c814] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:38:34.439 +02:00 INF] [185e2129-e944-49ca-bd92-2aeeb813c814] Deleted file: healthcheck/test.txt
+[2026-02-01 12:38:34.466 +02:00 INF] [185e2129-e944-49ca-bd92-2aeeb813c814] HTTP GET /health responded 200 in 210.0017 ms
+[2026-02-01 12:38:34.466 +02:00 INF] [] Received HTTP response headers after 215.7304ms - 200
+[2026-02-01 12:38:34.466 +02:00 INF] [] End processing HTTP request after 218.2676ms - 200
+[2026-02-01 12:39:04.526 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:39:04.569 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:39:04.997 +02:00 INF] [8ff9e2d6-d121-444f-87ed-66e519a61a93] HTTP GET /health started
+[2026-02-01 12:39:05.004 +02:00 INF] [8ff9e2d6-d121-444f-87ed-66e519a61a93] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:39:05.108 +02:00 INF] [8ff9e2d6-d121-444f-87ed-66e519a61a93] Deleted file: healthcheck/test.txt
+[2026-02-01 12:39:05.126 +02:00 INF] [8ff9e2d6-d121-444f-87ed-66e519a61a93] HTTP GET /health responded 200 in 129.4043 ms
+[2026-02-01 12:39:05.127 +02:00 INF] [] Received HTTP response headers after 557.838ms - 200
+[2026-02-01 12:39:05.128 +02:00 INF] [] End processing HTTP request after 603.1477ms - 200
+[2026-02-01 12:39:35.178 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:39:35.197 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:39:35.354 +02:00 INF] [d1892394-0eba-4820-aa25-493d976faf62] HTTP GET /health started
+[2026-02-01 12:39:35.486 +02:00 INF] [d1892394-0eba-4820-aa25-493d976faf62] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:39:35.716 +02:00 INF] [d1892394-0eba-4820-aa25-493d976faf62] Deleted file: healthcheck/test.txt
+[2026-02-01 12:39:35.776 +02:00 INF] [d1892394-0eba-4820-aa25-493d976faf62] HTTP GET /health responded 200 in 422.9488 ms
+[2026-02-01 12:39:35.800 +02:00 INF] [] Received HTTP response headers after 601.7411ms - 200
+[2026-02-01 12:39:35.800 +02:00 INF] [] End processing HTTP request after 621.7192ms - 200
+[2026-02-01 12:40:05.831 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:40:05.831 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:40:05.836 +02:00 INF] [82b48aa6-2a9e-4810-979a-2a5063ee68c1] HTTP GET /health started
+[2026-02-01 12:40:05.860 +02:00 INF] [82b48aa6-2a9e-4810-979a-2a5063ee68c1] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:40:05.990 +02:00 INF] [82b48aa6-2a9e-4810-979a-2a5063ee68c1] Deleted file: healthcheck/test.txt
+[2026-02-01 12:40:05.991 +02:00 INF] [] Received HTTP response headers after 159.9637ms - 200
+[2026-02-01 12:40:05.991 +02:00 INF] [] End processing HTTP request after 160.5653ms - 200
+[2026-02-01 12:40:05.995 +02:00 INF] [82b48aa6-2a9e-4810-979a-2a5063ee68c1] HTTP GET /health responded 200 in 155.0847 ms
+[2026-02-01 12:40:36.064 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:40:36.068 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:40:36.069 +02:00 INF] [7fa9b729-e623-4257-9ff2-9da7e21160e9] HTTP GET /health started
+[2026-02-01 12:40:36.233 +02:00 INF] [7fa9b729-e623-4257-9ff2-9da7e21160e9] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:40:36.405 +02:00 INF] [7fa9b729-e623-4257-9ff2-9da7e21160e9] Deleted file: healthcheck/test.txt
+[2026-02-01 12:40:36.408 +02:00 INF] [7fa9b729-e623-4257-9ff2-9da7e21160e9] HTTP GET /health responded 200 in 338.8762 ms
+[2026-02-01 12:40:36.408 +02:00 INF] [] Received HTTP response headers after 339.9886ms - 200
+[2026-02-01 12:40:36.410 +02:00 INF] [] End processing HTTP request after 346.2565ms - 200
+[2026-02-01 12:41:06.431 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:41:06.431 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:41:06.712 +02:00 INF] [c3cfd65e-116d-4f33-8197-987589046efc] HTTP GET /health started
+[2026-02-01 12:41:06.808 +02:00 INF] [c3cfd65e-116d-4f33-8197-987589046efc] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:41:07.000 +02:00 INF] [c3cfd65e-116d-4f33-8197-987589046efc] Deleted file: healthcheck/test.txt
+[2026-02-01 12:41:07.113 +02:00 INF] [c3cfd65e-116d-4f33-8197-987589046efc] HTTP GET /health responded 200 in 401.1963 ms
+[2026-02-01 12:41:07.116 +02:00 INF] [] Received HTTP response headers after 684.4691ms - 200
+[2026-02-01 12:41:07.116 +02:00 INF] [] End processing HTTP request after 684.992ms - 200
+[2026-02-01 12:41:37.162 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:41:37.163 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:41:37.224 +02:00 INF] [796b0605-ab44-4e36-a0a4-4626b83b3905] HTTP GET /health started
+[2026-02-01 12:41:37.280 +02:00 INF] [796b0605-ab44-4e36-a0a4-4626b83b3905] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:41:37.457 +02:00 INF] [796b0605-ab44-4e36-a0a4-4626b83b3905] Deleted file: healthcheck/test.txt
+[2026-02-01 12:41:37.458 +02:00 INF] [796b0605-ab44-4e36-a0a4-4626b83b3905] HTTP GET /health responded 200 in 234.2190 ms
+[2026-02-01 12:41:37.459 +02:00 INF] [] Received HTTP response headers after 261.3953ms - 200
+[2026-02-01 12:41:37.460 +02:00 INF] [] End processing HTTP request after 297.9262ms - 200
+[2026-02-01 12:42:07.478 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:42:07.480 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:42:07.481 +02:00 INF] [5c2245e1-6ba4-4992-9bd3-8c981ef3aecd] HTTP GET /health started
+[2026-02-01 12:42:07.507 +02:00 INF] [5c2245e1-6ba4-4992-9bd3-8c981ef3aecd] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:42:07.669 +02:00 INF] [5c2245e1-6ba4-4992-9bd3-8c981ef3aecd] Deleted file: healthcheck/test.txt
+[2026-02-01 12:42:07.671 +02:00 INF] [5c2245e1-6ba4-4992-9bd3-8c981ef3aecd] HTTP GET /health responded 200 in 190.3975 ms
+[2026-02-01 12:42:07.678 +02:00 INF] [] Received HTTP response headers after 198.0477ms - 200
+[2026-02-01 12:42:07.680 +02:00 INF] [] End processing HTTP request after 203.7156ms - 200
+[2026-02-01 12:42:37.700 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:42:37.701 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:42:37.727 +02:00 INF] [c7dc49f5-719f-4b24-a504-1fd4fbb8d73b] HTTP GET /health started
+[2026-02-01 12:42:37.844 +02:00 INF] [c7dc49f5-719f-4b24-a504-1fd4fbb8d73b] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:42:37.979 +02:00 INF] [c7dc49f5-719f-4b24-a504-1fd4fbb8d73b] Deleted file: healthcheck/test.txt
+[2026-02-01 12:42:37.980 +02:00 INF] [c7dc49f5-719f-4b24-a504-1fd4fbb8d73b] HTTP GET /health responded 200 in 252.8338 ms
+[2026-02-01 12:42:37.982 +02:00 INF] [] Received HTTP response headers after 280.6423ms - 200
+[2026-02-01 12:42:37.982 +02:00 INF] [] End processing HTTP request after 282.301ms - 200
+[2026-02-01 12:43:08.008 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:43:08.008 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:43:08.210 +02:00 INF] [6eafea86-7808-45a4-845e-5da643fdf8eb] HTTP GET /health started
+[2026-02-01 12:43:08.237 +02:00 INF] [6eafea86-7808-45a4-845e-5da643fdf8eb] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:43:08.351 +02:00 INF] [6eafea86-7808-45a4-845e-5da643fdf8eb] Deleted file: healthcheck/test.txt
+[2026-02-01 12:43:08.362 +02:00 INF] [6eafea86-7808-45a4-845e-5da643fdf8eb] HTTP GET /health responded 200 in 151.5888 ms
+[2026-02-01 12:43:08.362 +02:00 INF] [] Received HTTP response headers after 353.6074ms - 200
+[2026-02-01 12:43:08.364 +02:00 INF] [] End processing HTTP request after 356.4503ms - 200
+[2026-02-01 12:43:38.379 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:43:38.379 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:43:38.401 +02:00 INF] [325a7b79-22ce-4cef-b7ad-20e3109fa8bb] HTTP GET /health started
+[2026-02-01 12:43:38.477 +02:00 INF] [325a7b79-22ce-4cef-b7ad-20e3109fa8bb] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:43:38.645 +02:00 INF] [325a7b79-22ce-4cef-b7ad-20e3109fa8bb] Deleted file: healthcheck/test.txt
+[2026-02-01 12:43:38.649 +02:00 INF] [325a7b79-22ce-4cef-b7ad-20e3109fa8bb] HTTP GET /health responded 200 in 248.8039 ms
+[2026-02-01 12:43:38.653 +02:00 INF] [] Received HTTP response headers after 273.6754ms - 200
+[2026-02-01 12:43:38.656 +02:00 INF] [] End processing HTTP request after 277.0326ms - 200
+[2026-02-01 12:44:08.710 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:44:08.713 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:44:08.794 +02:00 INF] [7d49f8f7-cb2e-4419-b03f-7a5f14b9f4ea] HTTP GET /health started
+[2026-02-01 12:44:08.871 +02:00 INF] [7d49f8f7-cb2e-4419-b03f-7a5f14b9f4ea] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:44:08.876 +02:00 INF] [7d49f8f7-cb2e-4419-b03f-7a5f14b9f4ea] Deleted file: healthcheck/test.txt
+[2026-02-01 12:44:08.898 +02:00 INF] [7d49f8f7-cb2e-4419-b03f-7a5f14b9f4ea] HTTP GET /health responded 200 in 104.4329 ms
+[2026-02-01 12:44:08.902 +02:00 INF] [] Received HTTP response headers after 188.3027ms - 200
+[2026-02-01 12:44:08.902 +02:00 INF] [] End processing HTTP request after 191.904ms - 200
+[2026-02-01 12:44:41.378 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:44:41.381 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:44:41.421 +02:00 INF] [8a35c3c5-f925-4778-a4d6-3d15183f6ae0] HTTP GET /health started
+[2026-02-01 12:44:42.102 +02:00 INF] [8a35c3c5-f925-4778-a4d6-3d15183f6ae0] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:44:42.467 +02:00 INF] [8a35c3c5-f925-4778-a4d6-3d15183f6ae0] Deleted file: healthcheck/test.txt
+[2026-02-01 12:44:42.476 +02:00 INF] [8a35c3c5-f925-4778-a4d6-3d15183f6ae0] HTTP GET /health responded 200 in 1055.8052 ms
+[2026-02-01 12:44:42.479 +02:00 INF] [] Received HTTP response headers after 1097.2634ms - 200
+[2026-02-01 12:44:42.481 +02:00 INF] [] End processing HTTP request after 1123.8657ms - 200
+[2026-02-01 12:45:12.861 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:45:12.868 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:45:13.053 +02:00 INF] [bd046d51-526f-4502-9b41-ccceb400bf3d] HTTP GET /health started
+[2026-02-01 12:45:13.136 +02:00 INF] [bd046d51-526f-4502-9b41-ccceb400bf3d] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:45:13.216 +02:00 INF] [bd046d51-526f-4502-9b41-ccceb400bf3d] Deleted file: healthcheck/test.txt
+[2026-02-01 12:45:13.251 +02:00 INF] [bd046d51-526f-4502-9b41-ccceb400bf3d] HTTP GET /health responded 200 in 197.7554 ms
+[2026-02-01 12:45:13.252 +02:00 INF] [] Received HTTP response headers after 383.6309ms - 200
+[2026-02-01 12:45:13.254 +02:00 INF] [] End processing HTTP request after 394.1958ms - 200
+[2026-02-01 12:45:43.295 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:45:43.299 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:45:43.352 +02:00 INF] [4a4f1829-bc24-4b0d-ab3d-c2faacb0d7d7] HTTP GET /health started
+[2026-02-01 12:45:43.632 +02:00 INF] [4a4f1829-bc24-4b0d-ab3d-c2faacb0d7d7] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:45:43.734 +02:00 INF] [4a4f1829-bc24-4b0d-ab3d-c2faacb0d7d7] Deleted file: healthcheck/test.txt
+[2026-02-01 12:45:43.752 +02:00 INF] [4a4f1829-bc24-4b0d-ab3d-c2faacb0d7d7] HTTP GET /health responded 200 in 400.6500 ms
+[2026-02-01 12:45:43.753 +02:00 INF] [] Received HTTP response headers after 453.4931ms - 200
+[2026-02-01 12:45:43.754 +02:00 INF] [] End processing HTTP request after 462.0857ms - 200
+[2026-02-01 12:46:13.818 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:46:13.820 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:46:13.876 +02:00 INF] [f47204cf-ed21-43b1-a261-0beddfaf4b13] HTTP GET /health started
+[2026-02-01 12:46:14.090 +02:00 INF] [f47204cf-ed21-43b1-a261-0beddfaf4b13] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:46:14.153 +02:00 INF] [f47204cf-ed21-43b1-a261-0beddfaf4b13] Deleted file: healthcheck/test.txt
+[2026-02-01 12:46:14.232 +02:00 INF] [] Received HTTP response headers after 412.0848ms - 200
+[2026-02-01 12:46:14.234 +02:00 INF] [] End processing HTTP request after 417.243ms - 200
+[2026-02-01 12:46:14.232 +02:00 INF] [f47204cf-ed21-43b1-a261-0beddfaf4b13] HTTP GET /health responded 200 in 355.8806 ms
+[2026-02-01 12:46:44.331 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:46:44.333 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:46:44.508 +02:00 INF] [c41d3574-e1d6-4bc7-a9f1-8ae9a6fac519] HTTP GET /health started
+[2026-02-01 12:46:44.639 +02:00 INF] [c41d3574-e1d6-4bc7-a9f1-8ae9a6fac519] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:46:44.778 +02:00 INF] [c41d3574-e1d6-4bc7-a9f1-8ae9a6fac519] Deleted file: healthcheck/test.txt
+[2026-02-01 12:46:44.792 +02:00 INF] [] Received HTTP response headers after 458.5305ms - 200
+[2026-02-01 12:46:44.792 +02:00 INF] [] End processing HTTP request after 461.5751ms - 200
+[2026-02-01 12:46:44.817 +02:00 INF] [c41d3574-e1d6-4bc7-a9f1-8ae9a6fac519] HTTP GET /health responded 200 in 289.2854 ms
+[2026-02-01 12:47:14.922 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:47:14.933 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:47:15.361 +02:00 INF] [79c988b9-c67e-47ed-b072-5b60454b0366] HTTP GET /health started
+[2026-02-01 12:47:15.453 +02:00 INF] [79c988b9-c67e-47ed-b072-5b60454b0366] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:47:15.611 +02:00 INF] [79c988b9-c67e-47ed-b072-5b60454b0366] Deleted file: healthcheck/test.txt
+[2026-02-01 12:47:15.638 +02:00 INF] [79c988b9-c67e-47ed-b072-5b60454b0366] HTTP GET /health responded 200 in 279.1159 ms
+[2026-02-01 12:47:15.642 +02:00 INF] [] Received HTTP response headers after 708.7393ms - 200
+[2026-02-01 12:47:15.642 +02:00 INF] [] End processing HTTP request after 720.2127ms - 200
+[2026-02-01 12:47:45.734 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:47:45.790 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:47:45.799 +02:00 INF] [15f3a323-35bf-4881-82ad-2f0e93e6a302] HTTP GET /health started
+[2026-02-01 12:47:45.803 +02:00 INF] [15f3a323-35bf-4881-82ad-2f0e93e6a302] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:47:45.928 +02:00 INF] [15f3a323-35bf-4881-82ad-2f0e93e6a302] Deleted file: healthcheck/test.txt
+[2026-02-01 12:47:45.958 +02:00 INF] [15f3a323-35bf-4881-82ad-2f0e93e6a302] HTTP GET /health responded 200 in 159.1636 ms
+[2026-02-01 12:47:45.959 +02:00 INF] [] Received HTTP response headers after 167.8044ms - 200
+[2026-02-01 12:47:45.959 +02:00 INF] [] End processing HTTP request after 225.409ms - 200
+[2026-02-01 12:48:16.007 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:48:16.011 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:48:16.023 +02:00 INF] [7db6f643-d42e-4dd2-a5ac-891e0509346d] HTTP GET /health started
+[2026-02-01 12:48:16.101 +02:00 INF] [7db6f643-d42e-4dd2-a5ac-891e0509346d] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:48:16.257 +02:00 INF] [7db6f643-d42e-4dd2-a5ac-891e0509346d] Deleted file: healthcheck/test.txt
+[2026-02-01 12:48:16.316 +02:00 INF] [7db6f643-d42e-4dd2-a5ac-891e0509346d] HTTP GET /health responded 200 in 292.3536 ms
+[2026-02-01 12:48:16.319 +02:00 INF] [] Received HTTP response headers after 307.6311ms - 200
+[2026-02-01 12:48:16.320 +02:00 INF] [] End processing HTTP request after 314.26ms - 200
+[2026-02-01 12:48:46.392 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:48:46.394 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:48:46.446 +02:00 INF] [33b69740-7b58-468c-ae74-162a8dbd69f5] HTTP GET /health started
+[2026-02-01 12:48:46.707 +02:00 INF] [33b69740-7b58-468c-ae74-162a8dbd69f5] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:48:47.883 +02:00 INF] [33b69740-7b58-468c-ae74-162a8dbd69f5] Deleted file: healthcheck/test.txt
+[2026-02-01 12:48:47.904 +02:00 INF] [33b69740-7b58-468c-ae74-162a8dbd69f5] HTTP GET /health responded 200 in 1458.0092 ms
+[2026-02-01 12:48:47.904 +02:00 INF] [] Received HTTP response headers after 1510.1774ms - 200
+[2026-02-01 12:48:47.905 +02:00 INF] [] End processing HTTP request after 1513.4787ms - 200
+[2026-02-01 12:49:18.024 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:49:18.025 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:49:18.360 +02:00 INF] [fb03bc8e-72d8-4f03-a760-c5edd93fe005] HTTP GET /health started
+[2026-02-01 12:49:18.456 +02:00 INF] [fb03bc8e-72d8-4f03-a760-c5edd93fe005] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:49:18.623 +02:00 INF] [fb03bc8e-72d8-4f03-a760-c5edd93fe005] Deleted file: healthcheck/test.txt
+[2026-02-01 12:49:18.742 +02:00 INF] [fb03bc8e-72d8-4f03-a760-c5edd93fe005] HTTP GET /health responded 200 in 381.7130 ms
+[2026-02-01 12:49:18.745 +02:00 INF] [] Received HTTP response headers after 718.4924ms - 200
+[2026-02-01 12:49:18.745 +02:00 INF] [] End processing HTTP request after 722.2086ms - 200
+[2026-02-01 12:49:49.061 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:49:49.080 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:49:49.271 +02:00 INF] [e5c5d279-a016-4ca3-a1fc-fa889a4537f4] HTTP GET /health started
+[2026-02-01 12:49:49.323 +02:00 INF] [e5c5d279-a016-4ca3-a1fc-fa889a4537f4] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:49:49.628 +02:00 INF] [e5c5d279-a016-4ca3-a1fc-fa889a4537f4] Deleted file: healthcheck/test.txt
+[2026-02-01 12:49:50.223 +02:00 INF] [e5c5d279-a016-4ca3-a1fc-fa889a4537f4] HTTP GET /health responded 200 in 952.6601 ms
+[2026-02-01 12:49:50.230 +02:00 INF] [] Received HTTP response headers after 1148.4622ms - 200
+[2026-02-01 12:49:50.230 +02:00 INF] [] End processing HTTP request after 1169.2032ms - 200
+[2026-02-01 12:50:20.385 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:50:20.386 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:50:20.446 +02:00 INF] [b600e0dd-6029-4110-9034-0d98cd3f733a] HTTP GET /health started
+[2026-02-01 12:50:20.527 +02:00 INF] [b600e0dd-6029-4110-9034-0d98cd3f733a] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:50:20.708 +02:00 INF] [b600e0dd-6029-4110-9034-0d98cd3f733a] Deleted file: healthcheck/test.txt
+[2026-02-01 12:50:20.817 +02:00 INF] [b600e0dd-6029-4110-9034-0d98cd3f733a] HTTP GET /health responded 200 in 371.1526 ms
+[2026-02-01 12:50:20.821 +02:00 INF] [] Received HTTP response headers after 434.5038ms - 200
+[2026-02-01 12:50:20.832 +02:00 INF] [] End processing HTTP request after 447.1742ms - 200
+[2026-02-01 12:50:50.880 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:50:50.883 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:50:51.042 +02:00 INF] [6d1b352d-88ad-48f4-a623-7ba747f9fc33] HTTP GET /health started
+[2026-02-01 12:50:51.100 +02:00 INF] [6d1b352d-88ad-48f4-a623-7ba747f9fc33] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:50:51.333 +02:00 INF] [6d1b352d-88ad-48f4-a623-7ba747f9fc33] Deleted file: healthcheck/test.txt
+[2026-02-01 12:50:51.346 +02:00 INF] [6d1b352d-88ad-48f4-a623-7ba747f9fc33] HTTP GET /health responded 200 in 304.7526 ms
+[2026-02-01 12:50:51.354 +02:00 INF] [] Received HTTP response headers after 468.1586ms - 200
+[2026-02-01 12:50:51.355 +02:00 INF] [] End processing HTTP request after 477.0053ms - 200
+[2026-02-01 12:51:21.404 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:51:21.409 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:51:21.683 +02:00 INF] [8f5fb11a-ee9c-4731-a229-e28cb4697213] HTTP GET /health started
+[2026-02-01 12:51:21.718 +02:00 INF] [8f5fb11a-ee9c-4731-a229-e28cb4697213] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:51:21.891 +02:00 INF] [8f5fb11a-ee9c-4731-a229-e28cb4697213] Deleted file: healthcheck/test.txt
+[2026-02-01 12:51:21.901 +02:00 INF] [8f5fb11a-ee9c-4731-a229-e28cb4697213] HTTP GET /health responded 200 in 219.0610 ms
+[2026-02-01 12:51:21.901 +02:00 INF] [] Received HTTP response headers after 492.4761ms - 200
+[2026-02-01 12:51:21.901 +02:00 INF] [] End processing HTTP request after 498.3525ms - 200
+[2026-02-01 12:51:51.914 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:51:51.915 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:51:51.943 +02:00 INF] [ca8e8328-0d40-4e66-9cca-54a7823e3fc8] HTTP GET /health started
+[2026-02-01 12:51:52.066 +02:00 INF] [ca8e8328-0d40-4e66-9cca-54a7823e3fc8] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:51:52.286 +02:00 INF] [ca8e8328-0d40-4e66-9cca-54a7823e3fc8] Deleted file: healthcheck/test.txt
+[2026-02-01 12:51:52.316 +02:00 INF] [ca8e8328-0d40-4e66-9cca-54a7823e3fc8] HTTP GET /health responded 200 in 373.4928 ms
+[2026-02-01 12:51:52.317 +02:00 INF] [] Received HTTP response headers after 400.2293ms - 200
+[2026-02-01 12:51:52.318 +02:00 INF] [] End processing HTTP request after 403.1705ms - 200
+[2026-02-01 12:52:22.334 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:52:22.336 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:52:22.341 +02:00 INF] [87fd1873-89a1-442f-8d7c-a3224d609f34] HTTP GET /health started
+[2026-02-01 12:52:22.418 +02:00 INF] [87fd1873-89a1-442f-8d7c-a3224d609f34] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:52:22.496 +02:00 INF] [87fd1873-89a1-442f-8d7c-a3224d609f34] Deleted file: healthcheck/test.txt
+[2026-02-01 12:52:22.522 +02:00 INF] [87fd1873-89a1-442f-8d7c-a3224d609f34] HTTP GET /health responded 200 in 182.4546 ms
+[2026-02-01 12:52:22.525 +02:00 INF] [] Received HTTP response headers after 185.8426ms - 200
+[2026-02-01 12:52:22.525 +02:00 INF] [] End processing HTTP request after 190.658ms - 200
+[2026-02-01 12:52:52.575 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:52:52.591 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:52:52.617 +02:00 INF] [927ac43c-ea80-44a7-8e42-e99e801d43b8] HTTP GET /health started
+[2026-02-01 12:52:52.765 +02:00 INF] [927ac43c-ea80-44a7-8e42-e99e801d43b8] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:52:52.865 +02:00 INF] [927ac43c-ea80-44a7-8e42-e99e801d43b8] Deleted file: healthcheck/test.txt
+[2026-02-01 12:52:52.870 +02:00 INF] [927ac43c-ea80-44a7-8e42-e99e801d43b8] HTTP GET /health responded 200 in 253.3715 ms
+[2026-02-01 12:52:52.874 +02:00 INF] [] Received HTTP response headers after 282.5109ms - 200
+[2026-02-01 12:52:52.889 +02:00 INF] [] End processing HTTP request after 313.7104ms - 200
+[2026-02-01 12:53:22.935 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:53:22.935 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:53:23.134 +02:00 INF] [9c58f0a7-75df-466f-8a9a-eb474d3f89a8] HTTP GET /health started
+[2026-02-01 12:53:23.205 +02:00 INF] [9c58f0a7-75df-466f-8a9a-eb474d3f89a8] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:53:23.305 +02:00 INF] [9c58f0a7-75df-466f-8a9a-eb474d3f89a8] Deleted file: healthcheck/test.txt
+[2026-02-01 12:53:23.337 +02:00 INF] [9c58f0a7-75df-466f-8a9a-eb474d3f89a8] HTTP GET /health responded 200 in 203.6458 ms
+[2026-02-01 12:53:23.338 +02:00 INF] [] Received HTTP response headers after 402.1051ms - 200
+[2026-02-01 12:53:23.338 +02:00 INF] [] End processing HTTP request after 402.5397ms - 200
+[2026-02-01 12:53:53.388 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:53:53.394 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:53:53.592 +02:00 INF] [22acffff-227e-4ff5-b8df-c3f6ce3ccd09] HTTP GET /health started
+[2026-02-01 12:53:53.593 +02:00 INF] [22acffff-227e-4ff5-b8df-c3f6ce3ccd09] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:53:53.754 +02:00 INF] [22acffff-227e-4ff5-b8df-c3f6ce3ccd09] Deleted file: healthcheck/test.txt
+[2026-02-01 12:53:53.850 +02:00 INF] [22acffff-227e-4ff5-b8df-c3f6ce3ccd09] HTTP GET /health responded 200 in 257.4915 ms
+[2026-02-01 12:53:53.851 +02:00 INF] [] Received HTTP response headers after 456.848ms - 200
+[2026-02-01 12:53:53.852 +02:00 INF] [] End processing HTTP request after 464.4456ms - 200
+[2026-02-01 12:54:23.867 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:54:23.868 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:54:23.878 +02:00 INF] [272fd8b5-fece-48de-91f1-9b87fa3e18d5] HTTP GET /health started
+[2026-02-01 12:54:24.008 +02:00 INF] [272fd8b5-fece-48de-91f1-9b87fa3e18d5] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:54:24.212 +02:00 INF] [272fd8b5-fece-48de-91f1-9b87fa3e18d5] Deleted file: healthcheck/test.txt
+[2026-02-01 12:54:24.253 +02:00 INF] [272fd8b5-fece-48de-91f1-9b87fa3e18d5] HTTP GET /health responded 200 in 377.7188 ms
+[2026-02-01 12:54:24.253 +02:00 INF] [] Received HTTP response headers after 385.2108ms - 200
+[2026-02-01 12:54:24.253 +02:00 INF] [] End processing HTTP request after 385.5831ms - 200
+[2026-02-01 12:54:54.273 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:54:54.276 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:54:54.280 +02:00 INF] [5461e152-c3ed-4713-b9f6-775b872451a9] HTTP GET /health started
+[2026-02-01 12:54:54.346 +02:00 INF] [5461e152-c3ed-4713-b9f6-775b872451a9] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:54:54.500 +02:00 INF] [5461e152-c3ed-4713-b9f6-775b872451a9] Deleted file: healthcheck/test.txt
+[2026-02-01 12:54:54.504 +02:00 INF] [] Received HTTP response headers after 228.3514ms - 200
+[2026-02-01 12:54:54.504 +02:00 INF] [] End processing HTTP request after 231.5392ms - 200
+[2026-02-01 12:54:54.527 +02:00 INF] [5461e152-c3ed-4713-b9f6-775b872451a9] HTTP GET /health responded 200 in 223.6460 ms
+[2026-02-01 12:55:24.654 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:55:24.659 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:55:24.972 +02:00 INF] [edc1fd5d-9c81-45a6-b872-cb06f44f6f95] HTTP GET /health started
+[2026-02-01 12:55:25.008 +02:00 INF] [edc1fd5d-9c81-45a6-b872-cb06f44f6f95] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:55:25.085 +02:00 INF] [edc1fd5d-9c81-45a6-b872-cb06f44f6f95] Deleted file: healthcheck/test.txt
+[2026-02-01 12:55:25.099 +02:00 INF] [edc1fd5d-9c81-45a6-b872-cb06f44f6f95] HTTP GET /health responded 200 in 127.3692 ms
+[2026-02-01 12:55:25.102 +02:00 INF] [] Received HTTP response headers after 439.4671ms - 200
+[2026-02-01 12:55:25.102 +02:00 INF] [] End processing HTTP request after 448.6053ms - 200
+[2026-02-01 12:55:55.144 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:55:55.146 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:55:55.357 +02:00 INF] [6b59265b-d0d3-454f-bb49-9973121209e2] HTTP GET /health started
+[2026-02-01 12:55:55.431 +02:00 INF] [6b59265b-d0d3-454f-bb49-9973121209e2] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:55:55.603 +02:00 INF] [6b59265b-d0d3-454f-bb49-9973121209e2] Deleted file: healthcheck/test.txt
+[2026-02-01 12:55:55.650 +02:00 INF] [6b59265b-d0d3-454f-bb49-9973121209e2] HTTP GET /health responded 200 in 294.6124 ms
+[2026-02-01 12:55:55.651 +02:00 INF] [] Received HTTP response headers after 504.3302ms - 200
+[2026-02-01 12:55:55.653 +02:00 INF] [] End processing HTTP request after 509.2533ms - 200
+[2026-02-01 12:56:25.703 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:56:25.705 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:56:25.729 +02:00 INF] [e50a3453-209e-4e48-baf9-6b4d539595cc] HTTP GET /health started
+[2026-02-01 12:56:25.807 +02:00 INF] [e50a3453-209e-4e48-baf9-6b4d539595cc] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:56:25.881 +02:00 INF] [e50a3453-209e-4e48-baf9-6b4d539595cc] Deleted file: healthcheck/test.txt
+[2026-02-01 12:56:25.889 +02:00 INF] [e50a3453-209e-4e48-baf9-6b4d539595cc] HTTP GET /health responded 200 in 159.9917 ms
+[2026-02-01 12:56:25.890 +02:00 INF] [] Received HTTP response headers after 183.4655ms - 200
+[2026-02-01 12:56:25.891 +02:00 INF] [] End processing HTTP request after 187.4715ms - 200
+[2026-02-01 12:56:55.912 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:56:55.914 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:56:55.993 +02:00 INF] [a23fcd1b-30fe-4713-80bd-2aeddb6c3efa] HTTP GET /health started
+[2026-02-01 12:56:56.053 +02:00 INF] [a23fcd1b-30fe-4713-80bd-2aeddb6c3efa] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:56:56.257 +02:00 INF] [a23fcd1b-30fe-4713-80bd-2aeddb6c3efa] Deleted file: healthcheck/test.txt
+[2026-02-01 12:56:56.265 +02:00 INF] [a23fcd1b-30fe-4713-80bd-2aeddb6c3efa] HTTP GET /health responded 200 in 271.2567 ms
+[2026-02-01 12:56:56.268 +02:00 INF] [] Received HTTP response headers after 353.2216ms - 200
+[2026-02-01 12:56:56.268 +02:00 INF] [] End processing HTTP request after 355.6332ms - 200
+[2026-02-01 12:57:26.300 +02:00 INF] [] Start processing HTTP request GET http://localhost:5085/health
+[2026-02-01 12:57:26.300 +02:00 INF] [] Sending HTTP request GET http://localhost:5085/health
+[2026-02-01 12:57:26.479 +02:00 INF] [a1a5f6cd-7895-4428-aa74-fc1987ac083f] HTTP GET /health started
+[2026-02-01 12:57:26.527 +02:00 INF] [a1a5f6cd-7895-4428-aa74-fc1987ac083f] FileSystem storage initialized at: wwwroot/documents
+[2026-02-01 12:57:26.661 +02:00 INF] [a1a5f6cd-7895-4428-aa74-fc1987ac083f] Deleted file: healthcheck/test.txt
+[2026-02-01 12:57:26.663 +02:00 INF] [a1a5f6cd-7895-4428-aa74-fc1987ac083f] HTTP GET /health responded 200 in 183.5767 ms
+[2026-02-01 12:57:26.666 +02:00 INF] [] Received HTTP response headers after 366.2244ms - 200
+[2026-02-01 12:57:26.667 +02:00 INF] [] End processing HTTP request after 367.9202ms - 200

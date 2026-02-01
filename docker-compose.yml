@@ -1,0 +1,60 @@
+version: '3.8'
+
+services:
+  # --- Main Services ---
+  document-api:
+    image: document-api
+    build:
+      context: .
+      dockerfile: DocumentService/Presentation/Document.Api/Dockerfile
+    ports:
+      - "5085:8080"
+
+  fraud-api:
+    image: fraud-engine-api
+    build:
+      context: .
+      dockerfile: FraudEngineService/Presentation/FraudEngine.Api/Dockerfile
+    ports:
+      - "5160:8080"
+
+  transaction-aggregation-api:
+    image: transaction-aggregation-api
+    build:
+      context: .
+      dockerfile: TransactionAggregationService/Presentation/TransactionAggregation.Api/Dockerfile
+    ports:
+      - "5118:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_HTTP_PORTS=8080
+      - MockProviders__CustomerServiceUrl=http://customer-mock:8080
+      - MockProviders__TransactionServiceUrl=http://transaction-mock:8080
+      - MockProviders__AccountServiceUrl=http://account-mock:8080
+      - FraudEngineApiClient__BaseUrl=http://fraud-engine-api:8080
+      - DocumentApiClient__BaseUrl=http://document-api:8080
+
+  # --- Mock Providers ---
+  account-mock:
+    image: mock-account
+    build:
+      context: .
+      dockerfile: MockProviders/MockProvider.AccountService/Dockerfile
+    ports:
+      - "5003:8080"
+
+  transaction-mock:
+    image: mock-transaction
+    build:
+      context: .
+      dockerfile: MockProviders/MockProvider.TransactionService/Dockerfile
+    ports:
+      - "5002:8080"
+
+  customer-mock:
+    image: mock-customer
+    build:
+      context: .
+      dockerfile: MockProviders/MockProvider.CustomerService/Dockerfile
+    ports:
+      - "5001:8080"

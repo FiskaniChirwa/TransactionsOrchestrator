@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Core/Document.Core.csproj": {}
+  },
+  "projects": {
+    "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Core/Document.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Core/Document.Core.csproj",
+        "projectName": "Document.Core",
+        "projectPath": "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Core/Document.Core.csproj",
+        "packagesPath": "/Users/fiskani/.nuget/packages/",
+        "outputPath": "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Core/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/fiskani/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Models/Document.Models.csproj": {
+                "projectPath": "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Models/Document.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Models/Document.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Models/Document.Models.csproj",
+        "projectName": "Document.Models",
+        "projectPath": "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Models/Document.Models.csproj",
+        "packagesPath": "/Users/fiskani/.nuget/packages/",
+        "outputPath": "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Models/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/fiskani/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

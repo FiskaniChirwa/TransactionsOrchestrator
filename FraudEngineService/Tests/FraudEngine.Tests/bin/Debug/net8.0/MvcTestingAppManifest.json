@@ -1,0 +1,6 @@
+{
+  "FraudEngine.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/fiskani\/Documents\/Interview\/Capitec\/FraudEngineService\/Presentation\/FraudEngine.Api",
+  "FraudEngine.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/fiskani\/Documents\/Interview\/Capitec\/FraudEngineService\/Core\/FraudEngine.Core",
+  "FraudEngine.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/fiskani\/Documents\/Interview\/Capitec\/FraudEngineService\/Infrastructure\/FraudEngine.Infrastructure",
+  "FraudEngine.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/fiskani\/Documents\/Interview\/Capitec\/FraudEngineService\/Core\/FraudEngine.Models"
+}

@@ -1,0 +1,7 @@
+{
+  "Document.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/fiskani\/Documents\/Interview\/Capitec\/DocumentService\/Presentation\/Document.Api",
+  "Document.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/fiskani\/Documents\/Interview\/Capitec\/DocumentService\/Core\/Document.Core",
+  "Document.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/fiskani\/Documents\/Interview\/Capitec\/DocumentService\/Infrastructure\/Document.Data",
+  "Document.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/fiskani\/Documents\/Interview\/Capitec\/DocumentService\/Infrastructure\/Document.Infrastructure",
+  "Document.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/fiskani\/Documents\/Interview\/Capitec\/DocumentService\/Core\/Document.Models"
+}

@@ -1,0 +1,15 @@
+/Users/fiskani/Documents/Interview/Capitec/FraudEngineService/Core/FraudEngine.Core/obj/Debug/net8.0/FraudEngine.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fiskani/Documents/Interview/Capitec/FraudEngineService/Core/FraudEngine.Core/obj/Debug/net8.0/FraudEngine.Core.AssemblyInfoInputs.cache
+/Users/fiskani/Documents/Interview/Capitec/FraudEngineService/Core/FraudEngine.Core/obj/Debug/net8.0/FraudEngine.Core.AssemblyInfo.cs
+/Users/fiskani/Documents/Interview/Capitec/FraudEngineService/Core/FraudEngine.Core/obj/Debug/net8.0/FraudEngine.Core.csproj.CoreCompileInputs.cache
+/Users/fiskani/Documents/Interview/Capitec/FraudEngineService/Core/FraudEngine.Core/bin/Debug/net8.0/FraudEngine.Core.deps.json
+/Users/fiskani/Documents/Interview/Capitec/FraudEngineService/Core/FraudEngine.Core/bin/Debug/net8.0/FraudEngine.Core.dll
+/Users/fiskani/Documents/Interview/Capitec/FraudEngineService/Core/FraudEngine.Core/bin/Debug/net8.0/FraudEngine.Core.pdb
+/Users/fiskani/Documents/Interview/Capitec/FraudEngineService/Core/FraudEngine.Core/bin/Debug/net8.0/FraudEngine.Models.dll
+/Users/fiskani/Documents/Interview/Capitec/FraudEngineService/Core/FraudEngine.Core/bin/Debug/net8.0/FraudEngine.Models.pdb
+/Users/fiskani/Documents/Interview/Capitec/FraudEngineService/Core/FraudEngine.Core/obj/Debug/net8.0/FraudEngine.Core.csproj.AssemblyReference.cache
+/Users/fiskani/Documents/Interview/Capitec/FraudEngineService/Core/FraudEngine.Core/obj/Debug/net8.0/FraudEng.AA9E6CC6.Up2Date
+/Users/fiskani/Documents/Interview/Capitec/FraudEngineService/Core/FraudEngine.Core/obj/Debug/net8.0/FraudEngine.Core.dll
+/Users/fiskani/Documents/Interview/Capitec/FraudEngineService/Core/FraudEngine.Core/obj/Debug/net8.0/refint/FraudEngine.Core.dll
+/Users/fiskani/Documents/Interview/Capitec/FraudEngineService/Core/FraudEngine.Core/obj/Debug/net8.0/FraudEngine.Core.pdb
+/Users/fiskani/Documents/Interview/Capitec/FraudEngineService/Core/FraudEngine.Core/obj/Debug/net8.0/ref/FraudEngine.Core.dll

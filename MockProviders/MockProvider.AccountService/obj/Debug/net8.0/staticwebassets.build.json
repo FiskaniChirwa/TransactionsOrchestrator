@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fxYpk8hf8pMnNdR4ZMqgQKpMFgXFsgL+rp5qZQzDLSI=",
+  "Source": "MockProvider.AccountService",
+  "BasePath": "_content/MockProvider.AccountService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

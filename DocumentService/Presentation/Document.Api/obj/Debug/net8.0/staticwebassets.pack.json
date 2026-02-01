@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Presentation/Document.Api/wwwroot/documents/transactionstatement/2026-01/01f52deb66f44715a946d2deeec2e8b7.pdf",
+      "PackagePath": "staticwebassets/documents/transactionstatement/2026-01/01f52deb66f44715a946d2deeec2e8b7.pdf"
+    },
+    {
+      "Id": "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Presentation/Document.Api/wwwroot/documents/transactionstatement/2026-01/55ebd0e0cff946a0a83d350bec8dd21b.pdf",
+      "PackagePath": "staticwebassets/documents/transactionstatement/2026-01/55ebd0e0cff946a0a83d350bec8dd21b.pdf"
+    },
+    {
+      "Id": "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Presentation/Document.Api/wwwroot/documents/transactionstatement/2026-01/990d18543d984e9c8dfc626ed8c2fcda.pdf",
+      "PackagePath": "staticwebassets/documents/transactionstatement/2026-01/990d18543d984e9c8dfc626ed8c2fcda.pdf"
+    },
+    {
+      "Id": "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Presentation/Document.Api/wwwroot/documents/transactionstatement/2026-01/f83761547094486096b19008754be6eb.pdf",
+      "PackagePath": "staticwebassets/documents/transactionstatement/2026-01/f83761547094486096b19008754be6eb.pdf"
+    },
+    {
+      "Id": "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Presentation/Document.Api/wwwroot/documents/transactionstatement/2026-01/fd62de6c8dcc40879fde0aa0450e68e0.pdf",
+      "PackagePath": "staticwebassets/documents/transactionstatement/2026-01/fd62de6c8dcc40879fde0aa0450e68e0.pdf"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Document.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Document.Api.props",
+      "PackagePath": "build\\Document.Api.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Document.Api.props",
+      "PackagePath": "buildMultiTargeting\\Document.Api.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Document.Api.props",
+      "PackagePath": "buildTransitive\\Document.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/MockProvider.CustomerService.props" />
+</Project>

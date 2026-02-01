@@ -1,0 +1,441 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Presentation/Document.Api/Document.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Core/Document.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Core/Document.Core.csproj",
+        "projectName": "Document.Core",
+        "projectPath": "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Core/Document.Core.csproj",
+        "packagesPath": "/Users/fiskani/.nuget/packages/",
+        "outputPath": "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Core/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/fiskani/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Models/Document.Models.csproj": {
+                "projectPath": "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Models/Document.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Models/Document.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Models/Document.Models.csproj",
+        "projectName": "Document.Models",
+        "projectPath": "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Models/Document.Models.csproj",
+        "packagesPath": "/Users/fiskani/.nuget/packages/",
+        "outputPath": "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Models/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/fiskani/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Infrastructure/Document.Data/Document.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Infrastructure/Document.Data/Document.Data.csproj",
+        "projectName": "Document.Data",
+        "projectPath": "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Infrastructure/Document.Data/Document.Data.csproj",
+        "packagesPath": "/Users/fiskani/.nuget/packages/",
+        "outputPath": "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Infrastructure/Document.Data/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/fiskani/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Models/Document.Models.csproj": {
+                "projectPath": "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Models/Document.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Infrastructure/Document.Infrastructure/Document.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Infrastructure/Document.Infrastructure/Document.Infrastructure.csproj",
+        "projectName": "Document.Infrastructure",
+        "projectPath": "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Infrastructure/Document.Infrastructure/Document.Infrastructure.csproj",
+        "packagesPath": "/Users/fiskani/.nuget/packages/",
+        "outputPath": "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Infrastructure/Document.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/fiskani/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Core/Document.Core.csproj": {
+                "projectPath": "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Core/Document.Core.csproj"
+              },
+              "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Models/Document.Models.csproj": {
+                "projectPath": "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Models/Document.Models.csproj"
+              },
+              "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Infrastructure/Document.Data/Document.Data.csproj": {
+                "projectPath": "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Infrastructure/Document.Data/Document.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "QuestPDF": {
+              "target": "Package",
+              "version": "[2025.12.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Presentation/Document.Api/Document.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Presentation/Document.Api/Document.Api.csproj",
+        "projectName": "Document.Api",
+        "projectPath": "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Presentation/Document.Api/Document.Api.csproj",
+        "packagesPath": "/Users/fiskani/.nuget/packages/",
+        "outputPath": "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Presentation/Document.Api/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/fiskani/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Core/Document.Core.csproj": {
+                "projectPath": "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Core/Document.Core.csproj"
+              },
+              "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Models/Document.Models.csproj": {
+                "projectPath": "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Models/Document.Models.csproj"
+              },
+              "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Infrastructure/Document.Data/Document.Data.csproj": {
+                "projectPath": "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Infrastructure/Document.Data/Document.Data.csproj"
+              },
+              "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Infrastructure/Document.Infrastructure/Document.Infrastructure.csproj": {
+                "projectPath": "/Users/fiskani/Documents/Interview/Capitec/DocumentService/Infrastructure/Document.Infrastructure/Document.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Asp.Versioning.Http": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "AspNetCore.HealthChecks.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "AspNetCore.HealthChecks.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "AspNetCore.HealthChecks.UI": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "AspNetCore.HealthChecks.UI.Client": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "AspNetCore.HealthChecks.UI.InMemory.Storage": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "AspNetCore.HealthChecks.Uris": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.Extensions.Diagnostics.HealthChecks": {
+              "target": "Package",
+              "version": "[10.0.2, )"
+            },
+            "Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

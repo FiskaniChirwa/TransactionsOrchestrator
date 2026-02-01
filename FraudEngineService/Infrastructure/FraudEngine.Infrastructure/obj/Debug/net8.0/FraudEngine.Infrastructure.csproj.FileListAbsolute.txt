@@ -1,0 +1,17 @@
+/Users/fiskani/Documents/Interview/Capitec/FraudEngineService/Infrastructure/FraudEngine.Infrastructure/obj/Debug/net8.0/FraudEngine.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fiskani/Documents/Interview/Capitec/FraudEngineService/Infrastructure/FraudEngine.Infrastructure/obj/Debug/net8.0/FraudEngine.Infrastructure.AssemblyInfoInputs.cache
+/Users/fiskani/Documents/Interview/Capitec/FraudEngineService/Infrastructure/FraudEngine.Infrastructure/obj/Debug/net8.0/FraudEngine.Infrastructure.AssemblyInfo.cs
+/Users/fiskani/Documents/Interview/Capitec/FraudEngineService/Infrastructure/FraudEngine.Infrastructure/obj/Debug/net8.0/FraudEngine.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/fiskani/Documents/Interview/Capitec/FraudEngineService/Infrastructure/FraudEngine.Infrastructure/obj/Debug/net8.0/FraudEngine.Infrastructure.csproj.AssemblyReference.cache
+/Users/fiskani/Documents/Interview/Capitec/FraudEngineService/Infrastructure/FraudEngine.Infrastructure/bin/Debug/net8.0/FraudEngine.Infrastructure.deps.json
+/Users/fiskani/Documents/Interview/Capitec/FraudEngineService/Infrastructure/FraudEngine.Infrastructure/bin/Debug/net8.0/FraudEngine.Infrastructure.dll
+/Users/fiskani/Documents/Interview/Capitec/FraudEngineService/Infrastructure/FraudEngine.Infrastructure/bin/Debug/net8.0/FraudEngine.Infrastructure.pdb
+/Users/fiskani/Documents/Interview/Capitec/FraudEngineService/Infrastructure/FraudEngine.Infrastructure/bin/Debug/net8.0/FraudEngine.Core.dll
+/Users/fiskani/Documents/Interview/Capitec/FraudEngineService/Infrastructure/FraudEngine.Infrastructure/bin/Debug/net8.0/FraudEngine.Models.dll
+/Users/fiskani/Documents/Interview/Capitec/FraudEngineService/Infrastructure/FraudEngine.Infrastructure/bin/Debug/net8.0/FraudEngine.Core.pdb
+/Users/fiskani/Documents/Interview/Capitec/FraudEngineService/Infrastructure/FraudEngine.Infrastructure/bin/Debug/net8.0/FraudEngine.Models.pdb
+/Users/fiskani/Documents/Interview/Capitec/FraudEngineService/Infrastructure/FraudEngine.Infrastructure/obj/Debug/net8.0/FraudEng.312E3F74.Up2Date
+/Users/fiskani/Documents/Interview/Capitec/FraudEngineService/Infrastructure/FraudEngine.Infrastructure/obj/Debug/net8.0/FraudEngine.Infrastructure.dll
+/Users/fiskani/Documents/Interview/Capitec/FraudEngineService/Infrastructure/FraudEngine.Infrastructure/obj/Debug/net8.0/refint/FraudEngine.Infrastructure.dll
+/Users/fiskani/Documents/Interview/Capitec/FraudEngineService/Infrastructure/FraudEngine.Infrastructure/obj/Debug/net8.0/FraudEngine.Infrastructure.pdb
+/Users/fiskani/Documents/Interview/Capitec/FraudEngineService/Infrastructure/FraudEngine.Infrastructure/obj/Debug/net8.0/ref/FraudEngine.Infrastructure.dll

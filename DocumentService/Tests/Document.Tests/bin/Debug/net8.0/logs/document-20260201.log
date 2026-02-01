@@ -1,0 +1,432 @@
+[2026-02-01 12:45:43.641 +02:00 INF] [] Starting application...
+[2026-02-01 12:45:48.997 +02:00 INF] [] Database initialized
+[2026-02-01 12:45:49.007 +02:00 INF] [] Registered PDF template for "TransactionStatement"
+[2026-02-01 12:45:49.021 +02:00 INF] [] Registered 1 PDF template(s)
+[2026-02-01 12:45:49.027 +02:00 INF] [] Document storage directory: /Users/fiskani/Documents/Interview/Capitec/DocumentService/Presentation/Document.Api/wwwroot/documents
+[2026-02-01 12:45:49.282 +02:00 INF] [] Document Service starting up...
+[2026-02-01 12:45:49.428 +02:00 INF] [] Initializing UI Database
+[2026-02-01 12:45:50.018 +02:00 INF] [] Saving healthchecks configuration to database
+[2026-02-01 12:45:50.226 +02:00 ERR] [] GetHealthReport threw an exception when trying to get report from /health configured with name Document Service.
+System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.ThrowHelper.ThrowNoElementsException()
+   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at HealthChecks.UI.Core.ServerAddressesService.AbsoluteUriFromRelative(String relativeUrl) in /_/src/HealthChecks.UI/Core/ServerAddressesService.cs:line 22
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetEndpointUri(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 172
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetHealthReportAsync(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 118
+[2026-02-01 12:45:51.176 +02:00 INF] [58d39678-15ae-4e68-afa0-0c0cf00a3477] HTTP GET /api/documents/d25e149f-1031-487d-9d05-457e3ca9b8e1/download started
+[2026-02-01 12:45:51.193 +02:00 WRN] [58d39678-15ae-4e68-afa0-0c0cf00a3477] Failed to determine the https port for redirect.
+[2026-02-01 12:45:51.234 +02:00 INF] [58d39678-15ae-4e68-afa0-0c0cf00a3477] HTTP GET /api/documents/d25e149f-1031-487d-9d05-457e3ca9b8e1/download responded 200 in 60.1954 ms
+[2026-02-01 12:45:51.350 +02:00 INF] [] Starting application...
+[2026-02-01 12:45:51.463 +02:00 INF] [] Database initialized
+[2026-02-01 12:45:51.468 +02:00 INF] [] Registered PDF template for "TransactionStatement"
+[2026-02-01 12:45:51.468 +02:00 INF] [] Registered 1 PDF template(s)
+[2026-02-01 12:45:51.470 +02:00 INF] [] Document storage directory: /Users/fiskani/Documents/Interview/Capitec/DocumentService/Presentation/Document.Api/wwwroot/documents
+[2026-02-01 12:45:51.483 +02:00 INF] [] Document Service starting up...
+[2026-02-01 12:45:51.511 +02:00 INF] [] Initializing UI Database
+[2026-02-01 12:45:51.558 +02:00 ERR] [] GetHealthReport threw an exception when trying to get report from /health configured with name Document Service.
+System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.ThrowHelper.ThrowNoElementsException()
+   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at HealthChecks.UI.Core.ServerAddressesService.AbsoluteUriFromRelative(String relativeUrl) in /_/src/HealthChecks.UI/Core/ServerAddressesService.cs:line 22
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetEndpointUri(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 172
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetHealthReportAsync(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 118
+[2026-02-01 12:45:51.566 +02:00 INF] [] Notification is sent on same window time.
+[2026-02-01 12:45:51.741 +02:00 INF] [0b1c069c-bce6-48a3-84ff-9bd360f0c983] HTTP POST /api/documents/generate started
+[2026-02-01 12:45:51.741 +02:00 WRN] [0b1c069c-bce6-48a3-84ff-9bd360f0c983] Failed to determine the https port for redirect.
+[2026-02-01 12:45:51.850 +02:00 INF] [0b1c069c-bce6-48a3-84ff-9bd360f0c983] HTTP POST /api/documents/generate responded 400 in 109.0969 ms
+[2026-02-01 12:45:52.126 +02:00 INF] [] Starting application...
+[2026-02-01 12:45:52.318 +02:00 INF] [] Database initialized
+[2026-02-01 12:45:52.318 +02:00 INF] [] Registered PDF template for "TransactionStatement"
+[2026-02-01 12:45:52.318 +02:00 INF] [] Registered 1 PDF template(s)
+[2026-02-01 12:45:52.319 +02:00 INF] [] Document storage directory: /Users/fiskani/Documents/Interview/Capitec/DocumentService/Presentation/Document.Api/wwwroot/documents
+[2026-02-01 12:45:52.319 +02:00 INF] [] Document Service starting up...
+[2026-02-01 12:45:52.320 +02:00 INF] [] Initializing UI Database
+[2026-02-01 12:45:52.326 +02:00 ERR] [] GetHealthReport threw an exception when trying to get report from /health configured with name Document Service.
+System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.ThrowHelper.ThrowNoElementsException()
+   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at HealthChecks.UI.Core.ServerAddressesService.AbsoluteUriFromRelative(String relativeUrl) in /_/src/HealthChecks.UI/Core/ServerAddressesService.cs:line 22
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetEndpointUri(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 172
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetHealthReportAsync(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 118
+[2026-02-01 12:45:52.326 +02:00 INF] [] Notification is sent on same window time.
+[2026-02-01 12:45:52.345 +02:00 INF] [a6ab23e5-4b51-442a-bd7b-4a2491a8a806] HTTP POST /api/documents/generate started
+[2026-02-01 12:45:52.345 +02:00 WRN] [a6ab23e5-4b51-442a-bd7b-4a2491a8a806] Failed to determine the https port for redirect.
+[2026-02-01 12:45:52.360 +02:00 INF] [a6ab23e5-4b51-442a-bd7b-4a2491a8a806] HTTP POST /api/documents/generate responded 200 in 15.7008 ms
+[2026-02-01 12:45:52.459 +02:00 INF] [] Starting application...
+[2026-02-01 12:45:52.513 +02:00 INF] [] Database initialized
+[2026-02-01 12:45:52.513 +02:00 INF] [] Registered PDF template for "TransactionStatement"
+[2026-02-01 12:45:52.514 +02:00 INF] [] Registered 1 PDF template(s)
+[2026-02-01 12:45:52.514 +02:00 INF] [] Document storage directory: /Users/fiskani/Documents/Interview/Capitec/DocumentService/Presentation/Document.Api/wwwroot/documents
+[2026-02-01 12:45:52.515 +02:00 INF] [] Document Service starting up...
+[2026-02-01 12:45:52.517 +02:00 INF] [] Initializing UI Database
+[2026-02-01 12:45:52.526 +02:00 ERR] [] GetHealthReport threw an exception when trying to get report from /health configured with name Document Service.
+System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.ThrowHelper.ThrowNoElementsException()
+   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at HealthChecks.UI.Core.ServerAddressesService.AbsoluteUriFromRelative(String relativeUrl) in /_/src/HealthChecks.UI/Core/ServerAddressesService.cs:line 22
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetEndpointUri(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 172
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetHealthReportAsync(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 118
+[2026-02-01 12:45:52.528 +02:00 INF] [] Notification is sent on same window time.
+[2026-02-01 12:45:52.544 +02:00 INF] [5d644ebe-4c52-4552-a8dd-5a6af329f665] HTTP GET /api/documents/9fe0fc71-021e-433f-ab76-59337f2d762c/download started
+[2026-02-01 12:45:52.545 +02:00 WRN] [5d644ebe-4c52-4552-a8dd-5a6af329f665] Failed to determine the https port for redirect.
+[2026-02-01 12:45:52.547 +02:00 ERR] [5d644ebe-4c52-4552-a8dd-5a6af329f665] An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Http.BadHttpRequestException: Required parameter "string token" was not provided from query string.
+   at lambda_method643(Closure, Object, HttpContext)
+   at Asp.Versioning.Routing.ReportApiVersionsDecorator.<>c__DisplayClass4_0.<op_Implicit>b__0(HttpContext context)
+   at Microsoft.AspNetCore.OutputCaching.OutputCacheMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.Invoke(HttpContext context)
+[2026-02-01 12:45:52.555 +02:00 ERR] [5d644ebe-4c52-4552-a8dd-5a6af329f665] [5d644ebe-4c52-4552-a8dd-5a6af329f665] Server error - INTERNAL_ERROR: Required parameter "string token" was not provided from query string.
+Microsoft.AspNetCore.Http.BadHttpRequestException: Required parameter "string token" was not provided from query string.
+   at lambda_method643(Closure, Object, HttpContext)
+   at Asp.Versioning.Routing.ReportApiVersionsDecorator.<>c__DisplayClass4_0.<op_Implicit>b__0(HttpContext context)
+   at Microsoft.AspNetCore.OutputCaching.OutputCacheMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.Invoke(HttpContext context)
+[2026-02-01 12:45:52.562 +02:00 INF] [5d644ebe-4c52-4552-a8dd-5a6af329f665] HTTP GET /api/documents/9fe0fc71-021e-433f-ab76-59337f2d762c/download responded 500 in 17.4701 ms
+[2026-02-01 12:48:32.442 +02:00 INF] [] Starting application...
+[2026-02-01 12:48:35.836 +02:00 INF] [] Database initialized
+[2026-02-01 12:48:35.907 +02:00 INF] [] Registered PDF template for "TransactionStatement"
+[2026-02-01 12:48:35.930 +02:00 INF] [] Registered 1 PDF template(s)
+[2026-02-01 12:48:35.938 +02:00 INF] [] Document storage directory: /Users/fiskani/Documents/Interview/Capitec/DocumentService/Presentation/Document.Api/wwwroot/documents
+[2026-02-01 12:48:35.988 +02:00 INF] [] Document Service starting up...
+[2026-02-01 12:48:36.043 +02:00 INF] [] Initializing UI Database
+[2026-02-01 12:48:36.788 +02:00 INF] [] Saving healthchecks configuration to database
+[2026-02-01 12:48:37.197 +02:00 ERR] [] GetHealthReport threw an exception when trying to get report from /health configured with name Document Service.
+System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.ThrowHelper.ThrowNoElementsException()
+   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at HealthChecks.UI.Core.ServerAddressesService.AbsoluteUriFromRelative(String relativeUrl) in /_/src/HealthChecks.UI/Core/ServerAddressesService.cs:line 22
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetEndpointUri(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 172
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetHealthReportAsync(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 118
+[2026-02-01 12:48:38.571 +02:00 INF] [ccf81a9f-ce2d-4234-94da-e3a2f83e1afb] HTTP POST /api/documents/generate started
+[2026-02-01 12:48:38.583 +02:00 WRN] [ccf81a9f-ce2d-4234-94da-e3a2f83e1afb] Failed to determine the https port for redirect.
+[2026-02-01 12:48:38.855 +02:00 INF] [ccf81a9f-ce2d-4234-94da-e3a2f83e1afb] HTTP POST /api/documents/generate responded 200 in 289.6019 ms
+[2026-02-01 12:49:03.586 +02:00 INF] [] Starting application...
+[2026-02-01 12:49:06.115 +02:00 INF] [] Database initialized
+[2026-02-01 12:49:06.169 +02:00 INF] [] Registered PDF template for "TransactionStatement"
+[2026-02-01 12:49:06.186 +02:00 INF] [] Registered 1 PDF template(s)
+[2026-02-01 12:49:06.192 +02:00 INF] [] Document storage directory: /Users/fiskani/Documents/Interview/Capitec/DocumentService/Presentation/Document.Api/wwwroot/documents
+[2026-02-01 12:49:06.318 +02:00 INF] [] Document Service starting up...
+[2026-02-01 12:49:06.411 +02:00 INF] [] Initializing UI Database
+[2026-02-01 12:49:06.965 +02:00 INF] [] Saving healthchecks configuration to database
+[2026-02-01 12:49:07.519 +02:00 ERR] [] GetHealthReport threw an exception when trying to get report from /health configured with name Document Service.
+System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.ThrowHelper.ThrowNoElementsException()
+   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at HealthChecks.UI.Core.ServerAddressesService.AbsoluteUriFromRelative(String relativeUrl) in /_/src/HealthChecks.UI/Core/ServerAddressesService.cs:line 22
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetEndpointUri(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 172
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetHealthReportAsync(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 118
+[2026-02-01 12:49:08.756 +02:00 INF] [17214d1d-1785-4469-86b4-6cdea7d21138] HTTP POST /api/documents/generate started
+[2026-02-01 12:49:08.771 +02:00 WRN] [17214d1d-1785-4469-86b4-6cdea7d21138] Failed to determine the https port for redirect.
+[2026-02-01 12:49:09.169 +02:00 INF] [17214d1d-1785-4469-86b4-6cdea7d21138] HTTP POST /api/documents/generate responded 400 in 415.3900 ms
+[2026-02-01 12:49:49.019 +02:00 ERR] [] GetHealthReport threw an exception when trying to get report from /health configured with name Document Service.
+System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.ThrowHelper.ThrowNoElementsException()
+   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at HealthChecks.UI.Core.ServerAddressesService.AbsoluteUriFromRelative(String relativeUrl) in /_/src/HealthChecks.UI/Core/ServerAddressesService.cs:line 22
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetEndpointUri(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 172
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetHealthReportAsync(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 118
+[2026-02-01 12:49:50.393 +02:00 INF] [] Notification is sent on same window time.
+[2026-02-01 12:50:29.986 +02:00 INF] [] Starting application...
+[2026-02-01 12:50:33.380 +02:00 INF] [] Database initialized
+[2026-02-01 12:50:33.532 +02:00 INF] [] Registered PDF template for "TransactionStatement"
+[2026-02-01 12:50:33.542 +02:00 INF] [] Registered 1 PDF template(s)
+[2026-02-01 12:50:33.548 +02:00 INF] [] Document storage directory: /Users/fiskani/Documents/Interview/Capitec/DocumentService/Presentation/Document.Api/wwwroot/documents
+[2026-02-01 12:50:33.591 +02:00 INF] [] Document Service starting up...
+[2026-02-01 12:50:33.636 +02:00 INF] [] Initializing UI Database
+[2026-02-01 12:50:34.183 +02:00 INF] [] Saving healthchecks configuration to database
+[2026-02-01 12:50:36.964 +02:00 ERR] [] GetHealthReport threw an exception when trying to get report from /health configured with name Document Service.
+System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.ThrowHelper.ThrowNoElementsException()
+   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at HealthChecks.UI.Core.ServerAddressesService.AbsoluteUriFromRelative(String relativeUrl) in /_/src/HealthChecks.UI/Core/ServerAddressesService.cs:line 22
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetEndpointUri(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 172
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetHealthReportAsync(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 118
+[2026-02-01 12:50:39.552 +02:00 INF] [1dfd199c-c25a-4b89-9b1b-4da29f93ae38] HTTP POST /api/documents/generate started
+[2026-02-01 12:50:39.569 +02:00 WRN] [1dfd199c-c25a-4b89-9b1b-4da29f93ae38] Failed to determine the https port for redirect.
+[2026-02-01 12:50:39.874 +02:00 INF] [1dfd199c-c25a-4b89-9b1b-4da29f93ae38] HTTP POST /api/documents/generate responded 400 in 323.3206 ms
+[2026-02-01 12:50:59.856 +02:00 INF] [] Starting application...
+[2026-02-01 12:51:01.717 +02:00 INF] [] Database initialized
+[2026-02-01 12:51:01.762 +02:00 INF] [] Registered PDF template for "TransactionStatement"
+[2026-02-01 12:51:01.769 +02:00 INF] [] Registered 1 PDF template(s)
+[2026-02-01 12:51:01.775 +02:00 INF] [] Document storage directory: /Users/fiskani/Documents/Interview/Capitec/DocumentService/Presentation/Document.Api/wwwroot/documents
+[2026-02-01 12:51:01.811 +02:00 INF] [] Document Service starting up...
+[2026-02-01 12:51:01.852 +02:00 INF] [] Initializing UI Database
+[2026-02-01 12:51:02.415 +02:00 INF] [] Saving healthchecks configuration to database
+[2026-02-01 12:51:02.811 +02:00 ERR] [] GetHealthReport threw an exception when trying to get report from /health configured with name Document Service.
+System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.ThrowHelper.ThrowNoElementsException()
+   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at HealthChecks.UI.Core.ServerAddressesService.AbsoluteUriFromRelative(String relativeUrl) in /_/src/HealthChecks.UI/Core/ServerAddressesService.cs:line 22
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetEndpointUri(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 172
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetHealthReportAsync(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 118
+[2026-02-01 12:51:03.709 +02:00 INF] [82073e65-bba8-4ccd-b936-4747ad2c67d1] HTTP POST /api/documents/generate started
+[2026-02-01 12:51:03.718 +02:00 WRN] [82073e65-bba8-4ccd-b936-4747ad2c67d1] Failed to determine the https port for redirect.
+[2026-02-01 12:51:03.862 +02:00 INF] [82073e65-bba8-4ccd-b936-4747ad2c67d1] HTTP POST /api/documents/generate responded 400 in 154.6132 ms
+[2026-02-01 12:51:45.919 +02:00 INF] [] Starting application...
+[2026-02-01 12:51:48.206 +02:00 INF] [] Database initialized
+[2026-02-01 12:51:48.253 +02:00 INF] [] Registered PDF template for "TransactionStatement"
+[2026-02-01 12:51:48.262 +02:00 INF] [] Registered 1 PDF template(s)
+[2026-02-01 12:51:48.268 +02:00 INF] [] Document storage directory: /Users/fiskani/Documents/Interview/Capitec/DocumentService/Presentation/Document.Api/wwwroot/documents
+[2026-02-01 12:51:48.363 +02:00 INF] [] Document Service starting up...
+[2026-02-01 12:51:48.432 +02:00 INF] [] Initializing UI Database
+[2026-02-01 12:51:48.985 +02:00 INF] [] Saving healthchecks configuration to database
+[2026-02-01 12:51:49.522 +02:00 ERR] [] GetHealthReport threw an exception when trying to get report from /health configured with name Document Service.
+System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.ThrowHelper.ThrowNoElementsException()
+   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at HealthChecks.UI.Core.ServerAddressesService.AbsoluteUriFromRelative(String relativeUrl) in /_/src/HealthChecks.UI/Core/ServerAddressesService.cs:line 22
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetEndpointUri(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 172
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetHealthReportAsync(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 118
+[2026-02-01 12:51:55.114 +02:00 INF] [42d21361-ad63-4c90-8763-a387910af97e] HTTP GET /api/documents/447e5fbf-1e0e-4d7d-9f75-db6c1424f2fb/download started
+[2026-02-01 12:51:55.130 +02:00 WRN] [42d21361-ad63-4c90-8763-a387910af97e] Failed to determine the https port for redirect.
+[2026-02-01 12:51:55.163 +02:00 ERR] [42d21361-ad63-4c90-8763-a387910af97e] An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Http.BadHttpRequestException: Required parameter "string token" was not provided from query string.
+   at lambda_method385(Closure, Object, HttpContext)
+   at Asp.Versioning.Routing.ReportApiVersionsDecorator.<>c__DisplayClass4_0.<op_Implicit>b__0(HttpContext context)
+   at Microsoft.AspNetCore.OutputCaching.OutputCacheMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.Invoke(HttpContext context)
+[2026-02-01 12:51:55.170 +02:00 ERR] [42d21361-ad63-4c90-8763-a387910af97e] [42d21361-ad63-4c90-8763-a387910af97e] Server error - INTERNAL_ERROR: Required parameter "string token" was not provided from query string.
+Microsoft.AspNetCore.Http.BadHttpRequestException: Required parameter "string token" was not provided from query string.
+   at lambda_method385(Closure, Object, HttpContext)
+   at Asp.Versioning.Routing.ReportApiVersionsDecorator.<>c__DisplayClass4_0.<op_Implicit>b__0(HttpContext context)
+   at Microsoft.AspNetCore.OutputCaching.OutputCacheMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.Invoke(HttpContext context)
+[2026-02-01 12:51:55.284 +02:00 INF] [42d21361-ad63-4c90-8763-a387910af97e] HTTP GET /api/documents/447e5fbf-1e0e-4d7d-9f75-db6c1424f2fb/download responded 500 in 176.9824 ms
+[2026-02-01 12:52:41.538 +02:00 INF] [] Starting application...
+[2026-02-01 12:52:44.592 +02:00 INF] [] Database initialized
+[2026-02-01 12:52:44.634 +02:00 INF] [] Registered PDF template for "TransactionStatement"
+[2026-02-01 12:52:44.652 +02:00 INF] [] Registered 1 PDF template(s)
+[2026-02-01 12:52:44.659 +02:00 INF] [] Document storage directory: /Users/fiskani/Documents/Interview/Capitec/DocumentService/Presentation/Document.Api/wwwroot/documents
+[2026-02-01 12:52:44.760 +02:00 INF] [] Document Service starting up...
+[2026-02-01 12:52:44.853 +02:00 INF] [] Initializing UI Database
+[2026-02-01 12:52:45.403 +02:00 INF] [] Saving healthchecks configuration to database
+[2026-02-01 12:52:46.304 +02:00 ERR] [] GetHealthReport threw an exception when trying to get report from /health configured with name Document Service.
+System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.ThrowHelper.ThrowNoElementsException()
+   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at HealthChecks.UI.Core.ServerAddressesService.AbsoluteUriFromRelative(String relativeUrl) in /_/src/HealthChecks.UI/Core/ServerAddressesService.cs:line 22
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetEndpointUri(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 172
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetHealthReportAsync(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 118
+[2026-02-01 12:52:47.320 +02:00 INF] [b735ef52-2d63-4224-a5a8-189dd21c4c42] HTTP GET /api/documents/72d3479d-8240-451f-892e-0381b1e08837/download started
+[2026-02-01 12:52:47.330 +02:00 WRN] [b735ef52-2d63-4224-a5a8-189dd21c4c42] Failed to determine the https port for redirect.
+[2026-02-01 12:52:47.346 +02:00 ERR] [b735ef52-2d63-4224-a5a8-189dd21c4c42] An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Http.BadHttpRequestException: Required parameter "string token" was not provided from query string.
+   at lambda_method385(Closure, Object, HttpContext)
+   at Asp.Versioning.Routing.ReportApiVersionsDecorator.<>c__DisplayClass4_0.<op_Implicit>b__0(HttpContext context)
+   at Microsoft.AspNetCore.OutputCaching.OutputCacheMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.Invoke(HttpContext context)
+[2026-02-01 12:52:47.350 +02:00 ERR] [b735ef52-2d63-4224-a5a8-189dd21c4c42] [b735ef52-2d63-4224-a5a8-189dd21c4c42] Server error - INTERNAL_ERROR: Required parameter "string token" was not provided from query string.
+Microsoft.AspNetCore.Http.BadHttpRequestException: Required parameter "string token" was not provided from query string.
+   at lambda_method385(Closure, Object, HttpContext)
+   at Asp.Versioning.Routing.ReportApiVersionsDecorator.<>c__DisplayClass4_0.<op_Implicit>b__0(HttpContext context)
+   at Microsoft.AspNetCore.OutputCaching.OutputCacheMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.Invoke(HttpContext context)
+[2026-02-01 12:52:47.429 +02:00 INF] [b735ef52-2d63-4224-a5a8-189dd21c4c42] HTTP GET /api/documents/72d3479d-8240-451f-892e-0381b1e08837/download responded 500 in 112.2598 ms
+[2026-02-01 12:53:46.167 +02:00 INF] [] Starting application...
+[2026-02-01 12:53:48.495 +02:00 INF] [] Database initialized
+[2026-02-01 12:53:48.554 +02:00 INF] [] Registered PDF template for "TransactionStatement"
+[2026-02-01 12:53:48.564 +02:00 INF] [] Registered 1 PDF template(s)
+[2026-02-01 12:53:48.570 +02:00 INF] [] Document storage directory: /Users/fiskani/Documents/Interview/Capitec/DocumentService/Presentation/Document.Api/wwwroot/documents
+[2026-02-01 12:53:48.656 +02:00 INF] [] Document Service starting up...
+[2026-02-01 12:53:48.741 +02:00 INF] [] Initializing UI Database
+[2026-02-01 12:53:49.297 +02:00 INF] [] Saving healthchecks configuration to database
+[2026-02-01 12:53:49.847 +02:00 ERR] [] GetHealthReport threw an exception when trying to get report from /health configured with name Document Service.
+System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.ThrowHelper.ThrowNoElementsException()
+   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at HealthChecks.UI.Core.ServerAddressesService.AbsoluteUriFromRelative(String relativeUrl) in /_/src/HealthChecks.UI/Core/ServerAddressesService.cs:line 22
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetEndpointUri(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 172
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetHealthReportAsync(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 118
+[2026-02-01 12:53:50.630 +02:00 INF] [f28dc460-2b83-4906-9602-ae9409ac325f] HTTP GET /api/documents/77b92a51-252d-4b03-b6ba-927ffbb037bb/download started
+[2026-02-01 12:53:50.646 +02:00 WRN] [f28dc460-2b83-4906-9602-ae9409ac325f] Failed to determine the https port for redirect.
+[2026-02-01 12:53:50.671 +02:00 ERR] [f28dc460-2b83-4906-9602-ae9409ac325f] An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Http.BadHttpRequestException: Required parameter "string token" was not provided from query string.
+   at lambda_method385(Closure, Object, HttpContext)
+   at Asp.Versioning.Routing.ReportApiVersionsDecorator.<>c__DisplayClass4_0.<op_Implicit>b__0(HttpContext context)
+   at Microsoft.AspNetCore.OutputCaching.OutputCacheMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.Invoke(HttpContext context)
+[2026-02-01 12:53:50.677 +02:00 ERR] [f28dc460-2b83-4906-9602-ae9409ac325f] [f28dc460-2b83-4906-9602-ae9409ac325f] Server error - INTERNAL_ERROR: Required parameter "string token" was not provided from query string.
+Microsoft.AspNetCore.Http.BadHttpRequestException: Required parameter "string token" was not provided from query string.
+   at lambda_method385(Closure, Object, HttpContext)
+   at Asp.Versioning.Routing.ReportApiVersionsDecorator.<>c__DisplayClass4_0.<op_Implicit>b__0(HttpContext context)
+   at Microsoft.AspNetCore.OutputCaching.OutputCacheMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.Invoke(HttpContext context)
+[2026-02-01 12:53:50.748 +02:00 INF] [f28dc460-2b83-4906-9602-ae9409ac325f] HTTP GET /api/documents/77b92a51-252d-4b03-b6ba-927ffbb037bb/download responded 500 in 119.7131 ms
+[2026-02-01 12:57:44.603 +02:00 ERR] [] GetHealthReport threw an exception when trying to get report from /health configured with name Document Service.
+System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.ThrowHelper.ThrowNoElementsException()
+   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at HealthChecks.UI.Core.ServerAddressesService.AbsoluteUriFromRelative(String relativeUrl) in /_/src/HealthChecks.UI/Core/ServerAddressesService.cs:line 22
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetEndpointUri(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 172
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetHealthReportAsync(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 118
+[2026-02-01 12:57:44.650 +02:00 INF] [] Notification is sent on same window time.
+[2026-02-01 12:58:41.216 +02:00 INF] [] Starting application...
+[2026-02-01 12:58:42.699 +02:00 INF] [] Database initialized
+[2026-02-01 12:58:42.757 +02:00 INF] [] Registered PDF template for "TransactionStatement"
+[2026-02-01 12:58:42.763 +02:00 INF] [] Registered 1 PDF template(s)
+[2026-02-01 12:58:42.768 +02:00 INF] [] Document storage directory: /Users/fiskani/Documents/Interview/Capitec/DocumentService/Presentation/Document.Api/wwwroot/documents
+[2026-02-01 12:58:42.808 +02:00 INF] [] Document Service starting up...
+[2026-02-01 12:58:42.845 +02:00 INF] [] Initializing UI Database
+[2026-02-01 12:58:43.309 +02:00 INF] [] Saving healthchecks configuration to database
+[2026-02-01 12:58:43.707 +02:00 ERR] [] GetHealthReport threw an exception when trying to get report from /health configured with name Document Service.
+System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.ThrowHelper.ThrowNoElementsException()
+   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at HealthChecks.UI.Core.ServerAddressesService.AbsoluteUriFromRelative(String relativeUrl) in /_/src/HealthChecks.UI/Core/ServerAddressesService.cs:line 22
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetEndpointUri(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 172
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetHealthReportAsync(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 118
+[2026-02-01 12:58:44.418 +02:00 INF] [fb8381ed-4c41-4f60-bade-313bea9c265d] HTTP GET /api/documents/238676ab-0cab-445e-9a9f-03e1241611d0/download started
+[2026-02-01 12:58:44.443 +02:00 WRN] [fb8381ed-4c41-4f60-bade-313bea9c265d] Failed to determine the https port for redirect.
+[2026-02-01 12:58:44.621 +02:00 INF] [fb8381ed-4c41-4f60-bade-313bea9c265d] HTTP GET /api/documents/238676ab-0cab-445e-9a9f-03e1241611d0/download responded 401 in 205.3830 ms
+[2026-02-01 12:58:52.639 +02:00 INF] [] Starting application...
+[2026-02-01 12:58:53.939 +02:00 INF] [] Database initialized
+[2026-02-01 12:58:53.964 +02:00 INF] [] Registered PDF template for "TransactionStatement"
+[2026-02-01 12:58:53.972 +02:00 INF] [] Registered 1 PDF template(s)
+[2026-02-01 12:58:53.979 +02:00 INF] [] Document storage directory: /Users/fiskani/Documents/Interview/Capitec/DocumentService/Presentation/Document.Api/wwwroot/documents
+[2026-02-01 12:58:54.015 +02:00 INF] [] Document Service starting up...
+[2026-02-01 12:58:54.061 +02:00 INF] [] Initializing UI Database
+[2026-02-01 12:58:54.830 +02:00 INF] [] Saving healthchecks configuration to database
+[2026-02-01 12:58:55.444 +02:00 ERR] [] GetHealthReport threw an exception when trying to get report from /health configured with name Document Service.
+System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.ThrowHelper.ThrowNoElementsException()
+   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at HealthChecks.UI.Core.ServerAddressesService.AbsoluteUriFromRelative(String relativeUrl) in /_/src/HealthChecks.UI/Core/ServerAddressesService.cs:line 22
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetEndpointUri(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 172
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetHealthReportAsync(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 118
+[2026-02-01 12:58:56.237 +02:00 INF] [ce441c43-8f01-49b5-b49f-a32f997e7326] HTTP GET /api/documents/24e0c6a3-412c-472e-bd43-a0e67ac08dcf/download started
+[2026-02-01 12:58:56.253 +02:00 WRN] [ce441c43-8f01-49b5-b49f-a32f997e7326] Failed to determine the https port for redirect.
+[2026-02-01 12:58:56.412 +02:00 INF] [ce441c43-8f01-49b5-b49f-a32f997e7326] HTTP GET /api/documents/24e0c6a3-412c-472e-bd43-a0e67ac08dcf/download responded 200 in 177.8354 ms
+[2026-02-01 12:58:56.536 +02:00 INF] [] Starting application...
+[2026-02-01 12:58:56.618 +02:00 INF] [] Database initialized
+[2026-02-01 12:58:56.619 +02:00 INF] [] Registered PDF template for "TransactionStatement"
+[2026-02-01 12:58:56.619 +02:00 INF] [] Registered 1 PDF template(s)
+[2026-02-01 12:58:56.620 +02:00 INF] [] Document storage directory: /Users/fiskani/Documents/Interview/Capitec/DocumentService/Presentation/Document.Api/wwwroot/documents
+[2026-02-01 12:58:56.628 +02:00 INF] [] Document Service starting up...
+[2026-02-01 12:58:56.639 +02:00 INF] [] Initializing UI Database
+[2026-02-01 12:58:56.767 +02:00 ERR] [] GetHealthReport threw an exception when trying to get report from /health configured with name Document Service.
+System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.ThrowHelper.ThrowNoElementsException()
+   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at HealthChecks.UI.Core.ServerAddressesService.AbsoluteUriFromRelative(String relativeUrl) in /_/src/HealthChecks.UI/Core/ServerAddressesService.cs:line 22
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetEndpointUri(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 172
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetHealthReportAsync(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 118
+[2026-02-01 12:58:56.781 +02:00 INF] [] Notification is sent on same window time.
+[2026-02-01 12:58:56.883 +02:00 INF] [7e553485-58be-4997-b83d-10089c5a49aa] HTTP POST /api/documents/generate started
+[2026-02-01 12:58:56.883 +02:00 WRN] [7e553485-58be-4997-b83d-10089c5a49aa] Failed to determine the https port for redirect.
+[2026-02-01 12:58:56.931 +02:00 INF] [7e553485-58be-4997-b83d-10089c5a49aa] HTTP POST /api/documents/generate responded 400 in 47.9502 ms
+[2026-02-01 12:58:57.007 +02:00 INF] [] Starting application...
+[2026-02-01 12:58:57.319 +02:00 INF] [] Database initialized
+[2026-02-01 12:58:57.319 +02:00 INF] [] Registered PDF template for "TransactionStatement"
+[2026-02-01 12:58:57.319 +02:00 INF] [] Registered 1 PDF template(s)
+[2026-02-01 12:58:57.320 +02:00 INF] [] Document storage directory: /Users/fiskani/Documents/Interview/Capitec/DocumentService/Presentation/Document.Api/wwwroot/documents
+[2026-02-01 12:58:57.321 +02:00 INF] [] Document Service starting up...
+[2026-02-01 12:58:57.322 +02:00 INF] [] Initializing UI Database
+[2026-02-01 12:58:57.331 +02:00 ERR] [] GetHealthReport threw an exception when trying to get report from /health configured with name Document Service.
+System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.ThrowHelper.ThrowNoElementsException()
+   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at HealthChecks.UI.Core.ServerAddressesService.AbsoluteUriFromRelative(String relativeUrl) in /_/src/HealthChecks.UI/Core/ServerAddressesService.cs:line 22
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetEndpointUri(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 172
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetHealthReportAsync(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 118
+[2026-02-01 12:58:57.332 +02:00 INF] [] Notification is sent on same window time.
+[2026-02-01 12:58:57.375 +02:00 INF] [d5ff393c-0803-4cfd-a7d1-504ab97053d7] HTTP POST /api/documents/generate started
+[2026-02-01 12:58:57.375 +02:00 WRN] [d5ff393c-0803-4cfd-a7d1-504ab97053d7] Failed to determine the https port for redirect.
+[2026-02-01 12:58:57.408 +02:00 INF] [d5ff393c-0803-4cfd-a7d1-504ab97053d7] HTTP POST /api/documents/generate responded 200 in 33.3667 ms
+[2026-02-01 12:58:57.538 +02:00 INF] [] Starting application...
+[2026-02-01 12:58:57.661 +02:00 INF] [] Database initialized
+[2026-02-01 12:58:57.661 +02:00 INF] [] Registered PDF template for "TransactionStatement"
+[2026-02-01 12:58:57.661 +02:00 INF] [] Registered 1 PDF template(s)
+[2026-02-01 12:58:57.662 +02:00 INF] [] Document storage directory: /Users/fiskani/Documents/Interview/Capitec/DocumentService/Presentation/Document.Api/wwwroot/documents
+[2026-02-01 12:58:57.663 +02:00 INF] [] Document Service starting up...
+[2026-02-01 12:58:57.664 +02:00 INF] [] Initializing UI Database
+[2026-02-01 12:58:57.684 +02:00 ERR] [] GetHealthReport threw an exception when trying to get report from /health configured with name Document Service.
+System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.ThrowHelper.ThrowNoElementsException()
+   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at HealthChecks.UI.Core.ServerAddressesService.AbsoluteUriFromRelative(String relativeUrl) in /_/src/HealthChecks.UI/Core/ServerAddressesService.cs:line 22
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetEndpointUri(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 172
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetHealthReportAsync(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 118
+[2026-02-01 12:58:57.685 +02:00 INF] [] Notification is sent on same window time.
+[2026-02-01 12:58:57.700 +02:00 INF] [43778441-25c4-4f55-b69d-cbeb7e8284b5] HTTP GET /api/documents/a9454c92-22c7-4d3e-8e8a-4e21f70f6be9/download started
+[2026-02-01 12:58:57.700 +02:00 WRN] [43778441-25c4-4f55-b69d-cbeb7e8284b5] Failed to determine the https port for redirect.
+[2026-02-01 12:58:57.719 +02:00 INF] [43778441-25c4-4f55-b69d-cbeb7e8284b5] HTTP GET /api/documents/a9454c92-22c7-4d3e-8e8a-4e21f70f6be9/download responded 401 in 18.8681 ms
+[2026-02-01 12:59:31.297 +02:00 INF] [] Starting application...
+[2026-02-01 12:59:32.981 +02:00 INF] [] Database initialized
+[2026-02-01 12:59:33.023 +02:00 INF] [] Registered PDF template for "TransactionStatement"
+[2026-02-01 12:59:33.067 +02:00 INF] [] Registered 1 PDF template(s)
+[2026-02-01 12:59:33.074 +02:00 INF] [] Document storage directory: /Users/fiskani/Documents/Interview/Capitec/DocumentService/Presentation/Document.Api/wwwroot/documents
+[2026-02-01 12:59:33.133 +02:00 INF] [] Document Service starting up...
+[2026-02-01 12:59:33.188 +02:00 INF] [] Initializing UI Database
+[2026-02-01 12:59:33.418 +02:00 INF] [] Saving healthchecks configuration to database
+[2026-02-01 12:59:33.618 +02:00 ERR] [] GetHealthReport threw an exception when trying to get report from /health configured with name Document Service.
+System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.ThrowHelper.ThrowNoElementsException()
+   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at HealthChecks.UI.Core.ServerAddressesService.AbsoluteUriFromRelative(String relativeUrl) in /_/src/HealthChecks.UI/Core/ServerAddressesService.cs:line 22
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetEndpointUri(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 172
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetHealthReportAsync(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 118
+[2026-02-01 12:59:34.110 +02:00 INF] [04f1be5c-c4a1-42f9-81f1-cd88d2e6bbef] HTTP GET /api/documents/3326dba8-50fa-491f-b278-cc58149e7dab/download started
+[2026-02-01 12:59:34.119 +02:00 WRN] [04f1be5c-c4a1-42f9-81f1-cd88d2e6bbef] Failed to determine the https port for redirect.
+[2026-02-01 12:59:34.153 +02:00 INF] [04f1be5c-c4a1-42f9-81f1-cd88d2e6bbef] HTTP GET /api/documents/3326dba8-50fa-491f-b278-cc58149e7dab/download responded 200 in 44.2502 ms
+[2026-02-01 12:59:34.233 +02:00 INF] [] Starting application...
+[2026-02-01 12:59:34.309 +02:00 INF] [] Database initialized
+[2026-02-01 12:59:34.310 +02:00 INF] [] Registered PDF template for "TransactionStatement"
+[2026-02-01 12:59:34.311 +02:00 INF] [] Registered 1 PDF template(s)
+[2026-02-01 12:59:34.311 +02:00 INF] [] Document storage directory: /Users/fiskani/Documents/Interview/Capitec/DocumentService/Presentation/Document.Api/wwwroot/documents
+[2026-02-01 12:59:34.319 +02:00 INF] [] Document Service starting up...
+[2026-02-01 12:59:34.354 +02:00 INF] [] Initializing UI Database
+[2026-02-01 12:59:34.389 +02:00 ERR] [] GetHealthReport threw an exception when trying to get report from /health configured with name Document Service.
+System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.ThrowHelper.ThrowNoElementsException()
+   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at HealthChecks.UI.Core.ServerAddressesService.AbsoluteUriFromRelative(String relativeUrl) in /_/src/HealthChecks.UI/Core/ServerAddressesService.cs:line 22
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetEndpointUri(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 172
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetHealthReportAsync(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 118
+[2026-02-01 12:59:34.400 +02:00 INF] [] Notification is sent on same window time.
+[2026-02-01 12:59:34.462 +02:00 INF] [fe370d28-454b-44ea-a09f-26dabccfcd47] HTTP POST /api/documents/generate started
+[2026-02-01 12:59:34.463 +02:00 WRN] [fe370d28-454b-44ea-a09f-26dabccfcd47] Failed to determine the https port for redirect.
+[2026-02-01 12:59:34.506 +02:00 INF] [fe370d28-454b-44ea-a09f-26dabccfcd47] HTTP POST /api/documents/generate responded 400 in 43.7875 ms
+[2026-02-01 12:59:34.563 +02:00 INF] [] Starting application...
+[2026-02-01 12:59:35.503 +02:00 INF] [] Database initialized
+[2026-02-01 12:59:35.504 +02:00 INF] [] Registered PDF template for "TransactionStatement"
+[2026-02-01 12:59:35.504 +02:00 INF] [] Registered 1 PDF template(s)
+[2026-02-01 12:59:35.505 +02:00 INF] [] Document storage directory: /Users/fiskani/Documents/Interview/Capitec/DocumentService/Presentation/Document.Api/wwwroot/documents
+[2026-02-01 12:59:35.506 +02:00 INF] [] Document Service starting up...
+[2026-02-01 12:59:35.512 +02:00 INF] [] Initializing UI Database
+[2026-02-01 12:59:35.522 +02:00 ERR] [] GetHealthReport threw an exception when trying to get report from /health configured with name Document Service.
+System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.ThrowHelper.ThrowNoElementsException()
+   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at HealthChecks.UI.Core.ServerAddressesService.AbsoluteUriFromRelative(String relativeUrl) in /_/src/HealthChecks.UI/Core/ServerAddressesService.cs:line 22
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetEndpointUri(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 172
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetHealthReportAsync(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 118
+[2026-02-01 12:59:35.528 +02:00 INF] [] Notification is sent on same window time.
+[2026-02-01 12:59:35.634 +02:00 INF] [ca3cfd2a-c17b-48c6-b7e4-0295d9a9d92f] HTTP POST /api/documents/generate started
+[2026-02-01 12:59:35.634 +02:00 WRN] [ca3cfd2a-c17b-48c6-b7e4-0295d9a9d92f] Failed to determine the https port for redirect.
+[2026-02-01 12:59:36.004 +02:00 INF] [ca3cfd2a-c17b-48c6-b7e4-0295d9a9d92f] HTTP POST /api/documents/generate responded 200 in 370.2331 ms
+[2026-02-01 12:59:36.337 +02:00 INF] [] Starting application...
+[2026-02-01 12:59:36.705 +02:00 INF] [] Database initialized
+[2026-02-01 12:59:36.705 +02:00 INF] [] Registered PDF template for "TransactionStatement"
+[2026-02-01 12:59:36.706 +02:00 INF] [] Registered 1 PDF template(s)
+[2026-02-01 12:59:36.710 +02:00 INF] [] Document storage directory: /Users/fiskani/Documents/Interview/Capitec/DocumentService/Presentation/Document.Api/wwwroot/documents
+[2026-02-01 12:59:36.739 +02:00 INF] [] Document Service starting up...
+[2026-02-01 12:59:36.746 +02:00 INF] [] Initializing UI Database
+[2026-02-01 12:59:36.795 +02:00 ERR] [] GetHealthReport threw an exception when trying to get report from /health configured with name Document Service.
+System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.ThrowHelper.ThrowNoElementsException()
+   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at HealthChecks.UI.Core.ServerAddressesService.AbsoluteUriFromRelative(String relativeUrl) in /_/src/HealthChecks.UI/Core/ServerAddressesService.cs:line 22
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetEndpointUri(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 172
+   at HealthChecks.UI.Core.HostedService.HealthCheckReportCollector.GetHealthReportAsync(HealthCheckConfiguration configuration) in /_/src/HealthChecks.UI/Core/HostedService/HealthCheckReportCollector.cs:line 118
+[2026-02-01 12:59:36.807 +02:00 INF] [] Notification is sent on same window time.
+[2026-02-01 12:59:36.963 +02:00 INF] [de80e322-bcf6-4d42-83f1-62aeb67c4e66] HTTP GET /api/documents/f886f28c-dcb2-45f6-a351-aedb1dd3038c/download started
+[2026-02-01 12:59:36.963 +02:00 WRN] [de80e322-bcf6-4d42-83f1-62aeb67c4e66] Failed to determine the https port for redirect.
+[2026-02-01 12:59:37.014 +02:00 INF] [de80e322-bcf6-4d42-83f1-62aeb67c4e66] HTTP GET /api/documents/f886f28c-dcb2-45f6-a351-aedb1dd3038c/download responded 401 in 51.0970 ms

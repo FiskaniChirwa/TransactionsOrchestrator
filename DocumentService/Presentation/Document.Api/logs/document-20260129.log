@@ -1,0 +1,14 @@
+[2026-01-29 06:44:30.107 +02:00 INF] [] Application is shutting down...
+[2026-01-29 21:03:17.691 +02:00 INF] [] Starting application...
+[2026-01-29 21:03:20.734 +02:00 INF] [] Database initialized
+[2026-01-29 21:03:20.974 +02:00 INF] [] Registered PDF template for "TransactionStatement"
+[2026-01-29 21:03:21.002 +02:00 INF] [] Registered 1 PDF template(s)
+[2026-01-29 21:03:21.011 +02:00 INF] [] Document storage directory: /Users/fiskani/Documents/Interview/Capitec/DocumentService/Presentation/Document.Api/wwwroot/documents
+[2026-01-29 21:03:21.373 +02:00 INF] [] Document Service starting up...
+[2026-01-29 21:03:21.592 +02:00 INF] [] Now listening on: http://localhost:5085
+[2026-01-29 21:03:21.593 +02:00 INF] [] Application started. Press Ctrl+C to shut down.
+[2026-01-29 21:03:21.593 +02:00 INF] [] Hosting environment: Development
+[2026-01-29 21:03:21.594 +02:00 INF] [] Content root path: /Users/fiskani/Documents/Interview/Capitec/DocumentService/Presentation/Document.Api
+[2026-01-29 21:04:43.530 +02:00 INF] [a370fb5c-adbc-4cef-a48c-141d3a4f8c30] HTTP GET / started
+[2026-01-29 21:04:43.550 +02:00 WRN] [a370fb5c-adbc-4cef-a48c-141d3a4f8c30] Failed to determine the https port for redirect.
+[2026-01-29 21:04:43.551 +02:00 INF] [a370fb5c-adbc-4cef-a48c-141d3a4f8c30] HTTP GET / responded 404 in 23.2840 ms

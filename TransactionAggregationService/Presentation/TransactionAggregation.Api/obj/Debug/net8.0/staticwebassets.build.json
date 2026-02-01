@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UfoS2PS/ZvQ9/69zUWvR6uQkQQ/wKuHvhS8ZiCN2P4s=",
+  "Source": "TransactionAggregation.Api",
+  "BasePath": "_content/TransactionAggregation.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

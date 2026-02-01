@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockProvider.CustomerService", "MockProvider.CustomerService\MockProvider.CustomerService.csproj", "{B736D9B4-F169-4058-B318-84CAB0B8B339}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockProvider.TransactionService", "MockProvider.TransactionService\MockProvider.TransactionService.csproj", "{79C5577D-825A-4824-8E76-AF8E1CFEB2C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockProvider.AccountService", "MockProvider.AccountService\MockProvider.AccountService.csproj", "{4D7F49C6-0F56-4401-B994-65C5CFA04265}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B736D9B4-F169-4058-B318-84CAB0B8B339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B736D9B4-F169-4058-B318-84CAB0B8B339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B736D9B4-F169-4058-B318-84CAB0B8B339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B736D9B4-F169-4058-B318-84CAB0B8B339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79C5577D-825A-4824-8E76-AF8E1CFEB2C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79C5577D-825A-4824-8E76-AF8E1CFEB2C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79C5577D-825A-4824-8E76-AF8E1CFEB2C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79C5577D-825A-4824-8E76-AF8E1CFEB2C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D7F49C6-0F56-4401-B994-65C5CFA04265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D7F49C6-0F56-4401-B994-65C5CFA04265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D7F49C6-0F56-4401-B994-65C5CFA04265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D7F49C6-0F56-4401-B994-65C5CFA04265}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

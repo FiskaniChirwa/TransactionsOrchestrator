@@ -1,0 +1,15 @@
+/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Core/bin/Debug/net8.0/Document.Core.deps.json
+/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Core/bin/Debug/net8.0/Document.Core.dll
+/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Core/bin/Debug/net8.0/Document.Core.pdb
+/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Core/bin/Debug/net8.0/Document.Models.dll
+/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Core/bin/Debug/net8.0/Document.Models.pdb
+/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Core/obj/Debug/net8.0/Document.Core.csproj.AssemblyReference.cache
+/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Core/obj/Debug/net8.0/Document.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Core/obj/Debug/net8.0/Document.Core.AssemblyInfoInputs.cache
+/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Core/obj/Debug/net8.0/Document.Core.AssemblyInfo.cs
+/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Core/obj/Debug/net8.0/Document.Core.csproj.CoreCompileInputs.cache
+/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Core/obj/Debug/net8.0/Document.C4C6F6EE.Up2Date
+/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Core/obj/Debug/net8.0/Document.Core.dll
+/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Core/obj/Debug/net8.0/refint/Document.Core.dll
+/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Core/obj/Debug/net8.0/Document.Core.pdb
+/Users/fiskani/Documents/Interview/Capitec/DocumentService/Core/Document.Core/obj/Debug/net8.0/ref/Document.Core.dll

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "7OI4a442L6c=",
+  "success": true,
+  "projectFilePath": "/Users/fiskani/Documents/Interview/Capitec/FraudEngineService/Core/FraudEngine.Core/FraudEngine.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/fiskani/.nuget/packages/microsoft.extensions.dependencyinjection/10.0.2/microsoft.extensions.dependencyinjection.10.0.2.nupkg.sha512",
+    "/Users/fiskani/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.2/microsoft.extensions.dependencyinjection.abstractions.10.0.2.nupkg.sha512",
+    "/Users/fiskani/.nuget/packages/microsoft.extensions.logging/10.0.2/microsoft.extensions.logging.10.0.2.nupkg.sha512",
+    "/Users/fiskani/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.2/microsoft.extensions.logging.abstractions.10.0.2.nupkg.sha512",
+    "/Users/fiskani/.nuget/packages/microsoft.extensions.options/10.0.2/microsoft.extensions.options.10.0.2.nupkg.sha512",
+    "/Users/fiskani/.nuget/packages/microsoft.extensions.primitives/10.0.2/microsoft.extensions.primitives.10.0.2.nupkg.sha512",
+    "/Users/fiskani/.nuget/packages/system.diagnostics.diagnosticsource/10.0.2/system.diagnostics.diagnosticsource.10.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
