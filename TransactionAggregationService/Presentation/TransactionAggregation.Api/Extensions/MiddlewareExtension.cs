@@ -10,6 +10,14 @@ public static class MiddlewareExtensions
         // TODO: Fix    
         // services.AddExceptionHandler<GlobalExceptionHandler>();
         services.AddProblemDetails();
+
+        services.AddHttpContextAccessor();
+        services.AddTransient<CorrelationIdDelegatingHandler>();
+
+        services.ConfigureHttpClientDefaults(http =>
+        {
+            http.AddHttpMessageHandler<CorrelationIdDelegatingHandler>();
+        });
         return services;
     }
 
