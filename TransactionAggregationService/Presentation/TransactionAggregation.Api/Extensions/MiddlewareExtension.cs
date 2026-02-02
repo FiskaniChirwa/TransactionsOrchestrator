@@ -1,7 +1,7 @@
-namespace TransactionAggregation.Api.Extensions;
-
 using TransactionAggregation.Api.Middleware;
+using TransactionAggregation.Api.Handlers;
 
+namespace TransactionAggregation.Api.Extensions;
 
 public static class MiddlewareExtensions
 {

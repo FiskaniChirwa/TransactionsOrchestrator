@@ -194,7 +194,7 @@ public class TransactionAggregationService : ITransactionAggregationService
                 CustomerName = aggregatedData.CustomerName,
                 TotalDebits = totalDebits,
                 TotalCredits = totalCredits,
-                NetAmount = totalCredits - totalDebits,
+                NetAmount = totalCredits + totalDebits, // Uses negative for debits
                 CategorySummaries = categorySummaries,
                 DateRange = aggregatedData.DateRange
             };
